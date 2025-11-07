@@ -1,0 +1,14 @@
+artifact_uri: file:////app/mlruns/325605362493771688/fbaa0e46516d40af8f2f4e9d661fc862/artifacts
+end_time: 1762525110390
+entry_point_name: ''
+experiment_id: '325605362493771688'
+lifecycle_stage: active
+run_id: fbaa0e46516d40af8f2f4e9d661fc862
+run_name: bemused-stoat-173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762525099357
+status: 3
+tags: []
+user_id: tranl

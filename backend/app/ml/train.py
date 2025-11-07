@@ -65,7 +65,7 @@ X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.2, shuffle
 
 mlflow.set_experiment("attp_facility_rate_prediction")
 with mlflow.start_run():
-  model = RandomForestRegressor(n_estimators=200, random_state=42, n_jobs=-1)
+  model = RandomForestRegressor(n_estimators=100, random_state=42, n_jobs=-1)
   model.fit(X_train, Y_train)
 
   pred = model.predict(X_test)
@@ -73,7 +73,7 @@ with mlflow.start_run():
   r2 = r2_score(Y_test, pred)
   mae = mean_absolute_error(Y_test, pred)
 
-  mlflow.log_params({"model_type": "RandomForestRegressor", "n_estimators": 200, "lags": str(lag_steps)})
+  mlflow.log_params({"model_type": "RandomForestRegressor", "n_estimators": 100, "lags": str(lag_steps)})
   mlflow.log_metric("r2", r2)
   mlflow.log_metric("mae", mae)
 

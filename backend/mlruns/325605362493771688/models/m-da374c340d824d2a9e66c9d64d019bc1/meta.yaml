@@ -1,4 +1,4 @@
-artifact_location: file:///C:/Users/tranl/OneDrive/Desktop/PMNM/backend/mlruns/325605362493771688/models/m-da374c340d824d2a9e66c9d64d019bc1/artifacts
+artifact_location: file:////app/mlruns/325605362493771688/models/m-da374c340d824d2a9e66c9d64d019bc1/artifacts
 creation_timestamp: 1762442074887
 experiment_id: '325605362493771688'
 last_updated_timestamp: 1762442081797

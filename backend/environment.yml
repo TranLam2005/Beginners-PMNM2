@@ -1,16 +1,33 @@
-name: pmnm
+name: pmnn
 channels:
   - conda-forge
   - defaults
+
 dependencies:
   - python=3.11
   - pip
+
+  # Core backend
   - fastapi
   - uvicorn
   - pydantic
   - requests
-  - numpy
-  - pandas
   - sqlalchemy
   - psycopg2
+  - numpy
+  - pandas
   - minio
+
+  # Optional: data handling, ML, and utils
+  - scikit-learn
+  - python-dotenv
+  - openpyxl
+
+  # Cài qua pip nếu không có sẵn bản conda
+  - pip:
+      - python-multipart          # Để xử lý upload file trong FastAPI
+      - alembic                   # Migration cho SQLAlchemy
+      - mlflow                    # Nếu bạn log model/thực nghiệm
+      - prefect                   # Nếu bạn có ETL workflow
+      - loguru                    # Log đẹp và tiện hơn
+      - tqdm                      # Progress bar

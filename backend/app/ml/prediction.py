@@ -2,6 +2,8 @@ import warnings, mlflow, pandas as pd
 from app.services.features_service import get_all_features_by_city
 from sqlalchemy.orm import Session
 import numpy as np
+import os
+from mlflow import MlflowClient
 
 FEATURE_COLUMNS = [
     'attp_cert_issued_count',
@@ -14,15 +16,59 @@ FEATURE_COLUMNS = [
 
 LAG_STEPS = [1, 2, 3]
 
-MODEL_NAME="attp_facility_rate_prediction"
-MODEL_URI=f"models:/{MODEL_NAME}/1"
+MODEL_NAME   = os.getenv("MODEL_NAME", "attp_facility_rate_prediction")
+MODEL_STAGE  = os.getenv("MODEL_STAGE")        # ví dụ: "Production" | "Staging" | None
+MODEL_VER    = os.getenv("MODEL_VERSION")      # ví dụ: "3" | None
+TRACKING_URI = os.getenv("MLFLOW_TRACKING_URI", "file:///app/mlruns")  # cho container
+mlflow.set_tracking_uri(TRACKING_URI)
+
+def resolve_model_uri():
+    """
+    Ưu tiên theo thứ tự:
+    1) MODEL_VERSION -> models:/name/<ver>
+    2) MODEL_STAGE   -> models:/name@<stage>
+    3) Không set gì  -> chọn version lớn nhất (latest) của model
+    """
+    client = MlflowClient()
+
+    # Nếu có version cụ thể
+    if MODEL_VER:
+        return f"models:/{MODEL_NAME}/{MODEL_VER}"
+
+    # Nếu có stage (Production/Staging)
+    if MODEL_STAGE:
+        return f"models:/{MODEL_NAME}@{MODEL_STAGE}"
+
+    # Không có cả hai -> lấy version mới nhất đang có
+    vers = client.search_model_versions(f"name='{MODEL_NAME}'")
+    if not vers:
+        raise RuntimeError(f"Model '{MODEL_NAME}' chưa được đăng ký trong registry tại {TRACKING_URI}")
+    # sort theo version số
+    latest = max(vers, key=lambda v: int(v.version))
+    return f"models:/{latest.name}/{latest.version}"
+
+def load_model():
+    uri = resolve_model_uri()
+    print(f"[MLflow] tracking_uri = {mlflow.get_tracking_uri()}")
+    print(f"[MLflow] loading model: {uri}")
+    # Có thể bỏ filterwarnings nếu bạn muốn thấy cảnh báo mismatch để xử lý sau
+    warnings.filterwarnings("ignore")
+    return mlflow.pyfunc.load_model(uri)
+
+try:
+    MODEL = load_model()
+except Exception as e:
+    MODEL = None
+    # Gợi ý debug nhanh
+    print("[MLflow] Registered models:", [m.name for m in mlflow.search_registered_models()])
+    raise RuntimeError(f"Failed to load model: {e}") from e
 
 try:
   warnings.filterwarnings("ignore")
-  MODEL = mlflow.pyfunc.load_model(model_uri=MODEL_URI)
+  MODEL = load_model()
 except Exception as e:
   MODEL = None
-  raise RuntimeError(f"Failed to load model from {MODEL_URI}: {e}")
+  raise RuntimeError(f"Failed to load model from : {e}")
 
 
 def prepare_input_features(city: str, db_connection: Session) -> pd.DataFrame:

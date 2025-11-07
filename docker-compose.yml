@@ -1,0 +1,60 @@
+services:
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-postgres}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-123456789}
+      POSTGRES_DB: ${POSTGRES_DB:-postgres}
+    ports: ["${POSTGRES_PORT:-5432}:5432"]
+    volumes:
+      - ./db/init.sql:/docker-entrypoint-initdb.d/01_init.sql:ro
+      - db_data:/var/lib/postgresql/data
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    depends_on: [db, worker]
+    volumes:
+      - ./backend/mlruns:/app/mlruns:rw
+    environment:
+      DATABASE_URL: postgresql+psycopg://${POSTGRES_USER:-postgres}:${POSTGRES_PASSWORD:-postgres}@db:5432/${POSTGRES_DB:-appdb}
+      CELERY_BROKER_URL: amqp://guest:guest@host.docker.internal:5672//
+      CELERY_RESULT_BACKEND: rpc://
+      CORS_ORIGINS: ${CORS_ORIGINS:-http://localhost:3000}
+      MLFLOW_TRACKING_URI: file:///app/mlruns
+      MODEL_NAME: attp_facility_rate_prediction
+    command: >
+      uvicorn app.main:app --host 0.0.0.0 --port 8000
+    ports: ["${BACKEND_PORT:-8000}:8000"]
+
+  worker:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    depends_on: [db]
+    environment:
+      DATABASE_URL: postgresql+psycopg://${POSTGRES_USER:-postgres}:${POSTGRES_PASSWORD:-postgres}@db:5432/${POSTGRES_DB:-appdb}
+      CELERY_BROKER_URL: amqp://guest:guest@host.docker.internal:5672//
+      CELERY_RESULT_BACKEND: rpc://
+    # Prod không cần watchmedo, dev sẽ override
+    command: >
+        python -m celery -A app.core.celery_app.celery worker -l info --pool=solo
+
+  frontend:
+    build:
+      context: ./frontend/pmnm   # dự án Next nằm trong folder này
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    depends_on: [backend]
+    environment:
+      NODE_ENV: production
+      NEXT_PUBLIC_API_BASE: ${NEXT_PUBLIC_API_BASE:-http://localhost:8000}
+      PORT: ${FRONTEND_PORT:-3000}
+    ports: ["${FRONTEND_PORT:-3000}:3000"]
+
+volumes:
+  db_data:

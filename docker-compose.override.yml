@@ -1,0 +1,23 @@
+services:
+  backend:
+    command: >
+      uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
+    volumes:
+      - ./backend/app:/app/app
+
+  worker:
+    command: >
+      watchmedo auto-restart --directory=./app --pattern="*.py" --recursive --
+      celery -A app.core.celery_app.celery worker -l info --pool=solo
+    volumes:
+      - ./backend/app:/app/app
+
+  frontend:
+    command: sh -lc "corepack enable && corepack prepare pnpm@9.12.0 --activate && pnpm install && pnpm dev"
+    environment:
+      NODE_ENV: development
+      NEXT_PUBLIC_API_BASE: http://localhost:8000
+      PORT: 3000
+    volumes:
+      - ./frontend/pmnm:/app
+      - /app/node_modules
