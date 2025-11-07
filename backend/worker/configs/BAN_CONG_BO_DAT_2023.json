@@ -1,0 +1,40 @@
+{
+  "source_name": "BAN_CONG_BO_DAT_2023_clean",
+  "column_map": {
+    "số_biên_nhận": "so_bien_nhan",
+    "ngày_nhận": "ngay_tiep_nhan",
+    "ngay_tra": "ngay_cap_gcn_attp",
+    "tên_công_tydoanh_nghiệp": "ten_co_so",
+    "địa_chỉ": "dia_chi",
+    "đia_chi": "dia_chi",
+    "phường_xã": "phuong_xa",
+    "phuong_xa": "phuong_xa",
+    "quận_huyện": "quan_huyen",
+    "quan_huyen": "quan_huyen",
+    "tên_sản_phẩm": "ten_san_pham",
+    "ten_san_pham": "ten_san_pham",
+    "kết_quả": "ket_qua",
+    "ket_qua": "ket_qua",
+    "số_bản_công_bố": "so_ban_cong_bo",
+    "ngày_hoàn_thành": "ngay_hoan_thanh",
+    "tinh_thanh": "tinh_thanh"
+  },
+  "date_cols": [
+    "ngay_tiep_nhan",
+    "ngay_cap_gcn_attp",
+    "tinh_thanh"
+  ],
+  "date_dayfirst": false,
+  "text_normalize": [
+    "ten_co_so",
+    "dia_chi",
+    "phuong_xa",
+    "quan_huyen",
+    "ten_san_pham",
+    "ket_qua",
+    "so_bien_nhan"
+  ],
+  "date_issue_cols": [
+    "ngay_cap_gcn_attp"
+  ]
+}

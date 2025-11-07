@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/tranl/OneDrive/Desktop/PMNM/backend/mlruns/325605362493771688/models/m-3171cb1472a04c9ba367775564d98f11/artifacts
+creation_timestamp: 1761587473866
+experiment_id: '325605362493771688'
+last_updated_timestamp: 1761587485218
+model_id: m-3171cb1472a04c9ba367775564d98f11
+model_type: null
+name: model
+source_run_id: cb7a8cee52834533866c3b6e0b6467d3
+status: 2
+status_message: null

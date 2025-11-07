@@ -1,0 +1,998 @@
+stt,ten_hkd,ten_co_so,ten_chu_co_so,so_nha,duong,phuong_xa,dia_chi,nganh_nghe_kinh_doanh,dien_thoai,so_gcn_attp,ngay_cap_gcn_attp,so_gcn_dkkd,ngay_cap_dkkd,tinh_thanh,ten_co_so_norm,dia_chi_norm,phuong_xa_norm,ngay_tiep_nhan,thoi_han_gcn_attp,processing_days,attp_valid
+1,Moon Beer BBQ,,huynh thi nguyet,,asia part,hcb,,Ăn uống giải khát,0914-448977,,2024-07-05,32c8014225,2024-05-06,da nang,,,hcb,2024-05-06,2027-07-05,60.0,True
+2,Vicolo Wine Bistro,,tran thi thu thuy,20.0,ba đinh,tt,,Ăn uống giải khát,0969-631874,,2021-06-04,32a8032670,,da nang,,,tt,2021-04-05,2024-06-03,60.0,False
+3,Cà Phê Gót Ngọc,,nguyen van đuc,19.0,ba đinh,tt,hai chau,Cà phê giải khát,0905-502324,,2022-06-01,32a8003746,2002-05-12,da nang,,hai chau,tt,2022-04-02,2025-05-31,60.0,False
+4,Mỳ quảng Giao Thủy,,tao viet muoi,,ba đinh,tt,hai chau,Mỳ quảng,0979-616405,,,32a8018235,2011-12-12,da nang,,hai chau,tt,,,,False
+5,Mỳ Quảng Bà Bảy,,nguyen thi het,33.0,ba đinh,tt,hai chau,Ăn uống giải khát,0905-149226,,2023-09-05,32a8005333,2004-03-02,da nang,,hai chau,tt,2023-07-07,2026-09-04,60.0,True
+6,Bánh Pizza,,pham sy hai long,,bac đau,tb,,Bánh các loại,0337-417998,,2023-07-04,32a8034467,2023-02-20,da nang,,,tb,2023-05-05,2026-07-03,60.0,True
+7,ADM,,nguyen huy truong,,bac đai tuong niem,hcb,,Ăn uống giải khát,0972-655765,,,32a8039028,,da nang,,,hcb,,,,False
+8,Nhà Hàng Phú Gia Ba,,tran hoang viet,,bac đai tuong niem,hcb,hai chau,Nhà hàng tiệc cưới,0905-232072,,,32a8022926,2015-12-02,da nang,,hai chau,hcb,,,,False
+9,Nhà Hàng Việt Luklak,,phan thanh hoang,28.0,bach đang,tt,,Ăn uống giải khát,0933-330182,,,32a8031113,2020-06-25,da nang,,,tt,,,,False
+10,Indigo,,mai van loc,30.0,bach đang,tt,,Cà phê giải khát,0931-844442,,,32a8038532,2024-04-01,da nang,,,tt,,,,False
+11,Juice & Coffee Bar By The Coffee Land,,pham thanh binh,40.0,bach đang,tt,,Ăn uống giải khát,0905-009005,,2023-03-08,32a8029635,,da nang,,,tt,2023-01-07,2026-03-07,60.0,True
+12,Lan Kwai Fong,,ton nu hai yen,56.0,bach đang,hc1,,Ăn uống giải khát,0905-723203,,,32a8031803,2020-09-21,da nang,,,hc1,,,,False
+13,Ngô Văn Nhỏ,,ngo van nho,94.0,bach đang,hc1,,Ăn uống giải khát,0899-868146,,,32a8038187,2023-02-11,da nang,,,hc1,,,,False
+14,Cà phê Cộng,,nguyen thi van anh,96.0,bach đang,hc1,hai chau,Cà phê giải khát,0934-822825,,,32a8024225,2015-08-12,da nang,,hai chau,hc1,,,,False
+15,Sophi,,nguyen van vy,150.0,bach đang,hc1,,Ăn uống giải khát,0966-833777,,,32a8037027,,da nang,,,hc1,,,,False
+16,Huỳnh Tấn Chung,,huynh tan chung,158.0,bach đang,hc1,,Ăn uống giải khát,0913-406345,,2023-05-09,32a8037622,,da nang,,,hc1,2023-03-10,2026-05-08,60.0,True
+17,Nhà Hàng Thiên Kim,,le thi hoang yen,166.0,bach đang,hc1,,Ăn uống giải khát,0903-508058,,2022-01-11,32a8035049,2022-05-19,da nang,,,hc1,2021-11-12,2025-01-10,60.0,False
+18,Dừa Bến Tre,,đang tin nghia,190.0,bach đang,pn,hai chau,Cà phê giải khát,0905-897141,,2021-05-04,32a8021872,2014-07-08,da nang,,hai chau,pn,2021-03-05,2024-05-03,60.0,False
+19,Dừa Bến Tre 196,,tran thi thu trang,196.0,bach đang,pn,,Nước giải khát,0934-888328,,2023-06-05,32a8027014,,da nang,,,pn,2023-04-06,2026-06-04,60.0,True
+20,Nguyễn Tấn Đô Hay,,nguyen tan đo hay,198.0,bach đang,pn,,Nước giải khát,0905-029547,,,32a8029199,2019-01-30,da nang,,,pn,,,,False
+21,On Bar,,nguyen quynh le thuy,206.0,bach đang,pn,,Ăn uống giải khát,0905-407799,,,32a8037574,,da nang,,,pn,,,,False
+22,Mỳ Quảng Bếp Trang,,nguyen thi xuan trang,212.0,bach đang,pn,hai chau,Mỳ quảng,0766-771772,,,32a8024361,2016-01-08,da nang,,hai chau,pn,,,,False
+23,Nguyễn Lê Quốc Nam,,nguyen le quoc nam,216.0,bach đang,pn,,Ăn uống giải khát,0968-079797,,2023-10-07,32a8036919,,da nang,,,pn,2023-08-08,2026-10-06,60.0,True
+24,Mỳ Quảng Bếp Trang,,pham thi kim trinh,216.0,bach đang,pn,,Ăn uống giải khát,0901-177255,,,32a8035125,2022-05-30,da nang,,,pn,,,,False
+25,Nhà Hàng Ăn Thôi,,mai tuong vy,114.0,bach đang,hc1,,Ăn uống giải khát,0334-488178,,2024-06-10,32a8038463,,da nang,,,hc1,2024-04-11,2027-06-10,60.0,True
+26,Cardi Pizzeria,,truong thi thu an,124.0,bach đang,hc1,,Ăn uống giải khát,0902-142565,,2022-11-11,32a8035531,2022-08-02,da nang,,,hc1,2022-09-12,2025-11-10,60.0,True
+27,Trần Thị Thu Hà,,tran thi thu ha,,bach đang,hc1,,Cà phê giải khát,0912-029639,,2021-01-02,32a8032217,2020-12-10,da nang,,,hc1,2020-11-03,2024-01-02,60.0,False
+28,Phúc Ân Coffee,,nguyen ngoc thinh,,bach đang,htđ,,Ăn uống giải khát,0905-410413,,2024-08-05,32a8039265,,da nang,,,htđ,2024-06-06,2027-08-05,60.0,True
+29,Blue Moon Coffee,,ho phuoc hoang,,bach đang,bt,,Ăn uống giải khát,0979-476779,,,32d8010573,,da nang,,,bt,,,,False
+30,Caribou,,ho phuoc hoang,,bach đang,bt,,Ăn uống giải khát,0979-476779,,,32d8010573,,da nang,,,bt,,,,False
+31,Trình Cà Phê - Phố Đi Bộ,,nguyen quang thanh son,,bach đang,bh,,Cà phê giải khát,0932-453811,,2024-08-05,32a8034572,2022-03-23,da nang,,,bh,2024-06-06,2027-08-05,60.0,True
+32,Poc Food & Drinks,,đang thi thu hien,,bach đang,htđ,,Ăn uống giải khát,0989-948978,,2024-08-05,32a8039281,,da nang,,,htđ,2024-06-06,2027-08-05,60.0,True
+33,Win - Win,,le thi nguyet anh,,bach đang,bh,,Ăn uống giải khát,0934-555199,,,32e8013393,2024-03-06,da nang,,,bh,,,,False
+34,Ẩm Thực A Tài,,tran thi hong,,bach đang,bt,,Ăn uống giải khát,0913-833806,,,32a8039267,,da nang,,,bt,,,,False
+35,Phê Food,,nguyen truong đai,,bach đang,bh,,Ăn uống giải khát,0905-639226,,,32a8039258,,da nang,,,bh,,,,False
+36,The Chill,,nguyen hoanh loc,,bach đang,htđ,,Ăn uống giải khát,0342-221233,,2024-08-09,32a8039255,,da nang,,,htđ,2024-06-10,2027-08-09,60.0,True
+37,Da Nang Souvenir,,le duy minh,,bach đang,htđ,,Ăn uống giải khát,0934-989048,,2024-08-09,32a8039306,2024-04-06,da nang,,,htđ,2024-06-10,2027-08-09,60.0,True
+38,Nooshan,,le van tuong,,bach đang,bt,,Ăn uống giải khát,0972-458054,,2024-08-09,32a8039263,,da nang,,,bt,2024-06-10,2027-08-09,60.0,True
+39,Ikigai Riverfront Bar,,huynh đuc hoang,,bach đang,bt,,Ăn uống giải khát,0937-372089,,2024-08-09,32a8039268,,da nang,,,bt,2024-06-10,2027-08-09,60.0,True
+40,Lava's House Coffee,,ho thi thanh van,,binh minh 1,bt,,Cà phê giải khát,0985-451164,,,32a8039852,,da nang,,,bt,,,,False
+41,Quán Cà phê Milano,,le hoai bao duyen,31.0,binh minh 3,bt,,Cà phê giải khát,0905-466188,,,32a8036638,2023-03-01,da nang,,,bt,,,,False
+42,Phê Coffee,,pham tan phat,30.0,binh minh 3,bt,,Ăn uống giải khát,0708-121994,,,32a8032597,,da nang,,,bt,,,,False
+43,Nhà hàng Cá Lửa,,huynh van dung,,binh minh 4,bt,hai chau,Ăn uống giải khát,0934-878681,,2022-04-05,32a8034053,2022-01-07,da nang,,hai chau,bt,2022-02-04,2025-04-04,60.0,False
+44,Quán Nướng Nhật Bản,,tran thai minh thao,,binh minh 5,bt,,Ăn uống giải khát,0762-618617,,,32a8032292,2020-12-22,da nang,,,bt,,,,False
+45,Quán Nhâu 38,,đo cong nguyen khoi,38.0,cam ba thuoc,hcb,,Ăn uống giải khát,0906-234596,,,32a8037241,,da nang,,,hcb,,,,False
+46,Quán Anna Coffee,,duong thi yen nhi,5.0,cao thang,tb,,Cà phê giải khát,0932-574330,,2020-09-11,32a8031926,2020-10-13,da nang,,,tb,2020-07-13,2023-09-11,60.0,False
+47,Bánh Bao Gia Truyền Bacu,,than thi thi thi,15.0,cao thang,tb,,Bánh bao,0914-528328,,2022-12-09,32a8031877,2020-10-01,da nang,,,tb,2022-10-10,2025-12-08,60.0,True
+48,Tà Xua Coffee DN,,nguyen tuan vu,17.0,cao thang,tb,,Ăn uống giải khát,0332-394252,,2024-05-10,32a8039046,,da nang,,,tb,2024-03-11,2027-05-10,60.0,True
+49,Trương Thành,,truong thanh,81.0,cao thang,tb,,Cà phê giải khát,0913-438331,,,32a8018834,2012-05-29,da nang,,,tb,,,,False
+50,Quán Hủ Tiếu,,duong tien tran,109.0,cao thang,tb,,Ăn uống giải khát,0935-509720,,,32a8036166,,da nang,,,tb,,,,False
+51,Quán 61,,le vy,61.0,cao thang,tb,hai chau,Ăn uống giải khát,0905-104929,,2024-08-05,32a8016070,,da nang,,hai chau,tb,2024-06-06,2027-08-05,60.0,True
+52,Bún Chả Hà Nội-Bánh Mỳ Bà Ty,,nguyen thi khanh thu,36.0,chu van an,bh,,Ăn uống giải khát,0905-377659,,,32a8028880,2018-11-26,da nang,,,bh,,,,False
+53,Cing Hu Tang,,tran thi thu tra,7.0,co giang,pn,,Ăn uống giải khát,0902-133163,,2022-10-08,32a8034961,2022-05-09,da nang,,,pn,2022-08-09,2025-10-07,60.0,False
+54,Tiến Hưng Mai,,pham thi nhu mai,20.0,co giang,pn,,Ăn uống giải khát,0905-002557,,,32a8034197,2022-02-18,da nang,,,pn,,,,False
+55,Cà Phê Hạt Én Vàng,,nguyen van long,22.0,co giang,pn,,Ăn uống giải khát,0703-222223,,2023-05-09,32a8031549,,da nang,,,pn,2023-03-10,2026-05-08,60.0,True
+56,Đọng Coffee,,bui quang khoa,6.0,đam rong 2,tb,,Ăn uống giải khát,0775-565552,,2023-06-09,32a8036710,,da nang,,,tb,2023-04-10,2026-06-08,60.0,True
+57,SHONAN,,tran thi thao nguyen,29.0,đang tu kinh,tt,,Ăn uống giải khát,0708-468143,,,32a8033700,2021-11-15,da nang,,,tt,,,,False
+58,Kashi Garden Coffee,,duong đoan thi diem,,đao xanh,hcb,hai chau,Cà phê giải khát,0903-572677,,2023-03-07,32a8026164,,da nang,,hai chau,hcb,2023-01-06,2026-03-06,60.0,True
+59,Bánh Kem Ngôc Xít,,nguyen thi thuy,68.0,đinh tien hoang,tb,,Bánh kem,0931-861559,,2023-06-02,32a8036395,2022-12-30,da nang,,,tb,2023-04-03,2026-06-01,60.0,True
+60,Tiểu Nhị,,huynh đuc cuong,3.0,đo xuan cat,tp,,Ăn uống giải khát,0935-288664,,,32a8033043,2021-06-11,da nang,,,tp,,,,False
+61,Ghiền Seoul,,huynh duy bao,,doan khue,hcb,,Ăn uống giải khát,0931-216993,,2022-04-05,32a8034145,2022-01-26,da nang,,,hcb,2022-02-04,2025-04-04,60.0,False
+62,Phố Itae Won,,le thi tuyet nhung,,doan khue,hcb,,Ăn uống giải khát,0905-997470,,2022-11-07,32a8034904,2022-04-29,da nang,,,hcb,2022-09-08,2025-11-06,60.0,True
+63,Quán Chay Hà,,nguyen thi thu ha,16.0,đoan thi điem,hc2,hai chau,Ăn uống giải khát,0795-521189,,2023-03-07,32a8023894,,da nang,,hai chau,hc2,2023-01-06,2026-03-06,60.0,True
+64,Bún mắm Ngọc,,tran thi bich ngoc,20.0,đoan thi điem,hc2,hai chau,Bún mắm,0905-178566,,,32a8017423,2011-04-22,da nang,,hai chau,hc2,,,,False
+65,Yahaa Coffee,,le hong phong,2.0,đoc ngu,hcb,hai chau,Cà phê giải khát,0889-090168,,2021-08-11,32a8028165,2018-07-02,da nang,,hai chau,hcb,2021-06-12,2024-08-10,60.0,False
+66,Nonstop Beer,,nguyen ngoc truong son,11.0,đong đa,tt,,Ăn uống giải khát,0985-985229,,,32a8036431,2023-01-01,da nang,,,tt,,,,False
+67,Ushi Steak,,pham thi thanh thuy,12.0,đong đa,tp,hai chau,Ăn uống giải khát,0779-762793,,,32a8034809,2022-04-20,da nang,,hai chau,tp,,,,False
+68,Bán bánh mì thịt (Đ/Tiến),,tran thi hoa,15.0,đong đa,tt,,Bánh mỳ thịt,0931-904926,,,32a8031610,,da nang,,,tt,,,,False
+69,Bún Bò Bé Mai,,nguyen thi vien chi,17.0,đong đa,tt,,Bún tô,0934-979089,,2024-08-05,32a8030854,2019-12-31,da nang,,,tt,2024-06-06,2027-08-05,60.0,True
+70,Tiêm Lẫu Bò Nhà Gỗ Đà Nẵng,,nguyen hung quan,28.0,đong đa,tp,,Ăn uống giải khát,0935-256567,,,32a8036546,2023-02-15,da nang,,,tp,,,,False
+71,Phạm Trần Bảo Trâm,,pham tran bao tram,32.0,đong đa,tp,,Ăn uống giải khát,0796-661383,,2023-05-09,32a8037605,,da nang,,,tp,2023-03-10,2026-05-08,60.0,True
+72,Anh Nam,,phan thi ngoc han,36.0,đong đa,tp,,Ăn uống giải khát,0967-786869,,2022-04-05,32a8034819,2022-04-21,da nang,,,tp,2022-02-04,2025-04-04,60.0,False
+73,Hương Bắc-Ngon Hà Nội Phố,,pham thanh huong,59.0,đong đa,tt,,Ăn uống giải khát,0842-499999,,2022-06-01,32a8027200,2017-12-25,da nang,,,tt,2022-04-02,2025-05-31,60.0,False
+74,Trà Sữa Bon Bon,,nguyen van tho,78.0,đong đa,tp,,Ăn uống giải khát,0914-020444,,,32a8030456,,da nang,,,tp,,,,False
+75,Bê Thui Cầu Mống,,le hong đuc,89.0,đong đa,tt,,Ăn uống giải khát,0767-488599,,,32a8034082,2022-01-12,da nang,,,tt,,,,False
+76,Tâm Bakery,,pham huu tam,113.0,đong đa,tt,,Ăn uống giải khát,0905-290661,,2024-04-08,32a8038317,,da nang,,,tt,2024-02-08,2027-04-08,60.0,True
+77,Sữa Chua Trân Châu Hạ Long,,nguyen thi thuy mai,113.0,đong đa,tt,,Ăn uống giải khát,0914-739229,,,32a8031123,2024-10-04,da nang,,,tt,,,,False
+78,Trà Sữa-Ăn Vặt Ông Nội Quán,,ho đac tien,116.0,đong đa,tp,,Ăn uống giải khát,0902-692920,,,32a8036287,2022-12-14,da nang,,,tp,,,,False
+79,Mỳ Cay Chino,,nguyen anh ky,125.0,đong đa,tt,,Ăn uống giải khát,0902-675779,,2022-11-03,32a8034038,2022-01-06,da nang,,,tt,2022-09-04,2025-11-02,60.0,True
+80,Quán Cơm Sài Gòn,,ton nu quynh linh,161.0,đong đa,tt,,Ăn uống giải khát,0905-056575,,,32a8030730,,da nang,,,tt,,,,False
+81,Trần Thị Kim Lan,,tran thi kim lan,163.0,đong đa,tt,,Ăn uống giải khát,0913-495999,,,32a8037838,,da nang,,,tt,,,,False
+82,Ẩm Thực Gánh,,phan thi kim chi,165.0,đong đa,tt,,Ăn uống giải khát,0985-532585,,,32a8029265,2019-02-27,da nang,,,tt,,,,False
+83,Cơm Gà Nam Chợ Mới 2,,duong thi nga,175.0,đong đa,tt,,Ăn uống giải khát,0969-235124,,2023-03-04,32a8036526,2023-02-13,da nang,,,tt,2023-01-03,2026-03-03,60.0,True
+84,Beer Box,,le đang phuong uyen,189.0,đong đa,tt,,Ăn uống giải khát,0905-833831,,2020-09-11,32a8031802,2020-09-21,da nang,,,tt,2020-07-13,2023-09-11,60.0,False
+85,Bánh Ép Gia Di,,le huy rin,193.0,đong đa,tt,,Ăn uống giải khát,0779-528994,,2024-01-12,32a8030004,2019-07-09,da nang,,,tt,2023-11-13,2027-01-11,60.0,True
+86,Phở Bắc 63,,pham tuan khanh,203.0,đong đa,tt,hai chau,Phở,0974-892981,,,32a8032499,2021-01-30,da nang,,hai chau,tt,,,,False
+87,Quán Nhậu 204,,nguyen thi hoai trang,204.0,đong đa,tp,hai chau,Ăn uống giải khát,0935-829244,,2024-06-03,32a8026862,2017-10-13,da nang,,hai chau,tp,2024-04-04,2027-06-03,60.0,True
+88,224 Billiard,,tran manh hieu,224.0,đong đa,tp,,Ăn uống giải khát,0905-090102,,2020-07-12,32a8031984,2020-10-26,da nang,,,tp,2020-05-13,2023-07-12,60.0,False
+89,Bà Ngọc (Huế),,đang thi lan my,228.0,đong đa,tp,hai chau,Nem lụi,0905-169707,,,32a8004953,2003-01-01,da nang,,hai chau,tp,,,,False
+90,Bún Hương,,phan thi minh chau,229.0,đong đa,tt,hai chau,Ăn uống giải khát,0236-3889878,,,32a8011012,2006-09-10,da nang,,hai chau,tt,,,,False
+91,Mỳ Quảng Bà Mua,,nguyen thi thu thuy,231.0,đong đa,tt,hai chau,Mỳ quảng,0975-545314,,2024-01-12,32a8018383,2012-06-02,da nang,,hai chau,tt,2023-11-13,2027-01-11,60.0,True
+92,Mixue Đống Đa,,đo van thien,235.0,đong đa,tt,,Ăn uống giải khát,0357-755844,,,32a8036685,,da nang,,,tt,,,,False
+93,Cơm Tấm Trâm,,ngo diem thuy bang tuyen,240.0,đong đa,tp,hai chau,Ăn uống giải khát,0935-676797,,,32a8025817,2017-03-15,da nang,,hai chau,tp,,,,False
+94,Tới Bò Bít Tết - Đài Loan,,tran trung toi,241.0,đong đa,tt,,Ăn uống giải khát,0969-981362,,2021-08-03,32a8032500,2021-02-01,da nang,,,tt,2021-06-04,2024-08-02,60.0,False
+95,Airi's,,truong thanh thuy,255.0,đong đa,tt,,Ăn uống giải khát,0787-498818,,,32a8032784,2021-04-07,da nang,,,tt,,,,False
+96,Mỳ Quảng Quê 1,,nguyen nu quynh chi,258.0,đong đa,tb,hai chau,Ăn uống giải khát,0983-243484,,2021-12-04,32a8022073,2014-08-28,da nang,,hai chau,tb,2021-10-05,2024-12-03,60.0,False
+97,Hồ Đắc Mẫn,,ho đac man,268.0,đong đa,tb,,Ăn uống giải khát,0914-191700,,2024-05-07,32a8034835,,da nang,,,tb,2024-03-08,2027-05-07,60.0,True
+98,Cháo Súp Dinh Dưỡng Carrot,,ho minh quan,277.0,đong đa,tt,,Ăn uống giải khát,0899-920642,,,32a8037066,2023-04-27,da nang,,,tt,,,,False
+99,Tô Cha,,phan ngoc phuong anh,286.0,đong đa,tb,,Ăn uống giải khát,0935-531037,,2024-01-05,32a8036544,,da nang,,,tb,2023-11-06,2027-01-04,60.0,True
+100,Quán Nhậu 3R,,nguyen thi hoai thuong,290.0,đong đa,tb,,Ăn uống giải khát,0935-303176,,2023-06-02,32a8036002,2022-10-31,da nang,,,tb,2023-04-03,2026-06-01,60.0,True
+101,TN BISTRO,,tran thi ngoc diep,298.0,đong đa,tb,,Ăn uống giải khát,0935-034344,,,32a8038534,2024-05-01,da nang,,,tb,,,,False
+102,Tiệm Cơm Tấm Ốp-Lết 1940,,tran trong bien,326.0,đong đa,tb,,Ăn uống giải khát,0941-010586,,2023-12-06,32a8035630,,da nang,,,tb,2023-10-07,2026-12-05,60.0,True
+103,Món Huế,,ho manh viet,334.0,đong đa,tb,,Ăn uống giải khát,0903-615555,,,32a8036205,,da nang,,,tb,,,,False
+104,Mì Quảng Bà Ngân,,ton nu thi a,,đong đa,tp,hai chau,Ăn uống giải khát,0236-3537007,,,32a8004470,1999-12-11,da nang,,hai chau,tp,,,,False
+105,Bơ Nơ Bakery,,nguyen thi minh chau,234.0,đong đa,tp,,Bánh mỳ,0936-695070,,2022-11-11,32a8033536,2021-10-27,da nang,,,tp,2022-09-12,2025-11-10,60.0,True
+106,Quan Cơm Phượng,,vo thi phung,,đong đa,tp,,Ăn uống giải khát,0905-116298,,,32a8028273,,da nang,,,tp,,,,False
+107,Minh Beo,,truong thi hoai linh,,đong đa,tp,,Ăn uống giải khát,0911-303279,,,32a8036756,2023-03-17,da nang,,,tp,,,,False
+108,Thức Beer,,nguyen thi kim yen,,đong đa,tp,,Ăn uống giải khát,0921-777793,,2020-10-07,32a8031544,2020-06-26,da nang,,,tp,2020-08-08,2023-10-07,60.0,False
+109,Tum Tum Hub,,nguyen phan thanh minh,,đong đa,tp,,Ăn uống giải khát,0379-410954,,2023-05-10,32a8037877,,da nang,,,tp,2023-03-11,2026-05-09,60.0,True
+110,Thạnh Đức,,le thi hoang ngan,44.0,đong đa,tp,hai chau,Bánh mì thịt,0236-3894072,,,32a8015231,2009-09-11,da nang,,hai chau,tp,,,,False
+111,Lẫu Bò O Ty - Cơ sở 2,,tran kiem dung,,đong đa,tt,,Ăn uống giải khát,0829-778888,,,32a8038662,,da nang,,,tt,,,,False
+112,Omori,,nguyen van toan,,đong đa,tp,,Ăn uống giải khát,0901-279777,,,32a8031133,2020-03-12,da nang,,,tp,,,,False
+113,Bún Thủy,,đoan thi thuy,,đong đa,tp,hai chau,Ăn uống giải khát,0236-3863045,,,32a8005316,1998-05-07,da nang,,hai chau,tp,,,,False
+114,Quán Bà Trai,,vo quang long,,đong đa,tp,,Ăn uống giải khát,0935-370012,,2022-04-05,32a8034619,2022-03-29,da nang,,,tp,2022-02-04,2025-04-04,60.0,False
+115,Lúa Non,,le yen vi,2.0,đuc loi,tp,,Ăn uống giải khát,0935-311811,,2024-05-07,32a8036899,2023-07-04,da nang,,,tp,2024-03-08,2027-05-07,60.0,True
+116,Coxi,,tran thi thu giang,1.0,đuong 2/9,hcb,,Ăn uống giải khát,0937-041488,,2024-01-02,32a8032496,2022-01-07,da nang,,,hcb,2023-11-03,2027-01-01,60.0,True
+117,Đỗ Thị Thu Hằng,,đo thi thu hang,10.0,đuong 2/9,bh,,Ăn uống giải khát,0913-042529,,2023-02-11,32a8037234,,da nang,,,bh,2022-12-13,2026-02-10,60.0,True
+118,Tiệm Bánh Little Taiwan,,nguyen ngoc luu,30.0,đuong 2/9,bh,,Sản xuất bánh,0365-724038,,2021-06-11,32a8033623,2021-11-06,da nang,,,bh,2021-04-12,2024-06-10,60.0,False
+119,Cà Phê Bông Hoa,,pham thi anh nga,44.0,đuong 2/9,bh,,Cà phê giải khát,0789-433968,,2023-02-11,32a8031359,2020-05-20,da nang,,,bh,2022-12-13,2026-02-10,60.0,True
+120,Bếp Của Ngoại,,ho van ngoan,50.0,đuong 2/9,bh,,Ăn uống giải khát,0934-721082,,,32a8036250,2022-12-08,da nang,,,bh,,,,False
+121,Tới Bò Bít Tết - Đài Loan,,tran trung toi,66.0,đuong 2/9,bh,,Ăn uống giải khát,0969-981362,,,32a8032500,2021-02-01,da nang,,,bh,,,,False
+122,Võ Thị Bích Ngọc,,vo thi bich ngoc,76.0,đuong 2/9,bh,,Ăn uống giải khát,0902-142565,,2021-10-05,32a8032671,2021-03-19,da nang,,,bh,2021-08-06,2024-10-04,60.0,False
+123,Nhà Hàng Papasteak,,tran quang minh,88.0,đuong 2/9,bt,,Ăn uống giải khát,0899-862043,,,32a8031108,2020-03-05,da nang,,,bt,,,,False
+124,Phở Nghĩa Béo,,phung thi thanh,100.0,đuong 2/9,bt,,Bán phở,0914-080139,,,32a8031187,2021-03-26,da nang,,,bt,,,,False
+125,Bún Đậu Mắm Tôm Tràng An,,chu đinh cong,126.0,đuong 2/9,htđ,,Ăn uống giải khát,0988-927898,,2023-03-04,32a8036510,2023-02-08,da nang,,,htđ,2023-01-03,2026-03-03,60.0,True
+126,Buffet Bò Mỹ & Hải Sản 139K,,nguyen thi thuy vy,132.0,đuong 2/9,htđ,,Ăn uống giải khát,0818-749999,,2023-12-06,32a8036087,,da nang,,,htđ,2023-10-07,2026-12-05,60.0,True
+127,Nhà Ta,,huynh ngoc vi phu,134.0,đuong 2/9,htđ,hai chau,Ăn uống giải khát,0979-434343,,,32a8025871,2017-03-23,da nang,,hai chau,htđ,,,,False
+128,Chup Chip,,nguyen thanh binh,135.0,đuong 2/9,hcn,,Ăn uống giải khát,0967-777596,,2023-03-08,32a8037330,,da nang,,,hcn,2023-01-07,2026-03-07,60.0,True
+129,Mơ Home Made Pasta And,,tra thi kieu diem,150.0,đuong 2/9,htđ,,Ăn uống giải khát,0935-295663,,2024-05-07,32a8037627,2023-03-08,da nang,,,htđ,2024-03-08,2027-05-07,60.0,True
+130,Linh Dung,,tran phan phuong linh,170.0,đuong 2/9,htđ,,Ăn uống giải khát,0919-638248,,,32a8026531,2017-08-22,da nang,,,htđ,,,,False
+131,Rau Má Pha Đà Nẵng,,cao thi quynh trang,236.0,đuong 2/9,htđ,,Giải khát,0985-173512,,,32a8030002,2019-07-19,da nang,,,htđ,,,,False
+132,V PUB,,nguyen van quoc,286.0,đuong 2/9,hcb,,Ăn uống giải khát,0919-871414,,2023-01-08,32a8037157,,da nang,,,hcb,2022-11-09,2026-01-07,60.0,True
+133,Nhà Hàng Phú Gia ,,tran đuc dung,336.0,đuong 2/9,hcb,hai chau,Nhà hàng tiệc cưới,0905-232072,,,32a8013151,,da nang,,hai chau,hcb,,,,False
+134,Quán Học,,le nguyen gia khanh,386.0,đuong 2/9,hcb,,Ăn uống giải khát,0943-767767,,,32a8035571,2022-08-09,da nang,,,hcb,,,,False
+135,Lẫu bò Học,,nguyen thi phu,394.0,đuong 2/9,hcb,hai chau,Ăn uống giải khát,0907-115511,,,32a8026157,2017-05-22,da nang,,hai chau,hcb,,,,False
+136,Mỳ Quảng Bà Cẩm,,nguyen thi tu cam,452.0,đuong 2/9,hcn,,Ăn uống giải khát,0901-139555,,,32a8032966,,da nang,,,hcn,,,,False
+137,Đại Bi Quán,,tran moi,678.0,đuong 2/9,hcn,,Ăn uống giải khát,0935-405687,,,32a8038161,,da nang,,,hcn,,,,False
+138,Manmanchi Đà Nẵng,,nguyen thi ha vy,,đuong 2/9,bt,,Ăn uống giải khát,0906-455556,,,32a8038951,2024-02-04,da nang,,,bt,,,,False
+139,Tiệm Cơm Nhà,,le van hoa,,đuong 2/9,htđ,,Ăn uống giải khát,0905-112788,,2022-02-12,32a8036015,2022-11-01,da nang,,,htđ,2021-12-14,2025-02-11,60.0,False
+140,Hai Hùng,,huynh thi hai,140.0,đuong 2/9,htđ,hai chau,Cháo lươn,0905-488039,,,32a8000274,,da nang,,hai chau,htđ,,,,False
+141,Bà hường 2,,nguyen sy,460.0,đuong 2/9,hcb,hai chau,Bánh tráng thịt heo,0983-550959,,2022-05-08,32a8010274,,da nang,,hai chau,hcb,2022-03-09,2025-05-07,60.0,False
+142,NC Lounge,,luu thi thuy trang,,đuong 2/9,bt,,Ăn uống giải khát,0566-345555,,,32a8035325,2022-06-29,da nang,,,bt,,,,False
+143,Lúa Mạch - Food & Drink,,tran phu hoan,,đuong 2/9,bt,,Ăn uống giải khát,0932-199993,,,32a8033551,2021-10-29,da nang,,,bt,,,,False
+144,Nhà Hàng Gubeer,,nguyen le duy,,đuong 2/9,bt,,Ăn uống giải khát,0906-535695,,,32a8035841,2022-10-05,da nang,,,bt,,,,False
+145,Mỳ Kungfu,,huynh thi ngoc hau,,đuong 2/9,bt,,Ăn uống giải khát,0905-149009,,,32a8033569,2021-11-01,da nang,,,bt,,,,False
+146,Phan Thị Hoàng Lan,,phan thi hoang lan,,đuong 2/9,bt,,Ăn uống giải khát,0935-112200,,2024-06-07,32a8039248,,da nang,,,bt,2024-04-08,2027-06-07,60.0,True
+147,Nhà Hàng Tiệc Cưới Gia Hân,,tran đuc thao,,đuong 2/9,hcb,hai chau,Nhà hàng tiệc cưới,0975-545659,,,32a8025197,2016-09-16,da nang,,hai chau,hcb,,,,False
+148,An Spa,,nguyen thanh tam,,đuong 2/9,hcb,,Ăn uống giải khát,0982-399355,,,32a8034628,2022-03-29,da nang,,,hcb,,,,False
+149,Bánh Canh Gia Truyền Bà Trắng,,phan minh huy,,đuong 2/9,bt,,Ăn uống giải khát,0907-337333,,2023-10-03,32a8036581,2023-02-21,da nang,,,bt,2023-08-04,2026-10-02,60.0,True
+150,Quán Gạo,,nguyen quoc tinh,,đuong 2/9,bt,,Ăn uống giải khát,0905-943743,,,32a8031827,2020-09-24,da nang,,,bt,,,,False
+151,Mi Cay Seoul Cầu Rồng,,duong thi hien,,đuong 2/9,bt,,Ăn uống giải khát,0944-839245,,,32a8039084,,da nang,,,bt,,,,False
+152,Quán Nước 7L,,đoan minh trung,,đuong 2/9,bt,,Ăn uống giải khát,0935-888879,,2022-10-08,32a8035483,2022-07-25,da nang,,,bt,2022-08-09,2025-10-07,60.0,False
+153,Hai Con Yến,,nguyen hoang phuong,32.0,đuong 3/2,tp,,Ăn uống giải khát,0935-971717,,,32a8039491,2024-07-07,da nang,,,tp,,,,False
+154,Coffee & Milk Tea Phượng Vĩ,,nguyen thuy vi,61.0,đuong 3/2,tp,,Cà phê giải khát,0978-533331,,,32a8030291,,da nang,,,tp,,,,False
+155,Chém Gió Biển,,tran hoang thanh toan,66.0,đuong 3/2,tp,,Ăn uống giải khát,0904-354626,,,32a8028887,,da nang,,,tp,,,,False
+156,Bia Tô,,tran le đai long,70.0,đuong 3/2,tp,,Ăn uống giải khát,0905-045085,,2024-05-07,32a8036456,,da nang,,,tp,2024-03-08,2027-05-07,60.0,True
+157,Quán Xịn,,nguyen hoang diem chau,73.0,đuong 3/2,tp,,Ăn uống giải khát,0905-846739,,,32a8032345,,da nang,,,tp,,,,False
+158,Napom,,mai thuy duyen,141.0,đuong 3/2,tp,,Nước giải khát,0914-075981,,2023-08-09,32a8029617,,da nang,,,tp,2023-06-10,2026-08-08,60.0,True
+159,Saefood Cô Ly,,le thi phuoc ly,168.0,đuong 3/2,tp,,Ăn uống giải khát,0934-772663,,,32a8029943,,da nang,,,tp,,,,False
+160,Quán Nhậu Bé Na,,nguyen hoang phuong thi,170.0,đuong 3/2,tp,,Ăn uống giải khát,0704-515759,,,32a8036136,2022-11-22,da nang,,,tp,,,,False
+161,Anytime Cakes,,hoang thi thanh ha,,đuong 3/2,tp,,Bánh các loại bánh,0905-509025,,2023-05-09,32a8037621,,da nang,,,tp,2023-03-10,2026-05-08,60.0,True
+162,Soowon BBQ,,nguyen thi huyen trang,15.0,đuong 30/4,hcb,,Ăn uống giải khát,0918-260689,,2022-10-01,32a8032632,2021-03-12,da nang,,,hcb,2022-08-02,2025-09-30,60.0,False
+163,Kefa Cà Phê,,nguyen thi anh thu,24.0,đuong 30/4,hcb,,Cà phê giải khát,0915-901611,,,32a8032082,2020-11-18,da nang,,,hcb,,,,False
+164,Phúc Palace,,đo huu thien,66.0,đuong 30/4,hcb,,Ăn uống giải khát,0917-232432,,,32a8038095,,da nang,,,hcb,,,,False
+165,Phở 2 Lâm,,nguyen le bao lam,131.0,đuong 30/4,hcb,,Ăn uống giải khát,0949-348068,,2024-04-08,32a8037171,,da nang,,,hcb,2024-02-08,2027-04-08,60.0,True
+166,Quán 174,,nguyen van quang,174.0,đuong 30/4,hcb,,Ăn uống giải khát,0935-219221,,2022-05-08,32a8035299,2022-06-27,da nang,,,hcb,2022-03-09,2025-05-07,60.0,False
+167,Phú Hồng Phát,,nguyen thanh phu,182.0,đuong 30/4,hcb,,Ăn uống giải khát,0902-637989,,,32a8038166,,da nang,,,hcb,,,,False
+168,Minions Kids Hải Châu,,nguyen quoc tuan,,đuong 30/4,hcb,,Ăn uống giải khát,0905-541679,,2024-07-05,32a8038920,,da nang,,,hcb,2024-05-06,2027-07-05,60.0,True
+169,Dope Beer,,nguyen le thanh,,đuong 30/4,hcb,,Ăn uống giải khát,0981-356555,,2022-10-01,32a8032897,2021-04-27,da nang,,,hcb,2022-08-02,2025-09-30,60.0,False
+170,Bia Bát Đàn,,tran tuan anh,,đuong 30/4,hcb,,Ăn uống giải khát,0964-998338,,,32a8035540,2022-08-03,da nang,,,hcb,,,,False
+171,Nhà hàng Quảng Đại 1,,vo van quang,,đuong 30/4,hcb,hai chau,Nhà hàng tiệc cưới,0905-236388,,,32a8012297,,da nang,,hai chau,hcb,,,,False
+172,Bếp Việt Restaurant,,thai ba canh,,đuong 30/4,hcb,,Ăn uống giải khát,0977-168898,,,32a8034245,,da nang,,,hcb,,,,False
+173,Vạn Phúc,,ngo thi xuan ha,,đuong 30/4,hcb,hai chau,Nhà hàng tiệc cưới,0905-117735,,2022-12-10,32a8021054,2014-02-01,da nang,,hai chau,hcb,2022-10-11,2025-12-09,60.0,True
+174,Nhà hàng Vạn Phúc 2,,đinh ngoc vinh,,đuong 30/4,hcb,hai chau,Nhà hàng tiệc cưới,0905-130277,,2022-12-10,32a8026183,,da nang,,hai chau,hcb,2022-10-11,2025-12-09,60.0,True
+175,Bếp Nhà Khoai,,vu thi thu,,đuong 30/4,hcb,,Ăn uống giải khát,0368-455232,,2024-07-05,32a8039395,,da nang,,,hcb,2024-05-06,2027-07-05,60.0,True
+176,New Vườn Tre,,đo thi đo,,đuong 30/4,hcb,hai chau,Ăn uống giải khát,0935-638939,,2022-09-09,32a8024816,2016-05-27,da nang,,hai chau,hcb,2022-07-11,2025-09-08,60.0,False
+177,Cà Phê Bucep,,nguyen kim hoang,,đuong 30/4,hcb,,Cà phê giải khát,0975-037755,,,32a8024367,,da nang,,,hcb,,,,False
+178,Nhà Hàng Quảng Đại 2,,vo nguyen trung,,đuong 30/4,hcb,hai chau,Nhà hàng tiệc cưới,0932-485769,,,32a8016772,2010-01-10,da nang,,hai chau,hcb,,,,False
+179,Nh/Hàng Tiệc Cưới Quảng Đại,,vo quoc thien,,đuong 30/4,hcb,hai chau,Nhà hàng tiệc cưới,0935-080910,,,32a8024893,2016-06-20,da nang,,hai chau,hcb,,,,False
+180,Quan La Cà Xuyên Đêm,,đang thi ty,192.0,đuong 30/4,hcb,,Ăn uống giải khát,0901-161393,,,32a8039610,,da nang,,,hcb,,,,False
+181,Mỳ Quảng Bà Mua,,nguyen the duong,31.0,duy tan,htt,,Ăn uống giải khát,0905-005773,,2024-07-04,32d8004374,,da nang,,,htt,2024-05-05,2027-07-04,60.0,True
+182,Ông Thầy,,nguyen thi bich thao,68.0,duy tan,htđ,,Ăn uống giải khát,0905-022432,,,32a8028284,,da nang,,,htđ,,,,False
+183,Tuấn Bê Thui,,nguyen quoc tuan,82.0,duy tan,htt,,Ăn uống giải khát,0935-288928,,,32a8034696,2022-04-06,da nang,,,htt,,,,False
+184,Bà Hường,,nguyen huu tien,126.0,duy tan,htt,,Ăn uống giải khát,0983-550959,,2022-05-08,32a8029138,2019-01-11,da nang,,,htt,2022-03-09,2025-05-07,60.0,False
+185,Lam Coffee And More,,le thi hien,138.0,duy tan,htt,,Cà phê giải khát,0355-084084,,,32a8036008,2022-11-01,da nang,,,htt,,,,False
+186,Quán Cơm Mỳ A Dô,,nguyen phuoc đo,77.0,duy tan,htt,,Ăn uống giải khát,0903-519109,,,32a8027692,2018-03-04,da nang,,,htt,,,,False
+187,Hoang Food,,tran nguyen my tra,,duy tan,htđ,,T/phẩm đông lạnh,0935-808580,,2022-05-10,32a8035741,2022-09-15,da nang,,,htđ,2022-03-11,2025-05-09,60.0,False
+188,Cà Phê 68,,ho thi my hanh,68.0,hai ho,tb,,Ăn uống giải khát,0905-521852,,2023-06-01,32a8036894,,da nang,,,tb,2023-04-02,2026-05-31,60.0,True
+189,Xích Lô,,nguyen thi nga,4.0,hai phong,hc1,,Cà phê giải khát,0948-523937,,2024-01-05,32a8038485,,da nang,,,hc1,2023-11-06,2027-01-04,60.0,True
+190,Mỳ Quảng 1A,,nguyen thi hien,5.0,hai phong,hc1,hai chau,Mỳ quảng,0236-3827936,,,32a8009508,2005-02-11,da nang,,hai chau,hc1,,,,False
+191,Nguyễn Huỳnh Phong,,nguyen huynh phong,6.0,hai phong,hc1,,Nước giải khát,0822-220365,,,32a8037463,2023-04-07,da nang,,,hc1,,,,False
+192,Bánh Mỳ Gia Truyền Bà Con,,mai van hung,22.0,hai phong,hc1,,Ăn uống giải khát,0905-012358,,2024-04-08,32a8037320,2023-08-06,da nang,,,hc1,2024-02-08,2027-04-08,60.0,True
+193,Cơm Sườn,,vo van hoai,26.0,hai phong,hc1,,Ăn uống giải khát,0398-548188,,,32a8035341,2022-07-01,da nang,,,hc1,,,,False
+194,Mixue Hải Phòng,,nguyen ngoc lan phuong,27.0,hai phong,tt,,Ăn uống giải khát,0909-887927,,,32a8036137,2022-11-22,da nang,,,tt,,,,False
+195,Nhóp Nhép,,le đo hai quyen,45.0,hai phong,tt,,Ăn uống giải khát,0907-363333,,,32a8030716,2019-12-05,da nang,,,tt,,,,False
+196,Nháy Craft Bee & Coffee,,tran thi quynh trang,46.0,hai phong,hc1,,Ăn uống giải khát,0905-992122,,2021-12-04,32a8032523,2021-02-08,da nang,,,hc1,2021-10-05,2024-12-03,60.0,False
+197,Question Bakery & Coffee,,nguyen thi thanh hien,65.0,hai phong,tt,,Ăn uống giải khát,0934-888679,,2022-04-01,32a8033059,2021-06-15,da nang,,,tt,2022-01-31,2025-03-31,60.0,False
+198,Quán Cơm Tấn Tài,,le thi kim my,66.0,hai phong,hc1,,Ăn uống giải khát,0789-421590,,2023-10-03,32a8036180,2022-11-28,da nang,,,hc1,2023-08-04,2026-10-02,60.0,True
+199,Cửa hàng ăn uống mậu dịch 1986,,đoan le yen vy,149.0,hai phong,tt,hai chau,Ăn uống giải khát,0935-488807,,2022-09-09,32a8026740,2017-09-22,da nang,,hai chau,tt,2022-07-11,2025-09-08,60.0,False
+200,Bún chả cá,,pham thi thu,152.0,hai phong,tt,hai chau,Bún chả cá,0905-660439,,,32a8027807,2018-04-26,da nang,,hai chau,tt,,,,False
+201,Cơm Gà Minh Điện,,nguyen minh đien,154.0,hai phong,tt,,Ăn uống giải khát,0918-017184,,,32a8038044,,da nang,,,tt,,,,False
+202,Bán bánh mì thịt (Đ/Tiến),,tran thi nhi,161.0,hai phong,tt,,Bánh mỳ ,0905-001484,,,32a8024919,2016-06-23,da nang,,,tt,,,,False
+203,The 59 Café,,le trong vu,59.0,hai phong,tt,,Ăn uống giải khát,0905-725735,,2021-01-02,32a8031576,2020-07-03,da nang,,,tt,2020-11-03,2024-01-02,60.0,False
+204,Hoàng Giang ,,nguyen thi phong,60.0,hai phong,hc1,hai chau,Cơm gà,0935-432757,,,32a8009306,2005-07-09,da nang,,hai chau,hc1,,,,False
+205,Cơm Tú Tài,,nguyen tran đinh tu,62.0,hai phong,hc1,hai chau,Cơm gà,0964-514574,,,32a8038472,,da nang,,hai chau,hc1,,,,False
+206,Món ngon Hà Nội - Cô Thường,,pham thi thuong,,hai phong,tt,hai chau,Ăn uống giải khát,0982-126955,,,32a8020146,2013-06-12,da nang,,hai chau,tt,,,,False
+207,Quán Sanh,,pham thi thu huyen,,hai phong,tt,hai chau,Ăn uống giải khát,0905-522111,,2021-06-04,32a8027296,2018-01-05,da nang,,hai chau,tt,2021-04-05,2024-06-03,60.0,False
+208,Moss Coffee,,đang thi thuy tram,,hai phong,tt,hai chau,Cà phê giải khát,0905-404436,,2024-02-02,32a8025472,2017-12-02,da nang,,hai chau,tt,2023-12-04,2027-02-01,60.0,True
+209,Quán Cu Trai,,vo chi trai,,han mac tu,tp,,Ăn uống giải khát,0905-146373,,,32a8028070,,da nang,,,tp,,,,False
+210,Bánh mỳ quốc doanh,,le thi thanh mai,120.0,han thuyen,hcb,,Bánh mỳ thịt,0901-962118,,2020-05-10,32a8021982,2014-08-06,da nang,,,hcb,2020-03-11,2023-05-10,60.0,False
+211,Nguyễn Thị Thu Thuận,,nguyen thi thu thuan,226.0,han thuyen,hcb,,Ăn uống giải khát,0914-061151,,2023-12-01,32a8037446,,da nang,,,hcb,2023-10-02,2026-11-30,60.0,True
+212,Cá Nục,,tran thi nga,203.0,han thuyen,hcb,hai chau,Ăn uống giải khát,0906-462467,,,32a8018907,,da nang,,hai chau,hcb,,,,False
+213,Cơm Gà Gia Vĩnh,,vinh tuyen,37.0,hoang dieu,pn,,Ăn uống giải khát,0934-222210,,2024-04-12,32a8035663,,da nang,,,pn,2024-02-12,2027-04-12,60.0,True
+214,Yes Sushi,,tu thuy le ha,103.0,hoang dieu,pn,hai chau,Ăn uống giải khát,0903-546850,,2024-04-08,32a8026430,2017-07-20,da nang,,hai chau,pn,2024-02-08,2027-04-08,60.0,True
+215,Bán bánh mì thịt (Đ/Tiến),,nguyen thi minh,113.0,hoang dieu,pn,,Bánh mì thịt,0905-919609,,,32a8034122,2022-01-19,da nang,,,pn,,,,False
+216,Tiệm Chay An Tịnh,,luong xuan minh,135.0,hoang dieu,pn,,Ăn uống giải khát,0905-111260,,2022-09-09,32a8035641,2022-08-24,da nang,,,pn,2022-07-11,2025-09-08,60.0,False
+217,Mixue Hoàng Diệu,,le ngoc son,217.0,hoang dieu,nd,,Ăn uống giải khát,0344-680280,,,32a8036880,2023-04-06,da nang,,,nd,,,,False
+218,Tiệm Nướng Lò,,nguyen hong nha uyen,226.0,hoang dieu,nd,,Ăn uống giải khát,0795-583544,,,32a8038672,2024-02-02,da nang,,,nd,,,,False
+219,Cơm Thố Vịt Quay,,le thi diem quyen,232.0,hoang dieu,bh,hai chau,Ăn uống giải khát,0909-921828,,,32a8037626,2023-03-08,da nang,,hai chau,bh,,,,False
+220,Bún Chả Cá Hoàng Anh,,nguyen đinh nhat thanh,242.0,hoang dieu,nd,hai chau,Bún chả cá,0388-822522,,2021-01-11,32a8033411,2021-10-13,da nang,,hai chau,nd,2020-11-12,2024-01-11,60.0,False
+221,Bún Chả Cá Tuấn Mỹ,,nguyen đinh phu,242.0,hoang dieu,nd,hai chau,Bún chả cá,0775-539265,,2024-05-10,32a8032332,2020-12-29,da nang,,hai chau,nd,2024-03-11,2027-05-10,60.0,True
+222,Mỳ Quảng Thi,,nguyen thi tuong thi,251.0,hoang dieu,nd,hai chau,Mỳ quảng,0905-627558,,2024-07-05,32a8023273,2015-05-15,da nang,,hai chau,nd,2024-05-06,2027-07-05,60.0,True
+223,Bánh Bao Tươi WY Đà Nẵng,,luong thi tram anh,256.0,hoang dieu,nd,,Bán bánh bao,0906-366342,,,32a8035376,2022-07-07,da nang,,,nd,,,,False
+224,Cơm Gà Xối Mỡ,,le cong trong đai,264.0,hoang dieu,nd,,Ăn uống giải khát,0906-662665,,,32a8031592,2022-12-28,da nang,,,nd,,,,False
+225,Hồ Lê Duy Khánh,,ho le duy khanh,297.0,hoang dieu,bh,,Ăn uống giải khát,0909-319016,,,32a8037827,,da nang,,,bh,,,,False
+226,Ú Milk Tea-Trà Sữa Trân Châu,,nguyen van nhat,340.0,hoang dieu,bt,,Ăn uống giải khát,0394-569814,,2024-05-10,32a8036226,,da nang,,,bt,2024-03-11,2027-05-10,60.0,True
+227,Tiệm Bánh Mỳ Nâu Nè,,nguyen thi tu trinh,366.0,hoang dieu,bt,,Bánh mỳ,0702-322225,,,32a8036748,2023-03-16,da nang,,,bt,,,,False
+228,Bánh Xèo Miền Trung Bà Tình,,ngo thi thanh,,hoang dieu,bh,hai chau,Ăn uống giải khát,0918-820010,,2024-08-09,32a8017705,2011-11-07,da nang,,hai chau,bh,2024-06-10,2027-08-09,60.0,True
+229,Cơm Thố Thiên Phúc,,hoang van hao,432.0,hoang dieu,bt,,Ăn uống giải khát,0798-888552,,,32a8036760,2023-03-17,da nang,,,bt,,,,False
+230,Nguyễn Thị Hồng Nhung 1997,,nguyen thi hong nhung,441.0,hoang dieu,bt,,Cà phê giải khát,0987-207559,,2024-01-05,32a8038351,,da nang,,,bt,2023-11-06,2027-01-04,60.0,True
+231,Cơm Tấm Ngon,,trinh ky hung,452.0,hoang dieu,bt,,Ăn uống giải khát,0358-855325,,,32a8034960,2022-05-09,da nang,,,bt,,,,False
+232,Cà phê Hoàng Gia,,nguyen thi minh thu,457.0,hoang dieu,bt,hai chau,Cà phê giải khát,0903-522755,,,32a8023407,2015-06-08,da nang,,hai chau,bt,,,,False
+233,Heo Nướng Lu Ông Phú Đạt,,nguyen phu đat,467.0,hoang dieu,bt,,Ăn uống giải khát,0859-909909,,2024-07-05,32a8029002,,da nang,,,bt,2024-05-06,2027-07-05,60.0,True
+234,Xôi Lá Việt,,le minh quan,525.0,hoang dieu,htđ,,Ăn uống giải khát,0906-510703,,,32a8030492,2019-10-25,da nang,,,htđ,,,,False
+235,Vịt 29Y3,,đo nhat minh,583.0,hoang dieu,htđ,,Ăn uống giải khát,0583-721111,,,32a8036334,2022-12-22,da nang,,,htđ,,,,False
+236,Quán Chay Thúy,,nguyen thi thuy phuong,122.0,hoang dieu,pn,hai chau,Ăn uống giải khát,0913-430020,,2022-10-01,32a8033483,2021-10-20,da nang,,hai chau,pn,2022-08-02,2025-09-30,60.0,False
+237,Khương Hồng Quân,,khuong hong quan,415.0,hoang dieu,bt,,Ăn uống giải khát,0905-342608,,2024-06-03,32a8038900,,da nang,,,bt,2024-04-04,2027-06-03,60.0,True
+238,SX bánh Đồng Tâm,,nguyen thi kim anh,502.0,hoang dieu,bt,hai chau,Bánh mì thịt,0236-3552477,,,32a8003553,2000-01-07,da nang,,hai chau,bt,,,,False
+239,Xóm Đêm,,đo huu tuan anh,60.0,hoang dieu,pn,,Ăn uống giải khát,0902-616768,,2022-07-12,32a8029824,2019-06-15,da nang,,,pn,2022-05-13,2025-07-11,60.0,False
+240,Hồng Nguyệt,,nguyen van hong,,hoang dieu,hc2,,Bún tô,0906-481282,,,32a8029113,,da nang,,,hc2,,,,False
+241,Na Na,,nguyen xuan huy,,hoang dieu,nd,,Ăn uống giải khát,0905-625512,,2023-07-11,32a8029276,2019-04-03,da nang,,,nd,2023-05-12,2026-07-10,60.0,True
+242,Quán Nhậu Hiếu,,nguyen trung hieu,,hoang dieu,nd,hai chau,Ăn uống giải khát,0904-413115,,,32a8025275,2016-10-07,da nang,,hai chau,nd,,,,False
+243,Quán Nhậu Khanh,,nguyen thi minh hai,,hoang dieu,nd,hai chau,Ăn uống giải khát,0905-223500,,,32a8027602,2018-03-19,da nang,,hai chau,nd,,,,False
+244,Bánh Xèo Bé Dung,,nguyen thi kim dung,,hoang dieu,bh,hai chau,Ăn uống giải khát,0236-3828731,,2022-10-08,32a8024963,2016-07-04,da nang,,hai chau,bh,2022-08-09,2025-10-07,60.0,False
+245,Cơm Gà Nam Chợ Mới,,nguyen van nam,589.0,hoang dieu,htđ,,Ăn uống giải khát,0905-443882,,,32a8029534,,da nang,,,htđ,,,,False
+246,Quán Chay Thiện Duyên,,tran thi bieu,,hoang dieu,bh,hai chau,Ăn uống giải khát,0236-3550497,,2022-09-09,32a8004237,,da nang,,hai chau,bh,2022-07-11,2025-09-08,60.0,False
+247,Nguyễn Thị Anh Thư,,nguyen thi anh thu,,hoang dieu,bh,,Ăn uống giải khát,0905-002201,,,32a8023199,2015-04-24,da nang,,,bh,,,,False
+248,Tím Coffee ,,quach an hao,,hoang dieu,bt,,Ăn uống giải khát,0932-344971,,2023-07-11,32a8038070,,da nang,,,bt,2023-05-12,2026-07-10,60.0,True
+249,Hải Sản Bà Tám,,nguyen huu viet,,hoang dieu,,,Ăn uống giải khát,0903-578021,,,32a8033252,2021-10-05,da nang,,,,,,,False
+250,Ayi,,nguyen danh cong,4.0,hoang van thu,pn,,Ăn uống giải khát,0909-289158,,,32a8032532,2021-02-22,da nang,,,pn,,,,False
+251,Cơm Mẹ Anh,,tran thi kim hang,15.0,hoang van thu,pn,,Ăn uống giải khát,0965-712679,,,32a8039090,,da nang,,,pn,,,,False
+252,Hủ Tiếu Kỳ Kỳ,,le hoang ky,22.0,hoang van thu,pn,,Ăn uống giải khát,0905-551663,,,32a8034226,,da nang,,,pn,,,,False
+253,A Cường,,phan thanh thanh,22.0,hoang van thu,pn,,Ăn uống giải khát,0766-548735,,2020-05-10,32a8031687,2020-07-21,da nang,,,pn,2020-03-11,2023-05-10,60.0,False
+254,Khu Vui Chơi Kids Garden,,vo thi hoai thuong,34.0,hoang van thu,pn,,Ăn uống giải khát,0905-379345,,2023-06-01,32a8037069,,da nang,,,pn,2023-04-02,2026-05-31,60.0,True
+255,Quán Cà phê Cây Khế,,phan ngoc nam,36.0,hoang van thu,pn,hai chau,Cà phê giải khát,0934-310203,,2022-12-05,32a8024068,2015-10-15,da nang,,hai chau,pn,2022-10-06,2025-12-04,60.0,True
+256,Still,,mai thanh duy,39.0,hoang van thu,pn,,Ăn uống giải khát,0906-347111,,2024-03-08,32a8038300,,da nang,,,pn,2024-01-08,2027-03-08,60.0,True
+257,Bò Né Khanh,,ho đac khanh,41.0,hoang van thu,pn,hai chau,Ăn uống giải khát,0903-587248,,,32a8015702,2000-06-07,da nang,,hai chau,pn,,,,False
+258,Ken Sushi,,nguyen thanh nhat,52.0,hoang van thu,pn,,Ăn uống giải khát,0905-338441,,2023-05-09,32a8037488,,da nang,,,pn,2023-03-10,2026-05-08,60.0,True
+259,Sangha,,nguyen thi cat tien,84.0,hoang van thu,pn,,Ăn uống giải khát,0905-223471,,,32a8033912,,da nang,,,pn,,,,False
+260,Umi Sushi,,ly ton đat,88.0,hoang van thu,pn,,Ăn uống giải khát,0778-307123,,,32a8034233,2022-02-23,da nang,,,pn,,,,False
+261,Bán nước dừa,,trinh thi hoa,89.0,hoang van thu,pn,hai chau,Cà phê giải khát,0382-041468,,,32a8000360,2000-06-27,da nang,,hai chau,pn,,,,False
+262,Huy Coffee,,nguyen thi nhu quynh,95.0,hoang van thu,pn,hai chau,Cà phê giải khát,0935-179942,,2022-04-04,32a8034176,2022-02-15,da nang,,hai chau,pn,2022-02-03,2025-04-03,60.0,False
+263,Bà Thông,,tran thi kim ngoc,99.0,hoang van thu,pn,hai chau,Ăn uống giải khát,0236-3865432,,,32a8001791,,da nang,,hai chau,pn,,,,False
+264,"Bánh bèo, gói, nậm",,bui thi my phuong,100.0,hoang van thu,pn,hai chau,Ăn uống giải khát,0906-450463,,2022-12-05,32a8023887,2015-01-09,da nang,,hai chau,pn,2022-10-06,2025-12-04,60.0,True
+265,Trần Việt Hưng,,tran viet hung,57.0,hoang van thu,pn,,Ăn uống giải khát,0906-508386,,,32a8030879,2020-01-07,da nang,,,pn,,,,False
+266,Tường Nguyễn,,vu hong van,28.0,hung hoa 4,hcn,,Ăn uống giải khát,0905-640960,,,32a8035930,,da nang,,,hcn,,,,False
+267,Phúc Ký,,le ba quynh anh,6.0,hung vuong,hc1,,Ăn uống giải khát,0935-582929,,,32a8033062,2021-06-15,da nang,,,hc1,,,,False
+268,Bánh Mì Happy Bread Mì AA,,nguyen van đat,10.0,hung vuong,hc1,,Ăn uống giải khát,0935-100661,,,32a8038378,2023-05-12,da nang,,,hc1,,,,False
+269,Bánh Bông Lan Đài Loan King Castella,,le thi thanh thuy,31.0,hung vuong,hc1,,Sản xuất bánh,0905-451789,,,32a8027838,2018-05-04,da nang,,,hc1,,,,False
+270,Cà phê SSARAL,,nguyen đang thuy duong,48.0,hung vuong,hc1,,Ăn uống giải khát,0966-195269,,2020-05-03,32a8030951,2020-01-17,da nang,,,hc1,2020-03-04,2023-05-03,60.0,False
+271,La Vie En Rose,,nguyen ho que nhu,67.0,hung vuong,hc1,,Ăn uống giải khát,0965-053511,,,32a8035569,2022-08-09,da nang,,,hc1,,,,False
+272,Café Đêm,,tran đinh hoang,76.0,hung vuong,hc1,,Ăn uống giải khát,0906-424722,,2022-07-04,32a8032713,2021-03-26,da nang,,,hc1,2022-05-05,2025-07-03,60.0,False
+273,Bún Bò Bà Xinh,,nguyen thi lieu,81.0,hung vuong,hc1,,Ăn uống giải khát,0703-480775,,,32a8037949,,da nang,,,hc1,,,,False
+274,Căng Tin Trường,,nguyen duy luu,99.0,hung vuong,hc1,,Ăn uống giải khát,0934-746234,,,32a8029137,2019-01-11,da nang,,,hc1,,,,False
+275,A Mập Food,,nguyen bich phuong,149.0,hung vuong,hc2,,Ăn uống giải khát,0977-735103,,,32a8038766,2024-04-03,da nang,,,hc2,,,,False
+276,Bánh Mỳ Ông Tý,,ho thi mong ha,272.0,hung vuong,hc2,hai chau,Bánh mì thịt,0905-131630,,2022-09-09,32a8019615,2013-01-07,da nang,,hai chau,hc2,2022-07-11,2025-09-08,60.0,False
+277,Nguyễn Thị Thêm,,nguyen thi them,67.0,huy can,hcn,,Ăn uống giải khát,0935-263534,,,32a8038228,2023-08-11,da nang,,,hcn,,,,False
+278,Bếp Chay Nguyệt Cát,,pham thi diem,99.0,huy can,hcn,,Ăn uống giải khát,0904-545080,,2024-08-05,32a8039572,,da nang,,,hcn,2024-06-06,2027-08-05,60.0,True
+279,Mixue,,tran trung nghia,121.0,huynh tan phat,hcn,,Ăn uống giải khát,0987-924300,,,32a8036134,,da nang,,,hcn,,,,False
+280,Quán Nhậu 129,,tran thi ha,129.0,huynh tan phat,hcn,hai chau,Ăn uống giải khát,0973-256338,,,32a8024446,2016-02-02,da nang,,hai chau,hcn,,,,False
+281,Bánh Canh Cá Dầm Hương BMT,,le thi bich thuy,151.0,huynh tan phat,hcn,,Ăn uống giải khát,0766-789777,,,32a8037639,2023-07-08,da nang,,,hcn,,,,False
+282,Quán Sáu Cường,,huynh thi sau,43.0,huynh tan phat,hcb,hai chau,Ăn uống giải khát,0949-429199,,,32a8013999,2008-11-11,da nang,,hai chau,hcb,,,,False
+283,Bún Thịt Nướng Kim Anh,,le thi hong thu,63.0,huynh thuc khang,nd,,Ăn uống giải khát,0903-579427,,,32a8029596,2019-05-02,da nang,,,nd,,,,False
+284,Phở Xưa 1998,,ho thi luong,148.0,huynh thuc khang,bh,,Ăn uống giải khát,0913-507289,,,32a8038561,2024-10-01,da nang,,,bh,,,,False
+285,Bún Cẩm,,vo thi cam,3.0,huynh thuc khang,nd,hai chau,Ăn uống giải khát,0834-333982,,2022-12-05,32a8017765,,da nang,,hai chau,nd,2022-10-06,2025-12-04,60.0,True
+286,Phi Ba Tào,,đinh thi bich huyen,12.0,huynh thuc khang,nd,,Ăn uống giải khát,0905-223336,,,32a8029773,,da nang,,,nd,,,,False
+287,Quán 08,,nguyen thi ut,12.0,huynh thuc khang,nd,,Ăn uống giải khát,0925-925555,,,32a8019108,,da nang,,,nd,,,,False
+288,Mỳ Quảng Kiểm Lâm,,nguyen xuan anh,114.0,huynh thuc khang,nd,,Ăn uống giải khát,0938-392039,,,32a8039092,,da nang,,,nd,,,,False
+289,Lê Thị Hồng,,le thi hong,118.0,huynh thuc khang,nd,,Ăn uống giải khát,0905-525755,,,32a8038210,2023-07-11,da nang,,,nd,,,,False
+290,Lẫu Bò Nhà Gỗ Đà Nẵng,,nguyen thi huyen,121.0,huynh thuc khang,bh,,Ăn uống giải khát,0788-554567,,,32a8035915,2022-10-18,da nang,,,bh,,,,False
+291,Vạn Lộc,,nguyen van nhut,124.0,huynh thuc khang,nd,hai chau,Ăn uống giải khát,0905-051897,,,32a8025860,,da nang,,hai chau,nd,,,,False
+292,Bún Mắm Bà Đông,,huynh thi đong,141.0,huynh thuc khang,bt,hai chau,Bún mắm,0934-957419,,,32a8023368,2017-06-05,da nang,,hai chau,bt,,,,False
+293,Cobong Coffee & Milktea,,ngo thi huyen trang,158.0,huynh thuc khang,bh,,Ăn uống giải khát,0905-408970,,2023-06-05,32a8035147,,da nang,,,bh,2023-04-06,2026-06-04,60.0,True
+294,Nem Nướng Út Nâu,,nguyen tan lam,162.0,huynh thuc khang,bh,,Ăn uống giải khát,0909-093281,,2024-08-05,32a8039486,2024-07-07,da nang,,,bh,2024-06-06,2027-08-05,60.0,True
+295,Bánh Mỳ Ốp La,,phan van co,144.0,huynh thuc khang,bh,hai chau,Bánh mì ốp la,0905-245378,,,32a8004700,2003-01-01,da nang,,hai chau,bh,,,,False
+296,Karaoke Victory KTV,,bui quoc hien,,khu đao xanh,hcb,,Ăn uống giải khát,0935-857068,,2024-07-11,32a8035855,,da nang,,,hcb,2024-05-12,2027-07-11,60.0,True
+297,Tropi,,mai huynh thi ngoc han,68.0,le anh xuan,hcn,,Bánh các loại,0368-974947,,2023-07-04,32a8029965,2023-04-03,da nang,,,hcn,2023-05-05,2026-07-03,60.0,True
+298,Đỗ Hoàng Thủy Tiên,,đo hoang thuy tien,34.0,le dinh duong,pn,,Ăn uống giải khát,0889-192111,,2024-04-08,32a8038594,,da nang,,,pn,2024-02-08,2027-04-08,60.0,True
+299,Nhậu Chil Chil,,nguyen vinh nhan,4.0,le đinh duong,pn,,Ăn uống giải khát,0909-243888,,,32a8039214,,da nang,,,pn,,,,False
+300,Pine Appcle,,nguyen the long,10.0,le đinh duong,pn,,Ăn uống giải khát,0919-740455,,,32a8032870,2021-04-07,da nang,,,pn,,,,False
+301,Hello DANANG,,tran thi huyen,10.0,le đinh duong,pn,,Ăn uống giải khát,0369-598883,,2024-07-11,32a8039204,,da nang,,,pn,2024-05-12,2027-07-11,60.0,True
+302,Tigon Coffee,,huynh thi ha giang,32.0,le đinh duong,pn,,Cà phê giải khát,0932-572101,,,32a8033863,2021-12-07,da nang,,,pn,,,,False
+303,Omori Don,,truong thi thu trang,40.0,le đinh duong,pn,,Ăn uống giải khát,0971-257689,,,32a8037804,2023-05-09,da nang,,,pn,,,,False
+304,Món Quảng,,tran thi vy phuong,44.0,le đinh duong,pn,hai chau,Ăn uống giải khát,0934-814594,,2022-04-05,32a8027566,2018-03-12,da nang,,hai chau,pn,2022-02-04,2025-04-04,60.0,False
+305,3 LA CAPHE,,trinh xuan hung,52.0,le đinh duong,pn,,Ăn uống giải khát,0905-585896,,,32a8032431,2021-01-16,da nang,,,pn,,,,False
+306,Túc Tắc Tea Lê Đình Dương,,tran thi my duyen,70.0,le đinh duong,pn,,Nước giải khát,0939-105701,,2024-02-02,8843872961-002,,da nang,,,pn,2023-12-04,2027-02-01,60.0,True
+307,Mixue ,,nguyen khanh ly,111.0,le đinh duong,nd,,Ăn uống giải khát,0363-746661,,,32a8037111,,da nang,,,nd,,,,False
+308,Ocha House,,ta van anh khoa,111.0,le đinh duong,nd,,"Cà phê, trà sữa",0937-267272,,,32a8032509,2021-02-02,da nang,,,nd,,,,False
+309,Cà Phê Nhạc Xưa,,vo ngoc cuong,115.0,le đinh duong,nd,hai chau,Cà phê giải khát,0905-177893,,,32a8023935,2015-09-11,da nang,,hai chau,nd,,,,False
+310,Bún Dì Gái,,le thi phuong,119.0,le đinh duong,nd,hai chau,Bún chả cá,0932-550892,,2022-06-06,32a8022891,2015-02-02,da nang,,hai chau,nd,2022-04-07,2025-06-05,60.0,False
+311,Phở Khô Gia Lai,,đo trung hieu,120.0,le đinh duong,pn,,Ăn uống giải khát,0914-134509,,,32a8034978,,da nang,,,pn,,,,False
+312,Cà phê Đàn,,nguyen thi anh trinh,125.0,le đinh duong,nd,hai chau,Cà phê giải khát,0908-358456,,,32a8035004,2022-05-12,da nang,,hai chau,nd,,,,False
+313,Quán Bánh Canh Tơ,,le thi hoai nhi,140.0,le đinh duong,hc2,hai chau,Bánh canh,0928-535550,,,32a8029185,2019-01-24,da nang,,hai chau,hc2,,,,False
+314,Cà phê Ba Gà,,nguyen thi hong loan,156.0,le đinh duong,hc2,hai chau,Cà phê giải khát,0905-239491,,,32a8016980,,da nang,,hai chau,hc2,,,,False
+315,Cửa Hàng Mộc An,,nguyen minh hieu,161.0,le đinh duong,nd,,Ăn uống giải khát,0934-839947,,2024-05-07,32a8038850,,da nang,,,nd,2024-03-08,2027-05-07,60.0,True
+316,Mỳ quảng Bà Vị,,nguyen huu hanh,166.0,le đinh duong,hc2,hai chau,Ăn uống giải khát,0906-406030,,2023-10-07,32a8014294,,da nang,,hai chau,hc2,2023-08-08,2026-10-06,60.0,True
+317,Mayaca Cà Phê,,vo thi thu van,113.0,le đinh duong,nd,,Cà phê giải khát,0905-590787,,,32a8039088,,da nang,,,nd,,,,False
+318,Coffee K-2D,,trinh thanh phuc,,le đinh duong,nd,,Ăn uống giải khát,0905-923456,,2021-08-01,32a8032130,2020-11-23,da nang,,,nd,2021-06-02,2024-07-31,60.0,False
+319,Tmore Cầu Rồng,,ho tuan anh,76.0,le đinh duong,pn,,Ăn uống giải khát,0901-408449,,,32a8034813,2022-04-20,da nang,,,pn,,,,False
+320,Mr Ro Coffee,,le thi be,,le đinh duong,nd,hai chau,Cà phê giải khát,0936-047431,,,32a8032629,2021-03-12,da nang,,hai chau,nd,,,,False
+321,Quán bà Thôi,,tran thi thom,,le đinh duong,pn,hai chau,Ăn uống giải khát,0236-3825384,,,32a8029798,2019-06-10,da nang,,hai chau,pn,,,,False
+322,Trình Café,,nguyen quang thanh son,,le đinh duong,pn,,Cà phê giải khát,0932-453811,,,32a8034572,2022-03-23,da nang,,,pn,,,,False
+323,Phở Cồ Long,,nguyen van truong,,le đinh duong,pn,hai chau,Ăn uống giải khát,0985-277855,,,32a8026967,2017-11-03,da nang,,hai chau,pn,,,,False
+324,Socomart,,đang duy phuc,,le đinh duong,pn,,Ăn uống giải khát,0966-631987,,,32a8036398,2022-12-30,da nang,,,pn,,,,False
+325,Bánh Mỳ Đồng Tiến,,tran thi nhi,106.0,le đinh duong,pn,,Bánh mì thịt,0976-349286,,,32a8036418,2023-01-06,da nang,,,pn,,,,False
+326,MrP Bingsu & Tea,,trinh thi duyen,200.0,le đinh ly,htt,hai chau,Ăn uống giải khát,0886-485888,,2020-07-12,32a8031677,2020-07-17,da nang,,hai chau,htt,2020-05-13,2023-07-12,60.0,False
+327,Cà Phê Mêrita,,nguyen thi hien,211.0,le đinh ly,htt,,Ăn uống giải khát,0905-651994,,,32a8039683,2024-08-08,da nang,,,htt,,,,False
+328,Mộc Tea,,tran đinh huyen,,le đinh ly,htđ,,Ăn uống giải khát,0859-543777,,2020-07-12,32a8032069,2020-11-16,da nang,,,htđ,2020-05-13,2023-07-12,60.0,False
+329,Trà Sữa Ông Thọ,,nguyen thi anh tuyet,,le đinh ly,htđ,,Ăn uống giải khát,0903-588194,,2021-08-01,32a8024671,2016-04-28,da nang,,,htđ,2021-06-02,2024-07-31,60.0,False
+330,An,,nguyen van dinh,4.0,le đinh tham,htđ,,Ăn uống giải khát,0905-596967,,,32a8035564,,da nang,,,htđ,,,,False
+331,Lẫu Bò Thiện,,tran thi thien,48.0,le đinh tham,htđ,,Ăn uống giải khát,0905-919481,,2024-07-04,32a8026053,,da nang,,,htđ,2024-05-05,2027-07-04,60.0,True
+332,A Dũng,,pham thi thanh mai,,le đinh tham,htđ,hai chau,Ăn uống giải khát,0935-218705,,,32a8023850,,da nang,,hai chau,htđ,,,,False
+333,Chè Xuân Trang,,vo thi kiet,31.0,le duan,hc1,hai chau,Chè,0903-548922,,2023-06-09,32a8000236,,da nang,,hai chau,hc1,2023-04-10,2026-06-08,60.0,True
+334,Nguyễn Thanh Phương,,nguyen thanh phuong,2.0,le duan,hc1,,Cà phê giải khát,0986-612942,,,32a8022937,2015-02-26,da nang,,,hc1,,,,False
+335,AN NA,,tran hien,25.0,le duan,hc1,,Cà phê giải khát,0905-181200,,,32a8005798,,da nang,,,hc1,,,,False
+336,Phạm Đăng Hưng 2,,pham đang hung,27.0,le duan,hc1,,Nước giải khát,0967-700433,,,32a8039072,2024-09-06,da nang,,,hc1,,,,False
+337,Quán Ông Thọ,,nguyen viet hieu,,le duan,hc1,,Ăn uống giải khát,0935-555781,,2024-04-12,32a8037351,,da nang,,,hc1,2024-02-12,2027-04-12,60.0,True
+338,Việt Bách Chiến,,vo duy chien,,le duan,hc1,hai chau,Ăn uống giải khát,0932-536668,,,32a8027380,2018-01-16,da nang,,hai chau,hc1,,,,False
+339,Sofuo,,le hong son,,le duan,hc1,,Cà phê giải khát,0368-420264,,,32a8034651,2022-03-31,da nang,,,hc1,,,,False
+340,Quán Bún Chả Cá Bà Hoa,,le thi hoa,27.0,le hong phong,pn,hai chau,Bún chả cá,0905-815452,,2023-09-05,32a8000145,,da nang,,hai chau,pn,2023-07-07,2026-09-04,60.0,True
+341,A Phủi Quán,,ngo quang huy,30.0,le hong phong,pn,,Ăn uống giải khát,0901-177155,,,32a8030044,,da nang,,,pn,,,,False
+342,Phở Hoàng,,đang minh hoang,35.0,le hong phong,pn,hai chau,Phở,0912-013561,,,32a8027508,2018-02-26,da nang,,hai chau,pn,,,,False
+343,Dry Food,,truong thi hoai phuong,38.0,le hong phong,pn,,Ăn uống giải khát,0905-687379,,,32a8035786,2022-09-22,da nang,,,pn,,,,False
+344,Cơm Gà Bà Nguyệt Tam Kỳ,,nguyen thi thu nguyet,49.0,le hong phong,pn,,Ăn uống giải khát,0905-509949,,2024-05-07,32a8033433,,da nang,,,pn,2024-03-08,2027-05-07,60.0,True
+345,Mỳ Quảng Hồng Vân,,tran thi thu diem,59.0,le hong phong,pn,,Mỳ quảng,0788-492977,,2023-06-01,32a8027697,,da nang,,,pn,2023-04-02,2026-05-31,60.0,True
+346,Mỳ Quảng Sứa Hồng Nga,,pham thi thu nga,59.0,le hong phong,pn,,Mỳ quảng,0905-123732,,2024-07-11,32a8027582,,da nang,,,pn,2024-05-12,2027-07-11,60.0,True
+347,Cơm Bình Dân 59,,tran thi hue,59.0,le hong phong,pn,hai chau,Quán cơm,0935-351109,,,32a8014197,,da nang,,hai chau,pn,,,,False
+348,Udon Ten,,mai trung thong,73.0,le hong phong,pn,,Ăn uống giải khát,0332-884204,,2022-04-05,32a8034541,2022-03-21,da nang,,,pn,2022-02-04,2025-04-04,60.0,False
+349,Về Nhà Có Cơm,,nguyen thi nen,47.0,le hong phong,pn,,Ăn uống giải khát,0702-752186,,2024-09-06,32a8037806,2023-05-09,da nang,,,pn,2024-07-08,2027-09-06,60.0,True
+350,Kafe De June,,nguyen kim dung,87.0,le hong phong,pn,,Ăn uống giải khát,0936-016818,,2024-08-05,32a8039568,,da nang,,,pn,2024-06-06,2027-08-05,60.0,True
+351,Gé Café,,nguyen thi thanh loan,,le hong phong,pn,,Ăn uống giải khát,0935-350968,,,32a8033173,2021-07-21,da nang,,,pn,,,,False
+352,Thanh Hương,,le thi my hoa,33.0,le hong phong,pn,hai chau,Ăn uống giải khát,0942-258307,,,32a8006237,2004-01-01,da nang,,hai chau,pn,,,,False
+353,Trần Thị Bích Lan,,tran thi bich lan,39.0,le hong phong,pn,hai chau,Ăn uống giải khát,0905-135250,,2023-06-01,32a8017790,2011-04-08,da nang,,hai chau,pn,2023-04-02,2026-05-31,60.0,True
+354,Cozy Kitchen,,phan thi khanh thu,,le hong phong,pn,,Ăn uống giải khát,0905-369580,,2024-07-04,32a8038974,2024-08-07,da nang,,,pn,2024-05-05,2027-07-04,60.0,True
+355,Bún Chả Cá Bà Phiến,,ho thi thu,63.0,le hong phong,pn,hai chau,Ăn uống giải khát,0905-815452,,2024-05-07,32a8006401,2004-01-01,da nang,,hai chau,pn,2024-03-08,2027-05-07,60.0,True
+356,Hủ Tiếu Mực,,ho le thi my thuan,,le hong phong,pn,,Ăn uống giải khát,0905-555941,,,32a8032048,2020-11-11,da nang,,,pn,,,,False
+357,Phúc Lai,,nguyen khac nha,2.0,le lai,tt,hai chau,Nước mía,0905-696434,,,32a8026264,2017-06-16,da nang,,hai chau,tt,,,,False
+358,Quán Hùng Xiệc,,đang ngoc hung,8.0,le lai,tt,hai chau,Ăn uống giải khát,0236-3896620,,,32a8001544,,da nang,,hai chau,tt,,,,False
+359,Tiệm Bánh Mý Tasty By Len,,le thi ty len,49.0,le loi,tt,,Bánh mỳ,0905-849051,,,32a8037425,,da nang,,,tt,,,,False
+360,Dâu Ngọt Cà Phê,,pham thanh viet,50.0,le loi,tt,,Ăn uống giải khát,0935-111836,,,32a8036325,,da nang,,,tt,,,,False
+361,Nhà Dung,,vo nguyen dung,58.0,le loi,tt,,Ăn uống giải khát,0898-246886,,2022-04-05,32a8026925,,da nang,,,tt,2022-02-04,2025-04-04,60.0,False
+362,Sài Gòn Café Đá,,nguyen đinh anh huy,71.0,le loi,tt,,Ăn uống giải khát,0766-544888,,,32a8035073,2022-05-23,da nang,,,tt,,,,False
+363,Hiệu Mỳ Hạnh Phúc,,truong minh hoang,75.0,le loi,tt,,Ăn uống giải khát,0935-865665,,2023-08-09,32a8035830,,da nang,,,tt,2023-06-10,2026-08-08,60.0,True
+364,Lẫu Hương Cảng,,vo quang hung,95.0,le loi,tt,,Ăn uống giải khát,0905-250131,,,32a8030319,2019-09-20,da nang,,,tt,,,,False
+365,Nhà Hàng MR Pizza,,vo thi thuong,111.0,le loi,tt,,Ăn uống giải khát,0905-164661,,,32a8035058,2022-05-20,da nang,,,tt,,,,False
+366,Tiệm ăn Ba Qui,,luong lieu,113.0,le loi,tt,hai chau,Ăn uống giải khát,0983-624336,,,32a8017756,,da nang,,hai chau,tt,,,,False
+367,Dazzling,,nguyen minh hieu,127.0,le loi,hc1,,Ăn uống giải khát,0386-666580,,2023-03-08,32a8037502,,da nang,,,hc1,2023-01-07,2026-03-07,60.0,True
+368,Mo Te,,pham minh thu,146.0,le loi,hc1,hai chau,Trà sữa,0898-159998,,,32a8024181,2015-11-24,da nang,,hai chau,hc1,,,,False
+369,Faifo Bay Restaurant,,le trung quan,160.0,le loi,hc1,,Ăn uống giải khát,0935-007393,,,32a8034907,2022-04-29,da nang,,,hc1,,,,False
+370,Dính,,phan ngoc anh tu,161.0,le loi,hc1,,Cà phê giải khát,0906-427747,,,32a8036772,,da nang,,,hc1,,,,False
+371,Lác Caphece,,hoang vu my hanh,165.0,le loi,hc1,,Cà phê giải khát,0935-330102,,,32a8036279,,da nang,,,hc1,,,,False
+372,Soul Specialty Coffee,,pham trung hieu,189.0,le loi,hc1,,Cà phê giải khát,0837-055588,,2021-05-04,32a8031953,2020-10-16,da nang,,,hc1,2021-03-05,2024-05-03,60.0,False
+373,Cơm Tấm,,nguyen thi diem thuy,10.0,le loi,tt,,Ăn uống giải khát,0901-414243,,2022-11-11,32a8035917,2022-10-18,da nang,,,tt,2022-09-12,2025-11-10,60.0,True
+374,Thái Thiên Ngân,,thai thien ngan,20.0,le quy đon,bt,,Ăn uống giải khát,0905-306977,,2023-03-08,32a8037587,,da nang,,,bt,2023-01-07,2026-03-07,60.0,True
+375,Bún Bò Huế Hiền Vỹ Dạ,,duong thi hien,26.0,le quy đon,bt,,Ăn uống giải khát,0905-823622,,2023-06-01,32a8032904,,da nang,,,bt,2023-04-02,2026-05-31,60.0,True
+376,Nướng Bơ Mini,,nguyen nguyen thuc oanh,35.0,le quy đon,bt,,Ăn uống giải khát,0905-797139,,,32a8036038,,da nang,,,bt,,,,False
+377,An Tâm Lạc,,duong ngoc thien,41.0,le quy đon,bt,,Ăn uống giải khát,0988-967725,,,32a8032051,2020-11-11,da nang,,,bt,,,,False
+378,Nâu Food,,đinh thi le dung,205.0,le thanh nghi,hcb,,Ăn uống giải khát,0905-986960,,,32a8039295,,da nang,,,hcb,,,,False
+379,Mỳ Quảng Giao Thủy,,nguyen thi thuy le,20.0,le thanh nghi,hcb,hai chau,Mỳ quảng,0905-437611,,2022-10-08,32a8021632,,da nang,,hai chau,hcb,2022-08-09,2025-10-07,60.0,False
+380,Đặng Công Tạo,,đang cong tao,37.0,le thanh nghi,hcb,,Nước giải khát,0905-150824,,,32a8025213,,da nang,,,hcb,,,,False
+381,Thuận Việt,,mai le quynh giao,57.0,le thanh nghi,hcb,hai chau,Quán cơm,0779-424209,,2022-04-01,32a8023502,2015-03-27,da nang,,hai chau,hcb,2022-01-31,2025-03-31,60.0,False
+382,Bonpas Pakery & Coffee,,nguyen huu phuc,78.0,le thanh nghi,hcb,,Sản xuất bánh,0236-3619779,,2022-10-08,32a8030191,2019-08-29,da nang,,,hcb,2022-08-09,2025-10-07,60.0,False
+383,Ốc Cay Hà Nội,,nguyen viet bao,80.0,le thanh nghi,hcb,,Ăn uống giải khát,0977-828665,,,32a8029974,,da nang,,,hcb,,,,False
+384,Ốc 30K,,nguyen ngoc huynh,109.0,le thanh nghi,hcb,,Ăn uống giải khát,0879-207924,,,32a8037014,,da nang,,,hcb,,,,False
+385,Money,,nguyen thi xinh,111.0,le thanh nghi,hcn,,"Cà phê, trà sữa",0913-596078,,,32a8031387,2020-05-26,da nang,,,hcn,,,,False
+386,Hủ Tiếu Mực Thuận Thành,,nguyen huu thanh,114.0,le thanh nghi,hcb,,Ăn uống giải khát,0909-319016,,2022-11-03,32a8034090,2022-01-13,da nang,,,hcb,2022-09-04,2025-11-02,60.0,True
+387,Quán Chay Vegan,,đao thi thuy hong,114.0,le thanh nghi,hcb,,Ăn uống giải khát,0946-205604,,2024-04-08,32a8037765,,da nang,,,hcb,2024-02-08,2027-04-08,60.0,True
+388,Linh Bánh Canh Cá Lóc Huế,,vo đai xanh,120.0,le thanh nghi,hcb,hai chau,Bánh canh,0982-202443,,,32a8025500,2016-12-09,da nang,,hai chau,hcb,,,,False
+389,Bán bánh mì thịt (Đ/Tiến),,tran thi hang,126.0,le thanh nghi,hcb,,Bánh mỳ,0788-626986,,,32a8031612,2020-07-07,da nang,,,hcb,,,,False
+390,Vườn Bia,,nguyen xuan vu,130.0,le thanh nghi,hcb,hai chau,Ăn uống giải khát,0935-777889,,,32a8029458,2019-04-03,da nang,,hai chau,hcb,,,,False
+391,Cơm Tấm Ông Anh,,pham đuc anh,133.0,le thanh nghi,hcb,,Ăn uống giải khát,0905-123733,,,32a8035008,2022-05-12,da nang,,,hcb,,,,False
+392,Cơm Gà Gia Vĩnh,,đang thi my yen,153.0,le thanh nghi,hcb,,Ăn uống giải khát,0905-427429,,,32a8033823,2021-12-02,da nang,,,hcb,,,,False
+393,Thu Bánh Hỏi,,nguyen thi kieu thu,161.0,le thanh nghi,hcb,hai chau,Ăn uống giải khát,0985-010509,,2023-03-07,32a8025432,,da nang,,hai chau,hcb,2023-01-06,2026-03-06,60.0,True
+394,Minh Tân,,phan thi minh hang,183.0,le thanh nghi,hcb,,Ăn uống giải khát,0934-800887,,,32a8036591,,da nang,,,hcb,,,,False
+395,Quán Lan,,nguyen thi lan,189.0,le thanh nghi,hcb,hai chau,Ăn uống giải khát,0782-699731,,,32a8023036,,da nang,,hai chau,hcb,,,,False
+396,Cơm Gà Trang,,huynh thi hoang,195.0,le thanh nghi,hcb,hai chau,Ăn uống giải khát,0981-328128,,,32a8039312,2024-06-06,da nang,,hai chau,hcb,,,,False
+397,Quán Chay Thiên Phước Quang,,nguyen tam hoa,196.0,le thanh nghi,hcb,,Bán đồ chay,0949-868282,,2021-08-02,32a8032072,2020-11-16,da nang,,,hcb,2021-06-03,2024-08-01,60.0,False
+398,Mỳ Quảng Mến,,ho thi men,203.0,le thanh nghi,hcb,hai chau,Mỳ quảng,0905-911900,,,32a8018513,2016-11-09,da nang,,hai chau,hcb,,,,False
+399,Gà Nướng Lu A99,,nguyen thi anh nhat,221.0,le thanh nghi,hcb,,Ăn uống giải khát,0868-019950,,,32a8033018,2021-06-07,da nang,,,hcb,,,,False
+400,Ốc Xinh Sài Gòn,,đang thi huong,226.0,le thanh nghi,hcn,,Ăn uống giải khát,0906-274343,,,32a8029006,,da nang,,,hcn,,,,False
+401,Gà Rán Hàn Quốc-Choong Man Chicken,,nguyen van luyen,239.0,le thanh nghi,hcn,,Ăn uống giải khát,0989-084678,,2022-04-04,32a8034169,2022-02-14,da nang,,,hcn,2022-02-03,2025-04-03,60.0,False
+402,Nam Phong Quán,,nguyen xuan thao,240.0,le thanh nghi,hcn,,Ăn uống giải khát,0328-691018,,,32a8036041,,da nang,,,hcn,,,,False
+403,Cơm Niêu Singapore,,đinh van lung,265.0,le thanh nghi,hcn,,Ăn uống giải khát,0963-266551,,2023-03-08,32a8037299,,da nang,,,hcn,2023-01-07,2026-03-07,60.0,True
+404,Bò Cỏ Lẫu,,tran ba hoang,270.0,le thanh nghi,hcn,,Ăn uống giải khát,0942-353535,,,32a8032277,2020-12-21,da nang,,,hcn,,,,False
+405,Dấu Hỏi Cook Và Café,,pham van vinh,294.0,le thanh nghi,hcn,,Ăn uống giải khát,0905-284380,,,32a8031206,2020-04-08,da nang,,,hcn,,,,False
+406,Sky Beer,,vo thi tuyet minh,309.0,le thanh nghi,hcn,,Ăn uống giải khát,0905-552578,,2022-04-01,32a8033737,2021-11-19,da nang,,,hcn,2022-01-31,2025-03-31,60.0,False
+407,Nhà Hàng Phê,,le quoc dung,319.0,le thanh nghi,hcn,,Ăn uống giải khát,0842-398098,,2022-01-07,32a8034664,2022-04-01,da nang,,,hcn,2021-11-08,2025-01-06,60.0,False
+408,Mỳ Cay Chino,,nguyen van ty,321.0,le thanh nghi,hcn,,Ăn uống giải khát,0935-430201,,,32a8037073,2023-04-28,da nang,,,hcn,,,,False
+409,Quán Dũng Cây Bàng,,vo van dung,336.0,le thanh nghi,hcn,hai chau,Bê thui,0905-393424,,,32a8017056,2010-12-21,da nang,,hai chau,hcn,,,,False
+410,Ethio's Coffee,,nguyen thi minh thi,337.0,le thanh nghi,hcn,,Cà phê giải khát,0905-955030,,2023-12-09,32a8037778,,da nang,,,hcn,2023-10-10,2026-12-08,60.0,True
+411,Bánh Bao Thọ Phát,,vo le hoang tu,340.0,le thanh nghi,hcb,,Bánh bao,0919-824573,,2021-02-03,32a8032444,2021-01-21,da nang,,,hcb,2020-12-05,2024-02-03,60.0,False
+412,Bánh Mỳ Quốc Doanh,,ho đuc thinh,244.0,le thanh nghi,hcn,hai chau,Bánh mì thịt,0934-954459,,2022-04-11,32a8034832,2022-04-21,da nang,,hai chau,hcn,2022-02-10,2025-04-10,60.0,False
+413,Dzone Coffee 24H,,nguyen quang thien,,le thanh nghi,hcn,,Cà phê giải khát,0843-222899,,2024-06-10,32a8038982,2024-09-04,da nang,,,hcn,2024-04-11,2027-06-10,60.0,True
+414,1 Xị 2 Xô,,tran thai phuong uyen,,le thanh nghi,hcb,,Ăn uống giải khát,0799-995451,,2020-04-08,32a8031572,2020-07-02,da nang,,,hcb,2020-02-08,2023-04-08,60.0,False
+415,Hawa's Food,,nguyen nhat anh quan,94.0,le thanh nghi,hcb,,Ăn uống giải khát,0935-565759,,2023-12-01,32a8031414,2020-06-01,da nang,,,hcb,2023-10-02,2026-11-30,60.0,True
+416,Bánh Mì Bà Lan,,nguyen quang tuan,12.0,le thanh ton,hc1,,Bánh Mỳ,0905-040691,,,32a8037678,2024-02-06,da nang,,,hc1,,,,False
+417,Mỳ Quảng Bà Ngân,,le huu diem chi,,luong ngoc quyen,tp,hai chau,Ăn uống giải khát,0935-470429,,2021-12-04,32a8021107,2014-01-09,da nang,,hai chau,tp,2021-10-05,2024-12-03,60.0,False
+418,Quán Kho,,vo huy can,7.0,luong nhu hoc,hcb,,Cà phê giải khát,0934-818812,,2021-09-07,32a8032835,2021-04-15,da nang,,,hcb,2021-07-09,2024-09-06,60.0,False
+419,Hoàng Nguyên,,phan hoang nguyen,40.0,luong nhu hoc,htt,,Nước giải khát,0905-326964,,,32a8013456,,da nang,,,htt,,,,False
+420,Bánh Mỳ quốc Doanh 96,,hoang cong tich,96.0,luong nhu hoc,hcb,,Ăn uống giải khát,0905-515345,,,32a8031421,,da nang,,,hcb,,,,False
+421,Vũ Ni,,ton that vu,,luong nhu hoc,hcb,,Ăn uống giải khát,0935-284089,,,32a8037647,,da nang,,,hcb,,,,False
+422,Hội Ngộ,,pham hong thong,4.0,ly thuong kiet,tt,,Ăn uống giải khát,0905-992839,,,32a8033662,2021-11-09,da nang,,,tt,,,,False
+423,Rubik's Coffee,,tran chi thanh,17.0,ly thuong kiet,tt,,Ăn uống giải khát,0968-899767,,,32a8037054,,da nang,,,tt,,,,False
+424,Cà phê Bông,,le quang,34.0,ly thuong kiet,tt,,Ăn uống giải khát,0937-320670,,2022-04-05,32a8034743,2022-04-12,da nang,,,tt,2022-02-04,2025-04-04,60.0,False
+425,Pháo Food Gardeen,,đinh long binh,55.0,ly thuong kiet,tt,,Ăn uống giải khát,0782-210000,,,32a8033706,2021-11-16,da nang,,,tt,,,,False
+426,Hủ Tiếu Mỳ Lộc Ký,,đang thi thanh,22.0,ly thuong kiet,tt,,Ăn uống giải khát,0903-524652,,2024-06-10,32a8035904,2024-08-04,da nang,,,tt,2024-04-11,2027-06-10,60.0,True
+427,Bún Bò,,huyen ton nu bich diep,,ly thuong kiet,tt,,Ăn uống giải khát,0975-279629,,,32a8034895,,da nang,,,tt,,,,False
+428,Diha,,nguyen thai vien,71.0,ly tu trong,tt,,Ăn uống giải khát,0917-546528,,,32a8039523,2024-11-07,da nang,,,tt,,,,False
+429,Quán Phở Hồng,,hoang thi hong,10.0,ly tu trong,tt,hai chau,Ăn uống giải khát,0988-782341,,,32a8033996,2021-12-30,da nang,,hai chau,tt,,,,False
+430,Căn tin Tiểu học Lý Tự Trọng,,phan thi le quyen,12.0,ly tu trong,tt,,Ăn uống giải khát,0905-699556,,2022-04-11,0401879490,2021-03-10,da nang,,,tt,2022-02-10,2025-04-10,60.0,False
+431,Cộng Cà Phê-Lê Lan Phương,,le lan phuong,23.0,ly tu trong,tt,,Ăn uống giải khát,0947-624499,,,32a8030146,2019-08-16,da nang,,,tt,,,,False
+432,Phở Hương Trà,,đang thi huong tra,35.0,ly tu trong,tt,hai chau,Ăn uống giải khát,0913-671867,,2024-04-12,32a8032275,2020-12-19,da nang,,hai chau,tt,2024-02-12,2027-04-12,60.0,True
+433,Tiệm Cà Phê Cô Kem,,nguyen thanh thuy,37.0,ly tu trong,tt,,Cà phê giải khát,0905-005547,,2023-10-07,32a8036921,,da nang,,,tt,2023-08-08,2026-10-06,60.0,True
+434,Zi Coffee & Hostel,,truong huong giang,41.0,ly tu trong,tt,hai chau,Cà phê giải khát,0936-309431,,2021-03-02,32a8029123,2019-01-09,da nang,,hai chau,tt,2021-01-01,2024-03-01,60.0,False
+435,Bún Đậu Nhà Tý,,tran thi hai yen,86.0,ly tu trong,tt,,Ăn uống giải khát,0913-582991,,2023-06-05,32a8037032,,da nang,,,tt,2023-04-06,2026-06-04,60.0,True
+436,Quán Cháo Tôm,,van thi thiep,118.0,ly tu trong,tt,hai chau,Ăn uống giải khát,0236-3895932,,2021-08-02,32a8009781,2006-01-13,da nang,,hai chau,tt,2021-06-03,2024-08-01,60.0,False
+437,Bánh Mỳ Đồng Tiến,,pham thi kieu khac,142.0,ly tu trong,tp,,Bánh mì thịt,0935-364177,,,32a8036367,2022-12-27,da nang,,,tp,,,,False
+438,Bếp Nguồn,,nguyen thi truyen,192.0,ly tu trong,tb,,Ăn uống giải khát,0905-576674,,2022-10-08,32a8035522,2022-07-29,da nang,,,tb,2022-08-09,2025-10-07,60.0,False
+439,Cơm Chiên Giòn Gia Vĩnh,,vinh thai,129.0,ly tu trong,tb,,Ăn uống giải khát,0935-555514,,,32a8032372,2021-01-06,da nang,,,tb,,,,False
+440,Cajun,,tran vo thu ngan,,ly tu trong,tb,,Ăn uống giải khát,0898-990420,,,32a8035703,2022-09-07,da nang,,,tb,,,,False
+441,The Coffee 86,,vo thanh trung,,ly tu trong,tb,,Ăn uống giải khát,0901-715779,,2021-10-05,32a8032820,2021-04-13,da nang,,,tb,2021-08-06,2024-10-04,60.0,False
+442,Nhà hàng Việt Nam,,le thi bich tram,,ly tu trong,tt,,Ăn uống giải khát,0775-577567,,,32a8034661,2022-04-01,da nang,,,tt,,,,False
+443,Bia Thủ Công,,luu thuan,119.0,mai am,tp,,Ăn uống giải khát,0905-939044,,,32a8031448,2020-06-09,da nang,,,tp,,,,False
+444,Phở Bà Mai,,nguyen manh hung,5.0,mai di,hcb,,Ăn uống giải khát,0905-123468,,,32a8038852,,da nang,,,hcb,,,,False
+445,Gỏi Cá Bà Mỳ,,vo thi thu ha,11.0,mai lao bang,tp,hai chau,Gỏi cá,0913-430625,,,32a8023532,2015-06-23,da nang,,hai chau,tp,,,,False
+446,O Gái,,le thi kim dung,11.0,mac đinh chi,hc2,,Ăn uống giải khát,0935-300058,,,32a8038059,2023-12-10,da nang,,,hc2,,,,False
+447,Phở 29 Lotte,,vo đang tuong vi,,nai nam 6,hcb,,Ăn uống giải khát,0902-424333,,2024-03-08,32a8037993,2023-04-10,da nang,,,hcb,2024-01-08,2027-03-08,60.0,True
+448,Xí Xí Coffee And Cakes,,vu xuan anh thu,68.0,nai nam 8,hcb,,Ăn uống giải khát,0899-866975,,2023-02-11,32a8037274,,da nang,,,hcb,2022-12-13,2026-02-10,60.0,True
+449,Nguyễn Minh Luân,,nguyen minh luan,35.0,ngo gia tu,hc1,,Ăn uống giải khát,0898-999420,,,32a8036116,,da nang,,,hc1,,,,False
+450,Loxo Cafe & Beer,,đang hoang long,41.0,ngo gia tu,hc1,,Ăn uống giải khát,0934-929273,,,32a8035188,2022-06-08,da nang,,,hc1,,,,False
+451,Bánh Cuốn Hải Huệ,,truong cong hai,47.0,ngo gia tu,hc1,hai chau,Bánh cuốn,0934-999847,,,32a8017994,2011-03-10,da nang,,hai chau,hc1,,,,False
+452,Cà phê 49,,huynh thi loi,49.0,ngo gia tu,hc1,hai chau,Cà phê giải khát,0935-203908,,,32a8025903,,da nang,,hai chau,hc1,,,,False
+453,Enjoy Coffee,,tran vuong hieu,51.0,ngo gia tu,hc1,hai chau,Cà phê giải khát,0905-650133,,,32a8023290,2015-05-19,da nang,,hai chau,hc1,,,,False
+454,Bếp 91,,nguyen hong bao ngoc,91.0,ngo gia tu,hc1,,Ăn uống giải khát,0775-225224,,,32a8038805,2024-08-03,da nang,,,hc1,,,,False
+455,Cà phê giải khát,,vu xuan kien,106.0,ngo gia tu,hc2,hai chau,Cà phê giải khát,0766-786141,,,32a8013350,,da nang,,hai chau,hc2,,,,False
+456,A Dùng,,tran ngoc dung,125.0,ngo gia tu,hc1,hai chau,"Mỳ xíu, phở",0975-220978,,,32a8032727,2021-03-30,da nang,,hai chau,hc1,,,,False
+457,Cà phê Bảo Hương,,đo thi thu thao,127.0,ngo gia tu,hc1,hai chau,Cà phê giải khát,0236-3817040,,2021-06-04,0023/hkd,,da nang,,hai chau,hc1,2021-04-05,2024-06-03,60.0,False
+458,Quán 5A,,đoan viet phuong,,ngo gia tu,hc1,,Ăn uống giải khát,0941-007722,,2021-08-02,32a8032441,2021-01-20,da nang,,,hc1,2021-06-03,2024-08-01,60.0,False
+459,Phở 75,,nguyen thi thu ha,91.0,ngo gia tu,hc1,hai chau,Phở,0942-013362,,,32a8008638,,da nang,,hai chau,hc1,,,,False
+460,T-CE Coffee,,đang thi tien,,ngo gia tu,hc1,hai chau,Cà phê giải khát,0905-240014,,,32a8024653,2016-04-25,da nang,,hai chau,hc1,,,,False
+461,Quán Ăn Dim Sum,,trinh quoc cuong,,ngo gia tu,hc1,hai chau,Ăn uống giải khát,0945-022252,,,32a8025095,2016-08-09,da nang,,hai chau,hc1,,,,False
+462,Reden,,pham hong ha,10.0,nguyen chi thanh,tt,,Ăn uống giải khát,0935-161145,,,32a8038558,2024-10-01,da nang,,,tt,,,,False
+463,Bánh Mỳ Bà Ry - Madam Ry,,nguyen quoc chuong,14.0,nguyen chi thanh,tt,,Ăn uống giải khát,0905-111244,,,32a8037197,2024-04-04,da nang,,,tt,,,,False
+464,Nhà Mình BBQ & More,,pham phu cuong,19.0,nguyen chi thanh,tt,,Ăn uống giải khát,0795-111559,,,32a8036234,2022-12-07,da nang,,,tt,,,,False
+465,Minh Phương 1994,,huynh thi minh phuong,200.0,nguyen chi thanh,pn,,Ăn uống giải khát,0824-420850,,,32a8039507,2024-09-07,da nang,,,pn,,,,False
+466,Ikigai Garden Coffee NCT,,tran tien nhut,60.0,nguyen chi thanh,hc1,,Ăn uống giải khát,0937-372089,,,32a8034157,2022-01-27,da nang,,,hc1,,,,False
+467,Bánh Mỳ Ốp-la,,nguyen duy hoang lien,64.0,nguyen chi thanh,hc1,hai chau,Bánh mỳ Ốp-la,0935-377397,,2024-05-07,32a8016538,2004-01-01,da nang,,hai chau,hc1,2024-03-08,2027-05-07,60.0,True
+468,Burgerbros,,ngo thi thom,4.0,nguyen chi thanh,tt,,Ăn uống giải khát,0914-301072,,,32d8009259,,da nang,,,tt,,,,False
+469,Ẩm Thực Như Ý,,nguyen thi minh phuong,65.0,nguyen chi thanh,tt,,Đồ ăn sẵn,0901-909363,,,32a8035747,2022-09-16,da nang,,,tt,,,,False
+470,Fuky Beer,,nguyen thi bich lien,71.0,nguyen chi thanh,tt,,Ăn uống giải khát,0904-327932,,,32a8036839,2023-03-30,da nang,,,tt,,,,False
+471,Bánh canh Nga,,nguyen thi anh tuyet,78.0,nguyen chi thanh,hc1,hai chau,Bánh canh,0905-022644,,2022-12-05,32a8020674,,da nang,,hai chau,hc1,2022-10-06,2025-12-04,60.0,True
+472,Mía Juice,,ngo minh bao phu,82.0,nguyen chi thanh,hc1,,Ăn uống giải khát,0903-541414,,,32a8034646,2022-03-31,da nang,,,hc1,,,,False
+473,Kisci,,đang ngoc tuong vi,86.0,nguyen chi thanh,hc1,,Ăn uống giải khát,0905-662932,,,32a8035655,,da nang,,,hc1,,,,False
+474,Exchange+Coffee And Drinks,,tran minh tuan,118.0,nguyen chi thanh,hc2,,Ăn uống giải khát,0905-606889,,,32a8034037,2022-01-06,da nang,,,hc2,,,,False
+475,Namto House Coffee,,nguyen tran minh hieu,130.0,nguyen chi thanh,hc1,,Ăn uống giải khát,0948-877777,,,32a8029071,2022-03-07,da nang,,,hc1,,,,False
+476,Cà Phê Giải Khát,,tran đang quang,141.0,nguyen chi thanh,tt,,Cà phê giải khát,0768-063100,,,32a8035986,2022-10-27,da nang,,,tt,,,,False
+477,Piggy Coffee,,tran thi quynh nhi,156.0,nguyen chi thanh,hc1,,Ăn uống giải khát,0777-022242,,,32a8035356,2022-07-05,da nang,,,hc1,,,,False
+478,Xưa- Bún Đậu Mắm Tôm,,nguyen thi thanh hai,156.0,nguyen chi thanh,hc1,,Ăn uống giải khát,0528-199268,,2024-03-08,32a8038584,2024-12-11,da nang,,,hc1,2024-01-08,2027-03-08,60.0,True
+479,Vựa Cua Cà Mau,,phan ho song tien,158.0,nguyen chi thanh,hc1,,Ăn uống giải khát,0911-472970,,,32a8035740,,da nang,,,hc1,,,,False
+480,Ti Cafe,,tran minh khoa,259.0,nguyen chi thanh,pn,,Ăn uống giải khát,0989-155668,,2024-09-09,32a8032255,,da nang,,,pn,2024-07-11,2027-09-09,60.0,True
+481,Bếp Nhà Vin,,vo thanh tam,176.0,nguyen chi thanh,pn,,Ăn uống giải khát,0905-009600,,2024-05-10,32a8038290,,da nang,,,pn,2024-03-11,2027-05-10,60.0,True
+482,Tiệm Cơm 1902,,phan hoang long,198.0,nguyen chi thanh,pn,,Ăn uống giải khát,0905-252790,,2022-05-08,32a8035250,2022-06-17,da nang,,,pn,2022-03-09,2025-05-07,60.0,False
+483,Bánh Canh Bà Sen,,nguyen đong hung,221.0,nguyen chi thanh,hc1,,Ăn uống giải khát,0906-761121,,2023-06-02,32a8035624,2022-08-19,da nang,,,hc1,2023-04-03,2026-06-01,60.0,True
+484,Bánh Cuốn Kim Cúc,,nguyen thi phuc,247.0,nguyen chi thanh,pn,hai chau,Bánh cuốn,0236-3561192,,2022-12-05,32a8008253,2004-01-01,da nang,,hai chau,pn,2022-10-06,2025-12-04,60.0,True
+485,Tàu Hủ Singapore Truyền Thái Y và Coffee,,le quang nghia,273.0,nguyen chi thanh,pn,,Cà phê giải khát,0932-201320,,2022-04-04,32a8033611,2021-11-04,da nang,,,pn,2022-02-03,2025-04-03,60.0,False
+486,Tâm,,đoan thi tam,291.0,nguyen chi thanh,pn,hai chau,Ăn uống giải khát,0905-051262,,,32a8023544,,da nang,,hai chau,pn,,,,False
+487,Thanh Hương Quán,,hoang thi thanh huong,5.0,nguyen chi thanh,tt,,Ăn uống giải khát,0915-613688,,2020-10-07,32a8030785,2019-12-20,da nang,,,tt,2020-08-08,2023-10-07,60.0,False
+488,Lê Thị Xuân ,,le thi xuan,109.0,nguyen chi thanh,hc1,hai chau,Bún chả cá,0945-713171,,2022-04-04,32a8014139,,da nang,,hai chau,hc1,2022-02-03,2025-04-03,60.0,False
+489,Bò Né Lan Hương,,lam trung dan,110.0,nguyen chi thanh,hc1,hai chau,Bánh mỳ Ốp-la,0763-628777,,,32a8007213,2001-06-06,da nang,,hai chau,hc1,,,,False
+490,Nhà Hàng Tài Tử,,nguyen hai phu,,nguyen chi thanh,hc1,,Ăn uống giải khát,0903-572065,,,32a8032964,2022-07-13,da nang,,,hc1,,,,False
+491,Chin's Kitchen,,nguyen thi phuong lan,,nguyen chi thanh,hc1,,Ăn uống giải khát,0906-425162,,2020-04-08,32a8031582,2020-07-06,da nang,,,hc1,2020-02-08,2023-04-08,60.0,False
+492,Lê Minh Hoàng,,le minh hoang,,nguyen chi thanh,tt,,Ăn uống giải khát,0935-816685,,,32a8025829,2017-03-16,da nang,,,tt,,,,False
+493,Makara,,ha thi nhu thuy,,nguyen chi thanh,pn,,Ăn uống giải khát,0901-991255,,2023-12-06,32a8037202,,da nang,,,pn,2023-10-07,2026-12-05,60.0,True
+494,Phở Hà Nội,,pham ho xuan,177.0,nguyen chi thanh,hc1,hai chau,Phở,0905-800307,,2023-03-04,32a8012935,,da nang,,hai chau,hc1,2023-01-03,2026-03-03,60.0,True
+495,Tưởng Cà Phê,,bui tien loi,,nguyen chi thanh,pn,,Ăn uống giải khát,0988-422646,,,32a8037055,2023-04-26,da nang,,,pn,,,,False
+496,Grand T Coffee,,nguyen thi my duyen,287.0,nguyen chi thanh,pn,,Ăn uống giải khát,0903-507137,,2022-11-11,32a8027842,2018-05-07,da nang,,,pn,2022-09-12,2025-11-10,60.0,True
+497,Lươn 51R,,tran dung,,nguyen chi thanh,tt,,Ăn uống giải khát,0937-888626,,,32a8035687,2022-09-05,da nang,,,tt,,,,False
+498,Poetry Food & Drinks,,phan thi thuy,,nguyen chi thanh,tt,,Cà phê giải khát,0905-676797,,,32a8020806,2018-05-21,da nang,,,tt,,,,False
+499,Olga,,phan nguyen gia hoang,,nguyen chi thanh,hc1,,Cà phê giải khát,0905-558398,,,32a8030348,2019-09-27,da nang,,,hc1,,,,False
+500,Bún Bò 75,,ha thi thanh huong,75.0,nguyen chi thanh,tt,hai chau,Bún bò Huế,0905-409177,,2022-11-07,32a8023457,,da nang,,hai chau,tt,2022-09-08,2025-11-06,60.0,True
+501,Nhà Hàng Lin Lin,,đo thuy hoang linh,,nguyen chi thanh,tt,,Ăn uống giải khát,0913-159456,,2020-03-02,32a8015452,2009-11-06,da nang,,,tt,2020-01-02,2023-03-02,60.0,False
+502,Quán Cơm Hạnh,,phan thi kim hanh,,nguyen chi thanh,tt,hai chau,Quán cơm,0905-648860,,2024-05-07,32a8016751,,da nang,,hai chau,tt,2024-03-08,2027-05-07,60.0,True
+503,Quán Hà Nội Xưa,,nguyen thi huong giang,,nguyen chi thanh,tt,hai chau,Ăn uống giải khát,0987-576768,,,32a8022663,2014-12-26,da nang,,hai chau,tt,,,,False
+504,Yến Sào Vi Vi,,vo viet ly,,nguyen chi thanh,hc1,,Ăn uống giải khát,0909-303203,,,32a8039151,2024-10-05,da nang,,,hc1,,,,False
+505,Nối Cà Phê,,tran thi thanh tam,,nguyen chi thanh,hc1,,Cà phê giải khát,0935-644537,,2023-05-09,32a8029499,,da nang,,,hc1,2023-03-10,2026-05-08,60.0,True
+506,Bún Chả,,ngo thi bao tram,,nguyen chi thanh,hc1,,Ăn uống giải khát,0905-255250,,,32a8034006,2021-12-31,da nang,,,hc1,,,,False
+507,Chả Ông Tý,,pham thi hong thai,,nguyen chi thanh,tt,,Sản xuất và bán chả,0772-503060,,2022-12-10,32a8028420,2018-08-22,da nang,,,tt,2022-10-11,2025-12-09,60.0,True
+508,Bánh canh Thu,,nguyen tan xa,,nguyen chi thanh,hc1,hai chau,Bánh canh,0935-845478,,2021-08-02,32a8024428,2016-01-25,da nang,,hai chau,hc1,2021-06-03,2024-08-01,60.0,False
+509,Mỹ Liên Quán,,nguyen hoai nam,15.0,nguyen đon tiet,tp,,Ăn uống giải khát,0906-492544,,,32a8032168,2020-12-01,da nang,,,tp,,,,False
+510,Chloe Chloe,,tran phan bao tram,7.0,nguyen du,tt,,Ăn uống giải khát,0984-266666,,,32a8035782,2022-09-22,da nang,,,tt,,,,False
+511,Bunny,,hoang hung anh,12.0,nguyen du,tt,,Ăn uống giải khát,0963-868102,,2023-07-11,32a8035654,2023-09-10,da nang,,,tt,2023-05-12,2026-07-10,60.0,True
+512,Cà phê & Trà sữa Money,,ton that cam hung,17.0,nguyen du,tt,hai chau,Trà sữa,0913-596078,,,32a8023596,2016-12-23,da nang,,hai chau,tt,,,,False
+513,Tiara Lounge,,nguyen thi hung,31.0,nguyen du,tt,,Ăn uống giải khát,0905-704012,,2022-10-08,32a8034610,2022-03-28,da nang,,,tt,2022-08-09,2025-10-07,60.0,False
+514,Kardio Fitness By Thanh Xuân,,nguyen phuc thanh ngan,42.0,nguyen du,tt,,Cà phê giải khát,0946-000818,,2022-07-12,32a8032163,2022-08-12,da nang,,,tt,2022-05-13,2025-07-11,60.0,False
+515,Quán Cơm Xuân,,le thi xuan,46.0,nguyen du,tt,,Ăn uống giải khát,0905-725584,,,32a8033441,,da nang,,,tt,,,,False
+516,Cà Phê Tranh,,ngo thi bich đao,,nguyen du,tt,,Ăn uống giải khát,0905-290089,,2023-08-09,32a8030533,,da nang,,,tt,2023-06-10,2026-08-08,60.0,True
+517,Sushi Ya,,le chau thao vi,,nguyen du,tt,,Ăn uống giải khát,0375-368636,,2023-09-05,32a8036824,2023-03-29,da nang,,,tt,2023-07-07,2026-09-04,60.0,True
+518,Râm Corner,,nguyen hoang anh tuan,175.0,nguyen hoang,nd,,Ăn uống giải khát,0974-377417,,,32a8037384,,da nang,,,nd,,,,False
+519,Tmore 2417,,ho tuan anh,191.0,nguyen hoang,nd,,Ăn uống giải khát,0901-408449,,,32a8034813,2024-02-02,da nang,,,nd,,,,False
+520,Bán bánh mì thịt (Đ/Tiến),,nguyen thi ninh,193.0,nguyen hoang,nd,,Sản xuất bánh,0907-747229,,,32a8034121,2022-01-19,da nang,,,nd,,,,False
+521,Bánh Canh Yến,,van phi ho,253.0,nguyen hoang,bh,,Ăn uống giải khát,0982-033849,,,32a8028033,2015-06-08,da nang,,,bh,,,,False
+522,Cháo Dinh Dưỡng Kodomo,,tran thi kim phung,335.0,nguyen hoang,bt,,Bán cháo,0932-798090,,2022-09-09,32a8035610,2022-08-17,da nang,,,bt,2022-07-11,2025-09-08,60.0,False
+523,Bánh Mỳ Ba Hưng,,le xuan hieu,,nguyen hoang,nd,,Bánh các loại,0918-446844,,,32a8036673,2023-03-07,da nang,,,nd,,,,False
+524,Trần Thị,,truong thi cam ha,23.0,nguyen huu canh,tp,hai chau,Ăn uống giải khát,0903-542777,,2023-06-01,32a8029943,,da nang,,hai chau,tp,2023-04-02,2026-05-31,60.0,True
+525,Quán 92,,nguyen thanh hung,80.0,nguyen huu dat,hcb,,Ăn uống giải khát,0914-095413,,2023-05-10,32a8034523,,da nang,,,hcb,2023-03-11,2026-05-09,60.0,True
+526,VSK Việt Nam,,phan thi hoa,136.0,nguyen huu dat,hcb,,Ăn uống giải khát,0236-3695502,,,32a8033798,2021-11-29,da nang,,,hcb,,,,False
+527,An Nhiên Coffee,,ngo thi my hanh,4.0,nguyen huu tho,htt,,Cà phê giải khát,0932-564099,,,32a8036501,2023-02-08,da nang,,,htt,,,,False
+528,Yến Miền Trung,,le thi hong hanh,7.0,nguyen huu tho,htt,,Ăn uống giải khát,0906-579120,,2023-03-04,32a8035390,2022-07-08,da nang,,,htt,2023-01-03,2026-03-03,60.0,True
+529,Quán Thanh Hoa,,le thi thanh hoa,18.0,nguyen huu tho,htt,,Ăn uống giải khát,0905-236219,,,32a8027218,,da nang,,,htt,,,,False
+530,Chợ Xưa,,le ngo phuong thao,28.0,nguyen huu tho,htt,,Ăn uống giải khát,0903-554041,,2021-01-11,32a8032799,2021-04-08,da nang,,,htt,2020-11-12,2024-01-11,60.0,False
+531,Trình Cà Phê,,bui thi kim anh,34.0,nguyen huu tho,htt,,Ăn uống giải khát,0968-102055,,2022-06-06,32a8034322,2022-03-02,da nang,,,htt,2022-04-07,2025-06-05,60.0,False
+532,Mỳ Quảng Đồng Quê,,nguyen đuc nhuong,46.0,nguyen huu tho,htt,hai chau,Mỳ quảng,0905-784668,,,32a8022537,2014-12-04,da nang,,hai chau,htt,,,,False
+533,Hồng Hạc Quán,,tran xuan hung,47.0,nguyen huu tho,htt,hai chau,Ăn uống giải khát,0904-232174,,2024-03-08,32a8012810,,da nang,,hai chau,htt,2024-01-08,2027-03-08,60.0,True
+534,Bán bánh mì thịt (Đ/Tiến),,nguyen thi thanh,57.0,nguyen huu tho,htt,hai chau,Bánh mì thịt,0907-747429,,,32a8029434,2019-04-01,da nang,,hai chau,htt,,,,False
+535,Quán 63,,ngo thuc đan,63.0,nguyen huu tho,htt,,Ăn uống giải khát,0988-908380,,,32a8026560,,da nang,,,htt,,,,False
+536,Cô Yến,,phan anh đuc,75.0,nguyen huu tho,htt,,Ăn uống giải khát,0905-748359,,,32a8035009,,da nang,,,htt,,,,False
+537,Bồ Câu Gà Ác,,bui thi thuy nga,91.0,nguyen huu tho,htt,,Ăn uống giải khát,0905-729958,,,32a8033455,,da nang,,,htt,,,,False
+538,Bee Milk Tea-Coffee,,tran xuyen thanh,93.0,nguyen huu tho,htt,,Ăn uống giải khát,0962-222388,,2022-06-06,32a8032888,2021-04-26,da nang,,,htt,2022-04-07,2025-06-05,60.0,False
+539,Quán Bún-Cơm Bà Xuân,,đoan thi xuan,109.0,nguyen huu tho,htt,,Ăn uống giải khát,0236-3615675,,,32a8019464,,da nang,,,htt,,,,False
+540,Phở Cù Hà Nội 2,,cu xuan tuan,124.0,nguyen huu tho,htt,,Ăn uống giải khát,0962-056666,,2024-05-10,32a8037296,,da nang,,,htt,2024-03-11,2027-05-10,60.0,True
+541,Phở Gia Truyền  18A,,tong van bang,126.0,nguyen huu tho,htt,hai chau,Ăn uống giải khát,0773-486979,,,32a8016448,,da nang,,hai chau,htt,,,,False
+542,Uni Teapresso & More,,le hong khanh,159.0,nguyen huu tho,htt,,Cà phê giải khát,0974-767676,,2024-01-05,32a8038386,2023-07-12,da nang,,,htt,2023-11-06,2027-01-04,60.0,True
+543,Quán Đừng Về,,nguyen thi kieu chi,204.0,nguyen huu tho,htt,,Ăn uống giải khát,0935-580320,,,32a8027389,,da nang,,,htt,,,,False
+544,Bánh Canh Quảng Bình,,hoang thi hang,247.0,nguyen huu tho,htt,,Bán banh canh,0372-433211,,,32a8037112,,da nang,,,htt,,,,False
+545,Bán Bánh Mì Thịt (Đ/Tiến),,pham nghien,,nguyen huu tho,htt,hai chau,Bánh mì thịt,0236-3634678,,,32a8022918,2015-02-11,da nang,,hai chau,htt,,,,False
+546,Bún Bò Huế Thượng Thành,,nguyen thi hoa,139.0,nguyen huu tho,htt,,Bún tô,0962-922444,,,32a8027393,,da nang,,,htt,,,,False
+547,Niêu 1982,,le minh thinh,,nguyen huu tho,htt,,Ăn uống giải khát,0839-991982,,,32a8038327,,da nang,,,htt,,,,False
+548,Quán Linh,,đoan thanh cuong,,nguyen huu tho,htt,,Ăn uống giải khát,0945-070681,,,32a8037976,,da nang,,,htt,,,,False
+549,Bida Mr.Q,,ho đac thinh,,nguyen huu tho,htt,,Ăn uống giải khát,0905-370703,,,32a8035138,,da nang,,,htt,,,,False
+550,Bún Cua Đồng 101,,nguyen tien quyet,36.0,nguyen huu tho,htt,,Ăn uống giải khát,0931-991961,,2022-06-01,32a8031522,2020-06-24,da nang,,,htt,2022-04-02,2025-05-31,60.0,False
+551,Bánh Ép Khánh,,nguyen thi van,,nguyen huu tho,htt,,Ăn uống giải khát,0935-414266,,2024-08-05,32a8032109,2020-11-20,da nang,,,htt,2024-06-06,2027-08-05,60.0,True
+552,100 Ngày Hạ,,trinh thi thanh thuy,59.0,nguyen khanh toan,hcb,,Cà phê giải khát,0382-153998,,,32a8036258,,da nang,,,hcb,,,,False
+553,Mi-A Cafe,,nguyen thi thu nga,40.0,nguyen khanh toan,hcb,,Cà phê giải khát,0946-494357,,,32a8039593,,da nang,,,hcb,,,,False
+554,Mộc Coffee,,le đinh dan,96.0,nguyen pham,hcb,,Cà phê giải khát,0862-223193,,2024-06-10,32a8039238,,da nang,,,hcb,2024-04-11,2027-06-10,60.0,True
+555,Tà Nùng Quán,,nguyen van hoai phuong,7.0,nguyen phi khanh,htt,,Ăn uống giải khát,0348-292292,,2024-01-05,32a8038265,,da nang,,,htt,2023-11-06,2027-01-04,60.0,True
+556,Ngả Lounge,,pham huynh na,43.0,nguyen tat thanh,tb,,Ăn uống giải khát,0962-000148,,,32a8038520,2024-04-01,da nang,,,tb,,,,False
+557,Bia Hơi Hà Nội  - Hải Châu,,huynh xuan phuc,87.0,nguyen tat thanh,tb,,Ăn uống giải khát,0905-885887,,2022-02-12,32a8035845,2022-10-06,da nang,,,tb,2021-12-14,2025-02-11,60.0,False
+558,Quán Ớt Đỏ,,truong thi thuyen thuyen,197.0,nguyen tat thanh,tb,hai chau,Ăn uống giải khát,0905-505298,,2024-09-06,32a8030660,,da nang,,hai chau,tb,2024-07-08,2027-09-06,60.0,True
+559,Kem Sài Gòn,,pham thi bich lieu,183.0,nguyen tat thanh,tb,,Kem ly,0983-894177,,,32a8010414,2006-05-11,da nang,,,tb,,,,False
+560,Hải Sản Ba Lép,,vo thi ni na,341.0,nguyen tat thanh,tb,,Ăn uống giải khát,0905-977069,,2023-12-06,32a8037208,,da nang,,,tb,2023-10-07,2026-12-05,60.0,True
+561,Café Liberty,,nguyen thi hoai tam,,nguyen tat thanh,tb,,Ăn uống giải khát,0984-341111,,2024-02-02,32a8031807,2020-09-22,da nang,,,tb,2023-12-04,2027-02-01,60.0,True
+562,Tổ IKAFE,,tran thi phuong,,nguyen tat thanh,tb,,Cà phê giải khát,0935-727777,,2022-11-03,32a8034241,2022-02-24,da nang,,,tb,2022-09-04,2025-11-02,60.0,True
+563,Sala Draft Beer - Coffee,,pham thi ngoc linh,,nguyen tat thanh,tb,,Ăn uống giải khát,0986-102358,,2022-07-12,32a8036069,2019-11-10,da nang,,,tb,2022-05-13,2025-07-11,60.0,False
+564,Quán Cá Vàng,,ngo van binh,,nguyen tat thanh,tb,,Ăn uống giải khát,0343-001279,,,32a8026131,,da nang,,,tb,,,,False
+565,Sea Horse,,huynh thi be,7.0,nguyen thai hoc,hc1,,Cà phê giải khát,0905-550514,,,32a8028264,,da nang,,,hc1,,,,False
+566,Joobang Restaurant,,nguyen thi muong,17.0,nguyen thai hoc,hc1,,Ăn uống giải khát,0905-811549,,2023-02-11,32a8037788,,da nang,,,hc1,2022-12-13,2026-02-10,60.0,True
+567,711 CAFÉ,,ta thi xuan quynh,23.0,nguyen thai hoc,hc1,,Ăn uống giải khát,0905-691497,,,32a8038129,,da nang,,,hc1,,,,False
+568,Quán Tâm Được,,pham thi đuoc,46.0,nguyen thai hoc,hc1,hai chau,Ăn uống giải khát,0905-057307,,,32a8020095,,da nang,,hai chau,hc1,,,,False
+569,Út Tịch,,tran minh hien,73.0,nguyen thai hoc,hc1,hai chau,Cà phê giải khát,0903-559944,,2023-03-08,32a8027777,,da nang,,hai chau,hc1,2023-01-07,2026-03-07,60.0,True
+570,Cộng Cà Phê-Tê Mixology,,nguyen thanh trung,,nguyen thai hoc,hc1,hai chau,Cà phê giải khát,0915-858943,,,32a8027175,2017-12-19,da nang,,hai chau,hc1,,,,False
+571,Cơm Tấm Vân Hương,,nguyen le khac binh,31.0,nguyen thi minh khai,tt,hai chau,Ăn uống giải khát,0901-173939,,2023-06-02,32a8035243,2022-06-16,da nang,,hai chau,tt,2023-04-03,2026-06-01,60.0,True
+572,We Beer,,le thi hoai nhung,40.0,nguyen thi minh khai,tt,,Ăn uống giải khát,0935-333104,,,32a8034668,2022-04-04,da nang,,,tt,,,,False
+573,Deli's Cake,,pham thi thanh uyen,48.0,nguyen thi minh khai,tt,,Sản xuất bánh,0398-727412,,,32a8031996,2020-10-29,da nang,,,tt,,,,False
+574,Ngon Ri,,vo thuc nhi,55.0,nguyen thi minh khai,hc1,,Ăn uống giải khát,0988-861777,,2022-06-01,32a8032662,2021-03-18,da nang,,,hc1,2022-04-02,2025-05-31,60.0,False
+575,Yến Sào Thanh Hoài,,duong thi viet ha,56.0,nguyen thi minh khai,tt,,Ăn uống giải khát,0916-594727,,,32a8022783,2015-01-14,da nang,,,tt,,,,False
+576,Min Min,,tran anh thu,91.0,nguyen thi minh khai,hc1,hai chau,Ăn uống giải khát,0935-655164,,2023-06-01,32a8026339,,da nang,,hai chau,hc1,2023-04-02,2026-05-31,60.0,True
+577,Cửa Ngõ Cafe,,phan van thuan,102.0,nguyen thi minh khai,tt,,Cà phê giải khát,0935-583408,,,32a8034105,,da nang,,,tt,,,,False
+578,Cà Phê Bông,,pham huu thien,123.0,nguyen thi minh khai,hc1,,Cà phê giải khát,0969-532327,,2023-02-11,32a8028963,2018-12-14,da nang,,,hc1,2022-12-13,2026-02-10,60.0,True
+579,Nguyễn Thị Xây,,nguyen thi xay,104.0,nguyen thi minh khai,tt,hai chau,Ăn uống giải khát,0905-530294,,,32a8001574,2001-01-01,da nang,,hai chau,tt,,,,False
+580,Cà Phê Xíu,,phan thi ngoc tram,,nguyen thi minh khai,hc1,,Cà phê giải khát,0935-598689,,,32a8030406,2019-10-08,da nang,,,hc1,,,,False
+581,Cà Phê Giải Khát,,nguyen thi chieu,79.0,nguyen thi minh khai,hc1,hai chau,Cà phê giải khát,0236-3810343,,,32a8000802,2016-11-21,da nang,,hai chau,hc1,,,,False
+582,7AM,,huynh đuc thao,9.0,nguyen thien thuat,bt,,Ăn uống giải khát,0775-551986,,,32a8032621,2021-03-11,da nang,,,bt,,,,False
+583,Ngô Phương,,ngo thi hong phuong,10.0,nguyen thien thuat,bt,,Ăn uống giải khát,0905-702127,,2023-05-09,32a8037694,,da nang,,,bt,2023-03-10,2026-05-08,60.0,True
+584,Cool Beer,,nguyen thi ngoc lanh,12.0,nguyen thien thuat,bt,,Ăn uống giải khát,0905-203520,,,32a8037625,,da nang,,,bt,,,,False
+585,Baro Cà Phê,,pham chi bao,,nguyen thien thuat,bt,,Cà phê giải khát,0919-558559,,2024-05-10,32a8036988,,da nang,,,bt,2024-03-11,2027-05-10,60.0,True
+586,Nướng Bơ Hà Nội,,vo quoc tri,,nguyen thien thuat,bt,,Ăn uống giải khát,0906-558878,,2022-04-05,32a8030273,2019-09-12,da nang,,,bt,2022-02-04,2025-04-04,60.0,False
+587,Bớp Bự Bự,,thai van dung,39.0,nguyen trai,hc2,hai chau,Ăn uống giải khát,0913-413128,,,32a8026555,,da nang,,hai chau,hc2,,,,False
+588,Lẫu Bò Thu,,duong thuy đao,281.0,nguyen tri phuong,htđ,hai chau,Ăn uống giải khát,0905-133263,,,32a8007689,,da nang,,hai chau,htđ,,,,False
+589,Nướng Bơ 1986,,luu phuoc quy,319.0,nguyen tri phuong,,,Ăn uống giải khát,0905-745386,,2024-01-12,32a8032676,,da nang,,,,2023-11-13,2027-01-11,60.0,True
+590,Lala Garden Coffee,,hoang thanh duong,404.0,nguyen tri phuong,htt,,Ăn uống giải khát,0935-555410,,,32a8036188,,da nang,,,htt,,,,False
+591,Đặc Sản Lươn Xứ Nghệ Thu Hường,,tran thi hoa,492.0,nguyen tri phuong,htt,,Ăn uống giải khát,0985-832304,,2023-06-05,32a8031770,,da nang,,,htt,2023-04-06,2026-06-04,60.0,True
+592,Trần Thị Hồng Nhung,,tran thi hong nhung,456.0,nguyen tri phuong,htt,,Ăn uống giải khát,0904-178104,,2024-06-10,32a8039104,2024-03-05,da nang,,,htt,2024-04-11,2027-06-10,60.0,True
+593,Tống Nhật Thiện 2,,tong nhat thien,456.0,nguyen tri phuong,htt,,Ăn uống giải khát,0935-761221,,2024-06-10,32a8036230,2024-10-04,da nang,,,htt,2024-04-11,2027-06-10,60.0,True
+594,Pi Thái 11,,nguyen thi kim ngan,33.0,nguyen van linh,bh,,Ăn uống giải khát,0935-496423,,2023-12-01,32a8037969,2023-03-10,da nang,,,bh,2023-10-02,2026-11-30,60.0,True
+595,Cơm Sườn Phi Thuyền,,tran thi minh thu,58.0,nguyen van linh,nd,,Ăn uống giải khát,0988-489549,,,32a8039192,,da nang,,,nd,,,,False
+596,The Alley,,nguyen thi thu,64.0,nguyen van linh,nd,,Ăn uống giải khát,0911-080000,,,32a8036721,2023-03-14,da nang,,,nd,,,,False
+597,Quán Ăn Ông Li,,tran binh nguyen khang,73.0,nguyen van linh,pn,,Ăn uống giải khát,0902-494681,,,32a8035024,2022-05-16,da nang,,,pn,,,,False
+598,Beer Hub,,duong kim hang,79.0,nguyen van linh,pn,,Ăn uống giải khát,0905-690002,,,32a8033825,2021-12-02,da nang,,,pn,,,,False
+599,Lasimi,,nguyen thi minh thu,87.0,nguyen van linh,nd,,Nước giải khát,0984-900816,,2023-09-05,32a8036622,2023-02-28,da nang,,,nd,2023-07-07,2026-09-04,60.0,True
+600,Yes BBQ,,le trung thong,117.0,nguyen van linh,nd,,Ăn uống giải khát,0909-896237,,,32a8039673,2024-08-08,da nang,,,nd,,,,False
+601,Leco Coffee,,nguyen thi thanh nga,133.0,nguyen van linh,nd,,Cà phê giải khát,0905-535707,,,32a8036548,,da nang,,,nd,,,,False
+602,Sanuki,,le thi phuong thao,135.0,nguyen van linh,nd,,Ăn uống giải khát,0964-711481,,2023-07-11,32a8038056,2023-12-10,da nang,,,nd,2023-05-12,2026-07-10,60.0,True
+603,Chang Hi,,đang phan tran chau,177.0,nguyen van linh,nd,,Ăn uống giải khát,0935-268757,,,32a8037244,,da nang,,,nd,,,,False
+604,P Coffee,,luu tung nhan,,nguyen van linh,pn,,Cà phê giải khát,0932-447777,,2021-05-04,32a8032504,2021-02-02,da nang,,,pn,2021-03-05,2024-05-03,60.0,False
+605,Cơm Mâm Nhà Vàng,,ho thi cam loan,,nguyen van linh,nd,,Ăn uống giải khát,0934-721082,,,32a8032459,2021-01-22,da nang,,,nd,,,,False
+606,Quán Bà Thọ,,nguyen thi tho,,nguyen van linh,pn,hai chau,Ăn uống giải khát,0787-734822,,,32a8017352,2011-04-01,da nang,,hai chau,pn,,,,False
+607,Quán Thảo Nguyên,,nguyen thanh dung,,nhu nguyet,tp,,Ăn uống giải khát,0935-352942,,,32a8026372,,da nang,,,tp,,,,False
+608,Mooniva,,nguyen hoang trung,,nhu nguyet,tp,,Ăn uống giải khát,0946-777779,,2022-04-05,32a8034193,2022-02-18,da nang,,,tp,2022-02-04,2025-04-04,60.0,False
+609,Tou Zone,,nguyen le anh tu,,nhu nguyet,tp,,Ăn uống giải khát,0935-545465,,2023-07-04,32a8036785,2023-03-23,da nang,,,tp,2023-05-05,2026-07-03,60.0,True
+610,Lê Mạnh Tưởng,,le manh tuong,11.0,nui thanh,htđ,,Ăn uống giải khát,0969-128818,,2023-12-09,32a8037771,,da nang,,,htđ,2023-10-10,2026-12-08,60.0,True
+611,KT Sushi,,nguyen minh kha,16.0,nui thanh,htđ,,Ăn uống giải khát,0977-666245,,,32a8037989,2023-04-10,da nang,,,htđ,,,,False
+612,Cháo Tôm,,nguyen thi thu phuong,17.0,nui thanh,htđ,,Ăn uống giải khát,0905-777035,,,32a8027591,,da nang,,,htđ,,,,False
+613,Giác Cafe,,nguyen hong hanh,21.0,nui thanh,htđ,,Ăn uống giải khát,0977-444196,,2023-05-09,32a8025863,,da nang,,,htđ,2023-03-10,2026-05-08,60.0,True
+614,Sữa Dì Ngọ,,le thi ngo,30.0,nui thanh,htđ,,Ăn uống giải khát,0905-019939,,,32a8036239,,da nang,,,htđ,,,,False
+615,Trà Sữa Xingfu Đài Loan,,ho van quoc,34.0,nui thanh,htđ,,Ăn uống giải khát,0337-110745,,,32a8037500,,da nang,,,htđ,,,,False
+616,Mọi,,thai ba huy,114.0,nui thanh,htđ,,Ăn uống giải khát,0905-526620,,,32a8027413,,da nang,,,htđ,,,,False
+617,Bơ Nơ Bakery,,phan thi kim loan,235.0,nui thanh,hcb,,Bán bánh các loại,0905-184884,,,32a8039000,2024-11-04,da nang,,,hcb,,,,False
+618,Bánh Cuốn Tiến Hưng 2,,pham thi thanh trung,140.0,nui thanh,htđ,,Ăn uống giải khát,0916-507011,,,32a8034615,,da nang,,,htđ,,,,False
+619,Mixue - 159 Núi Thành,,le đuc tho,159.0,nui thanh,hcb,,Ăn uống giải khát,0934-879101,,,32a8037782,,da nang,,,hcb,,,,False
+620,Bún Chả Cá,,ho thi anh hang,168.0,nui thanh,hcb,,Bún tô,0796-728707,,,32a8024261,,da nang,,,hcb,,,,False
+621,Happy Cake,,vo thi thuy tram,177.0,nui thanh,hcb,,Bánh các loại,0898-227577,,,32a8035546,2022-08-03,da nang,,,hcb,,,,False
+622,Hà Cẩm Phương,,ha cam phuong,193.0,nui thanh,hcb,,Bánh mỳ,0905-602036,,,32a8038266,,da nang,,,hcb,,,,False
+623,Quán My Ny,,nguyen ngoc hung,310.0,nui thanh,hcb,hai chau,Mỳ quảng,0903-534456,,,32a8024241,2015-12-14,da nang,,hai chau,hcb,,,,False
+624,Bán bánh mì thịt (Đ/Tiến),,nguyen thi an lanh,383.0,nui thanh,hcb,,Bánh mì thịt,0986-646952,,2022-05-07,32a8034123,2022-01-19,da nang,,,hcb,2022-03-08,2025-05-06,60.0,False
+625,Ăn Uống Cơm Tấm 439,,nguyen thi kim anh,439.0,nui thanh,hcn,,Ăn uống giải khát,0932-560325,,,32a8026309,,da nang,,,hcn,,,,False
+626,May Kaffee,,vo trinh kim min,488.0,nui thanh,hcn,,Ăn uống giải khát,0935-678177,,,32a8036461,2023-01-19,da nang,,,hcn,,,,False
+627,Trần Thị Xuyến,,tran thi xuyen,498.0,nui thanh,hcn,,Cà phê giải khát,0935-698326,,2023-02-11,32a8020081,2013-05-22,da nang,,,hcn,2022-12-13,2026-02-10,60.0,True
+628,Tiệm Ăn Hàn Quốc Oppa,,ho thi nhan,508.0,nui thanh,hcn,,Ăn uống giải khát,0905-712655,,2022-04-11,32a8035730,2022-09-13,da nang,,,hcn,2022-02-10,2025-04-10,60.0,False
+629,Nguyễn Thị Hồng Quyên,,nguyen thi hong quyen,544.0,nui thanh,hcn,,Ăn uống giải khát,0935-024011,,,32a8036355,,da nang,,,hcn,,,,False
+630,Tiệm Ăn Quốc Dân 549,,đang thi thu thuy,549.0,nui thanh,hcn,,Ăn uống giải khát,0903-521122,,,32a8034586,2022-03-24,da nang,,,hcn,,,,False
+631,Genz,,le thi khanh chi,570.0,nui thanh,hcn,,Ăn uống giải khát,0905-999897,,,32a8034991,,da nang,,,hcn,,,,False
+632,Nguyễn Bá Tèo,,nguyen ba teo,572.0,nui thanh,hcn,,Ăn uống giải khát,0348-931317,,,32a8038359,,da nang,,,hcn,,,,False
+633,Mỳ Quảng Quê Xưa,,vo thi thanh hoa,165.0,nui thanh,hcb,hai chau,Mỳ quảng,0912-060727,,,32a8022286,,da nang,,hai chau,hcb,,,,False
+634,Bún Hiến Hằng,,nguyen thi tuyet hang,172.0,nui thanh,hcb,hai chau,Bún bò Huế,0905-769807,,,32a8018444,,da nang,,hai chau,hcb,,,,False
+635,Đồng Tiến Bakery-179 Núi Thành,,đoan dung anh quan,179.0,nui thanh,hcb,,Bánh mỳ,0236-3626157,,,32a8039232,,da nang,,,hcb,,,,False
+636,Bún Chả Cá Cô Mai,,le đang minh,,nui thanh,hcb,,Ăn uống giải khát,0905-573194,,,32a8032737,,da nang,,,hcb,,,,False
+637,Bếp Tám Miền Tây,,bui van đinh,284.0,nui thanh,hcb,,Ăn uống giải khát,0988-303344,,,32a8035785,2022-09-22,da nang,,,hcb,,,,False
+638,Nướng Bơ Hà Nội 2,,vo quoc dung,,nui thanh,hcb,,Ăn uống giải khát,0905-929420,,2022-01-07,32a8034924,2022-05-04,da nang,,,hcb,2021-11-08,2025-01-06,60.0,False
+639,Túc Tắc Tea Núi Thành,,đang huynh hoang nhi,,nui thanh,hcn,,Nước giải khát,0398-098420,,,32a8038453,,da nang,,,hcn,,,,False
+640,Bánh Canh Bã Trầu,,le đo thanh thao,,nui thanh,hcb,,Ăn uống giải khát,0905-611343,,2023-07-04,32a8035185,2023-03-17,da nang,,,hcb,2023-05-05,2026-07-03,60.0,True
+641,Đảo Cà Phê,,mai anh quan,,nui thanh,hcn,,Cà phê giải khát,0905-112538,,,32a8035013,2023-03-01,da nang,,,hcn,,,,False
+642,Any Where,,nguyen đang thanh,381.0,nui thanh,hcb,,Nước giải khát,0978-513668,,,32a8039446,,da nang,,,hcb,,,,False
+643,Ẩm Thực Hạ Long,,bui thanh nguyen,150.0,nui thanh,htđ,,Ăn uống giải khát,0905-868873,,2024-09-06,32a8039726,,da nang,,,htđ,2024-07-08,2027-09-06,60.0,True
+644,Đồng Tiến Bakery-16 Ông Ích Khiêm,,tran thi kim oanh,16.0,ong ich khiem,tb,,Bánh mỳ,0236-3272468,,2024-05-07,32a8039023,,da nang,,,tb,2024-03-08,2027-05-07,60.0,True
+645,Bánh Mỳ Chả Hoàng Lan,,huynh tu lam,143.0,ong ich khiem,tt,,Bánh Mỳ,0907-888211,,,32a8039561,,da nang,,,tt,,,,False
+646,Bánh Mỳ Đệ Nhất,,nguyen van khai,77.0,ong ich khiem,tb,,Bánh mì thịt,0962-819054,,2022-09-09,32a8026877,,da nang,,,tb,2022-07-11,2025-09-08,60.0,False
+647,Nhà Phân Phối Gia Phát,,nguyen hoang oanh,177.0,ong ich khiem,tt,,Bán bánh các loại,0905-229953,,2021-01-07,32a8033026,2021-06-08,da nang,,,tt,2020-11-08,2024-01-07,60.0,False
+648,Bún Chả Cá Thanh,,nguyen thi thu thanh,179.0,ong ich khiem,tt,,Ăn uống giải khát,0905-234559,,,32a8019622,2013-01-08,da nang,,,tt,,,,False
+649,Tiệm Ăn Cơm Thố Chợ Lớn,,lam khon,267.0,ong ich khiem,hc2,hai chau,Ăn uống giải khát,0938-424356,,,32a8029074,,da nang,,hai chau,hc2,,,,False
+650,Hihi Foods & Drinks,,nguyen thuy linh,291.0,ong ich khiem,hc2,,Ăn uống giải khát,0778-585491,,2023-12-08,32a8038302,,da nang,,,hc2,2023-10-09,2026-12-07,60.0,True
+651,Bán bánh mì thịt (Đ/Tiến),,nguyen thi kim ngan,291.0,ong ich khiem,hc2,,Bánh mỳ thịt,0907-747229,,,32a8031695,2020-07-22,da nang,,,hc2,,,,False
+652,Chay Trí Ngộ,,nguyen thi thuy diem,375.0,ong ich khiem,hc2,,Ăn uống giải khát,0968-989567,,,32a8038173,,da nang,,,hc2,,,,False
+653,Lại Hữu Long,,lai huu long,457.0,ong ich khiem,nd,,Bánh mỳ,0905-888211,,2023-12-06,32a8027371,,da nang,,,nd,2023-10-07,2026-12-05,60.0,True
+654,Quán 504,,nguyen thi phuong thao,504.0,ong ich khiem,hc2,,Ăn uống giải khát,0905-394911,,,32a8033544,,da nang,,,hc2,,,,False
+655,Cà phê giải khát,,nguyen thi phuong thao,606.0,ong ich khiem,nd,,Cà phê giải khát,0963-769678,,2024-02-02,32a8031286,2020-05-07,da nang,,,nd,2023-12-04,2027-02-01,60.0,True
+656,Miến Măng Gà Cô Nhâm,,nguyen thi tuyet trinh,20.0,ong ich khiem,tb,,Ăn uống giải khát,0905-577481,,,32a8036299,,da nang,,,tb,,,,False
+657,Cơm Ngon O Gái,,nguyen đuc hung,419.0,ong ich khiem,bt,,Ăn uống giải khát,0903-523752,,2024-06-07,32a8035909,,da nang,,,bt,2024-04-08,2027-06-07,60.0,True
+658,Mỳ Quảng Bếp Trang,,phan hoang huy,441.0,ong ich khiem,nd,hai chau,Ăn uống giải khát,0944-771772,,,32a8034107,2022-01-17,da nang,,hai chau,nd,,,,False
+659,Chang Chang,,chuc ly sang,,ong ich khiem,tb,,Bánh Mỳ,0978-360835,,,32a8031442,2020-06-08,da nang,,,tb,,,,False
+660,Quán Chay Bồ Đề,,le nguyen hai yen,584.0,ong ich khiem,nd,hai chau,Thức ăn chay,0905-559629,,,32a9027348,2018-01-11,da nang,,hai chau,nd,,,,False
+661,1994 Coffee,,truong thi my phuoc,8.0,ong ich khiem,tb,,Cà phê giải khát,0902-317894,,2024-06-03,32a8039176,,da nang,,,tb,2024-04-04,2027-06-03,60.0,True
+662,Quán Chay Ý Thiên,,nguyen thi minh thuy,91.0,ong ich khiem,tb,hai chau,Thức ăn chay,0935-966855,,2023-08-09,32a8024304,,da nang,,hai chau,tb,2023-06-10,2026-08-08,60.0,True
+663,Kami,,vo thi diem trang,,ong ich khiem,tb,,Bán bánh,0905-085696,,,32a8029913,2021-11-30,da nang,,,tb,,,,False
+664,Quán Chay Gia Ân,,le thi quynh thu,,ong ich khiem,tt,,Ăn uống giải khát,0906-555249,,,32a8035324,,da nang,,,tt,,,,False
+665,Soncha Roastery,,le hong phi,,ong ich khiem,tb,,Cà phê giải khát,0966-969888,,,32a8029222,,da nang,,,tb,,,,False
+666,Quán Trúc,,phan van nhan,,ong ich khiem,tb,,Ăn uống giải khát,0905-053492,,,32a8028719,,da nang,,,tb,,,,False
+667,Phan Thông,,phan thong minh,,ong ich khiem,tb,,Ăn uống giải khát,0901-170090,,2024-06-03,32a8025542,,da nang,,,tb,2024-04-04,2027-06-03,60.0,True
+668,Đắc Thọ,,le thi thu đong,19.0,pasteur,hc1,,Ăn uống giải khát,0902-201719,,,32a8036086,2022-11-14,da nang,,,hc1,,,,False
+669,Mint Coffee & Tea,,phan thai hoa,46.0,pasteur,hc1,,Cà phê giải khát,0935-777500,,,32a8032911,2021-04-29,da nang,,,hc1,,,,False
+670,Bò Né Chín Đen,,đo thi lan chi,49.0,pasteur,hc1,,Ăn uống giải khát,0905-596767,,2023-06-09,32a8035970,,da nang,,,hc1,2023-04-10,2026-06-08,60.0,True
+671,Win,,nguyen phuong viet,80.0,pasteur,hc1,,Ăn uống giải khát,0914-165134,,,32a8033689,2021-11-12,da nang,,,hc1,,,,False
+672,Quán Nguyên'S,,ha le huyen tram,24.0,pasteur,hc1,,Ăn uống giải khát,0935-101111,,2022-11-07,32a8035274,2022-06-22,da nang,,,hc1,2022-09-08,2025-11-06,60.0,True
+673,Cà Phê A Sùng,,le mau thanh,27.0,pasteur,hc1,hai chau,Cà phê giải khát,0989-078326,,,32a8019444,2012-04-12,da nang,,hai chau,hc1,,,,False
+674,Nguyễn Thị Thu Thanh,,nguyen thi thu thanh,,pasteur,hc1,,Ăn uống giải khát,0396-925797,,2022-05-08,32a8035389,2022-07-14,da nang,,,hc1,2022-03-09,2025-05-07,60.0,False
+675,Trình Cà Phê,,bui đuc manh,25.0,pham hong thai,hc1,,Cà phê giải khát,0765-780059,,,32a8037795,,da nang,,,hc1,,,,False
+676,Mì A Chúng,,tran phong ha,35.0,pham hong thai,hc1,hai chau,Mỳ xiu,0965-739715,,2022-12-10,32a8002976,2004-01-01,da nang,,hai chau,hc1,2022-10-11,2025-12-09,60.0,True
+677,Quán Minh,,nguyen thi nguyet minh,62.0,pham hong thai,hc1,,Ăn uống giải khát,0982-331525,,2023-06-01,32a8025828,,da nang,,,hc1,2023-04-02,2026-05-31,60.0,True
+678,Madam Nguyễn,,nguyen phi han,4.0,phan boi chau,tt,,Ăn uống giải khát,0988-789548,,,32a8036645,2023-03-02,da nang,,,tt,,,,False
+679,Nóc Nóc,,tran duy luan,4.0,phan boi chau,tt,,Ăn uống giải khát,0905-209999,,,32a8035494,2022-07-26,da nang,,,tt,,,,False
+680,Niêu Đỏ,,nguyen thi kieu oanh,7.0,phan boi chau,tt,,Ăn uống giải khát,0905-998198,,2022-01-07,32a8035060,2022-05-20,da nang,,,tt,2021-11-08,2025-01-06,60.0,False
+681,Ginza,,đo thi tuyet hoa,9.0,phan boi chau,tt,,Ăn uống giải khát,0899-282982,,,32a8031321,,da nang,,,tt,,,,False
+682,Bùi Quang Phát,,bui quang phat,11.0,phan boi chau,tt,,Ăn uống giải khát,0978-152568,,,32a8037428,,da nang,,,tt,,,,False
+683,S Lounge,,nguyen thi ha my,15.0,phan boi chau,tt,,Ăn uống giải khát,0704-499891,,,32a8039133,2024-08-05,da nang,,,tt,,,,False
+684,Nắng Ngọt Pâtisserie,,nguyen hoang dung,20.0,phan boi chau,tt,,SX và bán các loại bánh,0911-898787,,,32a8033323,2021-10-07,da nang,,,tt,,,,False
+685,Pinko Coffee And Wine,,pham thi thu huong,22.0,phan boi chau,tt,,Ăn uống giải khát,0905-335368,,2022-12-05,32a8033066,2021-06-16,da nang,,,tt,2022-10-06,2025-12-04,60.0,True
+686,Gochipan Luxury,,nguyen le vu duy,24.0,phan boi chau,tt,,Cà phê giải khát,0903-964868,,,32a8031563,,da nang,,,tt,,,,False
+687,Hoàng Thị Bích Uyên,,hoang thi bich uyen,35.0,phan boi chau,tt,,Ăn uống giải khát,0935-788050,,,32a8038647,,da nang,,,tt,,,,False
+688,Muse Drinks & More,,bui anh đuc,36.0,phan boi chau,tt,,Ăn uống giải khát,0901-037789,,,32a8035025,,da nang,,,tt,,,,False
+689,Royal Counter And Lounge,,truong van tien,,phan boi chau,tt,,Ăn uống giải khát,0915-792746,,2022-05-10,32a8035464,2022-07-21,da nang,,,tt,2022-03-11,2025-05-09,60.0,False
+690,The Moss Coffee,,truong thi em,2.0,phan boi chau,tt,,Cà phê giải khát,0905-404436,,2024-02-02,32a8028818,2018-12-11,da nang,,,tt,2023-12-04,2027-02-01,60.0,True
+691,Abu,,pham diemvy,76.0,phan chau trinh,hc1,,Ăn uống giải khát,0935-508857,,2022-07-12,32a8036003,2022-10-31,da nang,,,hc1,2022-05-13,2025-07-11,60.0,False
+692,Dasushi,,thai thach lam,150.0,phan chau trinh,pn,,Ăn uống giải khát,0913-717848,,,32a8033874,2021-12-09,da nang,,,pn,,,,False
+693,Hồ Thị Xuân Tân,,ho thi xuan tan,166.0,phan chau trinh,pn,,Ăn uống giải khát,0906-789999,,,32a8038243,,da nang,,,pn,,,,False
+694,Cozy Cafe',,hoang thi thu huong,167.0,phan chau trinh,pn,hai chau,Ăn uống giải khát,0903-576223,,,32a8026833,2017-10-09,da nang,,hai chau,pn,,,,False
+695,Vin Tea,,vo thi thai vinh,187.0,phan chau trinh,pn,,Cà phê giải khát,0931-449549,,2024-06-03,32a8035422,2022-07-13,da nang,,,pn,2024-04-04,2027-06-03,60.0,True
+696,Chè Hương,,che thi phap,288.0,phan chau trinh,bh,hai chau,Chè,0905-360003,,2023-06-05,32a8014222,,da nang,,hai chau,bh,2023-04-06,2026-06-04,60.0,True
+697,1983 Coffee & Tea,,tran cam vinh,349.0,phan chau trinh,bh,,Cà phê giải khát,0985-150643,,,32a8038511,2024-02-01,da nang,,,bh,,,,False
+698,Quán Chay Khai Tâm,,pham cong minh,352.0,phan chau trinh,bt,hai chau,Thức ăn chay,0905-766611,,,32a8034186,2022-02-16,da nang,,hai chau,bt,,,,False
+699,Cà phê,,nguyen đac pham,388.0,phan chau trinh,bt,hai chau,Cà phê giải khát,0236-3615647,,,32a8023913,2015-09-09,da nang,,hai chau,bt,,,,False
+700,Bánh Mỳ Quỳnh Anh,,duong van huy,132.0,phan chau trinh,pn,hai chau,Bánh mì thịt,0905-027482,,,7689/hkd,2000-11-28,da nang,,hai chau,pn,,,,False
+701,Xuyên Sushi,,nguyen xuyen,,phan chau trinh,bh,,Ăn uống giải khát,0906-827266,,,32a8031872,2022-06-01,da nang,,,bh,,,,False
+702,Chơ Đêm Helio,,nguyen thi thanh lam,1.0,phan đang luu,hcb,,Ăn uống giải khát,0932-995920,,2024-02-02,32a8036525,,da nang,,,hcb,2023-12-04,2027-02-01,60.0,True
+703,Công Viên Châu Á,,tran minh phuc,1.0,phan đang luu,hcb,,Ăn uống giải khát,0337-172502,,2023-09-05,32a8036750,2023-03-16,da nang,,,hcb,2023-07-07,2026-09-04,60.0,True
+704,Công Viên Châu Á,,pham đoan quoc bao,1.0,phan đang luu,hcb,,Ăn uống giải khát,0382-816209,,2023-06-01,32a8037085,,da nang,,,hcb,2023-04-02,2026-05-31,60.0,True
+705,Lê Thị Mai Anh,,kios kem xoai,1.0,phan đang luu,hcb,,Ăn uống giải khát,0945-583588,,,32a8031671,2020-07-17,da nang,,,hcb,,,,False
+706,Ẩm Thực A Tài,,tran thi hong,1.0,phan đang luu,hcb,,Ăn uống giải khát,0913-833806,,2022-01-07,32a8028146,2018-06-27,da nang,,,hcb,2021-11-08,2025-01-06,60.0,False
+707,Công Viên Châu Á,,luu thi bay,1.0,phan đang luu,hcb,,Ăn uống giải khát,0962-721615,,2023-09-05,32a8036708,2023-03-13,da nang,,,hcb,2023-07-07,2026-09-04,60.0,True
+708,Công Viên Châu Á,,huynh thi thanh phuong,1.0,phan đang luu,hcb,,Ăn uống giải khát,0384-631216,,2023-09-05,32a8036743,2023-03-16,da nang,,,hcb,2023-07-07,2026-09-04,60.0,True
+709,Mỳ Xứ Quảng,,tran nguyen nhung,2.0,phan đang luu,hcb,,Ăn uống giải khát,0938-552577,,2022-06-01,32a8026547,2017-11-08,da nang,,,hcb,2022-04-02,2025-05-31,60.0,False
+710,Ẩm Thực Bờm,,nguyen thi my hanh,5.0,phan đang luu,hcn,,Ăn uống giải khát,0905-684935,,,32a8032721,2021-03-29,da nang,,,hcn,,,,False
+711,Goyuhan,,le xuan thien,11.0,phan đang luu,hcn,,Ăn uống giải khát,0977-379059,,,32a8036699,2023-03-10,da nang,,,hcn,,,,False
+712,Quán Chay Lá,,nguyen ngoc tuan,15.0,phan đang luu,hcb,,Ăn uống giải khát,0987-343895,,,32a8038077,,da nang,,,hcb,,,,False
+713,Tiệm Bánh Abon,,mai tieu ngoc,18.0,phan đang luu,hcb,,Bánh mỳ,0778-889101,,2023-10-04,32a8036598,2023-02-23,da nang,,,hcb,2023-08-05,2026-10-03,60.0,True
+714,Phạm Đăng Hưng,,pham đang hung,26.0,phan đang luu,hcb,,Nước giải khát,0967-700433,,,32a8039072,2024-09-06,da nang,,,hcb,,,,False
+715,Mì Cay San-U,,nguyen van thien,42.0,phan đang luu,hcb,,Ăn uống giải khát,0905-289278,,,32a8036147,,da nang,,,hcb,,,,False
+716,Cháo Và Soup Yoyo,,ha thanh dung,100.0,phan đang luu,hcb,,Ăn uống giải khát,0899-847088,,,32a8038393,2022-08-07,da nang,,,hcb,,,,False
+717,Phở Hà Thành,,truong van tu,50.0,phan đang luu,hcb,hai chau,Phở,0905-393263,,2022-01-11,32a8021881,2014-09-07,da nang,,hai chau,hcb,2021-11-12,2025-01-10,60.0,False
+718,Cơm Gà Xối  Mỡ Andy,,vo phi điep,62.0,phan đang luu,hcb,,Ăn uống giải khát,0902-630669,,2024-01-12,32a8038503,,da nang,,,hcb,2023-11-13,2027-01-11,60.0,True
+719,Trà Sữa Ông Thọ,,nguyen hoang tho,63.0,phan đang luu,hcn,,Ăn uống giải khát,0905-456436,,2024-05-07,32a8027092,,da nang,,,hcn,2024-03-08,2027-05-07,60.0,True
+720,Tiệm Rau Má Ramix,,tran minh ngoc,160.0,phan đang luu,hcb,,Bán nước giải khát,0901-164545,,,32a8038429,,da nang,,,hcb,,,,False
+721,Quán Cơm Chợ Lớn,,nguyen thi thanh vien,67.0,phan đang luu,hcn,,Ăn uống giải khát,0905-997901,,2022-04-04,32a8034542,2022-03-21,da nang,,,hcn,2022-02-03,2025-04-03,60.0,False
+722,Bánh Mỳ Đồng Tiến,,le hoai phong,75.0,phan đang luu,hcn,,Bánh các loại,0905-749257,,,32a8036513,2023-02-27,da nang,,,hcn,,,,False
+723,Ẩm Thực Đài Loan,,đinh thi kieu tien,90.0,phan đang luu,hcb,,Ăn uống giải khát,0969-459648,,,32a8031013,2020-02-14,da nang,,,hcb,,,,False
+724,Lê Thị Xinh,,le thi xinh,109.0,phan đang luu,hcn,,Ăn uống giải khát,0902-824182,,2024-04-08,32a8038433,,da nang,,,hcn,2024-02-08,2027-04-08,60.0,True
+725,Quán Chay 117,,le đai nghia,117.0,phan đang luu,hcn,,Ăn uống giải khát,0764-200891,,,32a8033991,2021-12-30,da nang,,,hcn,,,,False
+726,Quán Chay Trường Kỳ,,tran thi diem khanh,129.0,phan đang luu,hcn,,Ăn uống giải khát,0767-678480,,,32a8035712,,da nang,,,hcn,,,,False
+727,Chicken Plus,,phan thi tra my,132.0,phan đang luu,hcb,,Ăn uống giải khát,0774-405529,,2021-02-03,32a8032401,2021-01-13,da nang,,,hcb,2020-12-05,2024-02-03,60.0,False
+728,Bánh Canh Lụa,,ngo huu quang,137.0,phan đang luu,hcn,,Ăn uống giải khát,0345-920446,,,32a8036253,,da nang,,,hcn,,,,False
+729,Cao Lầu Phố Hội,,nguyen minh phuc,163.0,phan đang luu,hcn,,Ăn uống giải khát,0901-126621,,2023-12-08,32a8038314,,da nang,,,hcn,2023-10-09,2026-12-07,60.0,True
+730,Năm Chất Cơm Tấm Sài Gòn,,nguyen thi thuy hang,167.0,phan đang luu,hcn,,Ăn uống giải khát,0934-803855,,,32a8038213,2023-07-11,da nang,,,hcn,,,,False
+731,Pocpoc,,truong le trinh nu,184.0,phan đang luu,hcb,,Ăn uống giải khát,0358-949394,,2023-10-07,32a8033565,,da nang,,,hcb,2023-08-08,2026-10-06,60.0,True
+732,Lẫu Bò Cay,,vu van duan,192.0,phan đang luu,hcb,hai chau,Ăn uống giải khát,0913-441786,,2024-04-08,32a8014030,,da nang,,hai chau,hcb,2024-02-08,2027-04-08,60.0,True
+733,Lê Thanh Tuấn,,le thanh tuan,198.0,phan đang luu,hcb,,Ăn uống giải khát,0984-900816,,,32a8037719,,da nang,,,hcb,,,,False
+734,Ẩm thực Gánh,,le quoc binh,202.0,phan đang luu,hcb,hai chau,Ăn uống giải khát,0914-015007,,,32a8027570,2018-03-13,da nang,,hai chau,hcb,,,,False
+735,Bún Chả Quạt,,pham thi thuy dung,204.0,phan đang luu,hcb,,Ăn uống giải khát,0946-787525,,,32a8035836,,da nang,,,hcb,,,,False
+736,Mỳ Quảng Bà Mười,,nguyen thi muoi,210.0,phan đang luu,hcb,,Ăn uống giải khát,0986-913413,,2023-03-08,32a8037482,,da nang,,,hcb,2023-01-07,2026-03-07,60.0,True
+737,V-Day Coffee,,đinh thi mai ly,218.0,phan đang luu,hcb,hai chau,Cà phê giải khát,0912-888153,,,32a8018234,,da nang,,hai chau,hcb,,,,False
+738,Bún Đậu Tràng An,,trinh đuc,236.0,phan đang luu,hcn,,Ăn uống giải khát,0934-128126,,,32a8032503,2021-02-01,da nang,,,hcn,,,,False
+739,Snow Pizza,,ha thi anh tuyet,134.0,phan đang luu,hcb,hai chau,Pizza,0388-939027,,,32a8022914,2015-09-02,da nang,,hai chau,hcb,,,,False
+740,Cơm Tấm Kim Ngân,,nguyen thi my,157.0,phan đang luu,hcn,,Ăn uống giải khát,0796-278556,,,32a8039322,2024-06-06,da nang,,,hcn,,,,False
+741,Ba Hưng,,pham đinh anh tuan,16.0,phan đang luu,hcb,hai chau,Bánh mì thịt,0935-889678,,,32a8022001,2014-08-08,da nang,,hai chau,hcb,,,,False
+742,House Of Cha,,nguyen duy phuong,206.0,phan đang luu,hcb,,Ăn uống giải khát,0901-959666,,,32a802978,2019-07-16,da nang,,,hcb,,,,False
+743,The Power House,,phan van đong,,phan đang luu,hcb,,Ăn uống giải khát,0966-020246,,2021-11-01,32a8032116,2020-11-21,da nang,,,hcb,2021-09-02,2024-10-31,60.0,False
+744,Metta coffee,,tran phuoc đuc,,phan đang luu,hcn,hai chau,Cà phê giải khát,0914-010599,,,32a8026195,2017-05-31,da nang,,hai chau,hcn,,,,False
+745,Thư Chinh,,đo quang thu,,phan đang luu,hcn,hai chau,Bánh mì thịt,0902-203766,,2022-12-09,32a8017532,2011-05-20,da nang,,hai chau,hcn,2022-10-10,2025-12-08,60.0,True
+746,Bò Né Quốc Minh,,ho thi hoa,28.0,phan đinh phung,hc1,,Bánh mỳ Ốp-la,0914-101313,,,32a8029259,,da nang,,,hc1,,,,False
+747,Mỳ Cô Chi,,trinh thi kim chi,48.0,phan đinh phung,hc1,,Bánh mỳ,0935-469921,,2024-01-05,32a8031370,2020-05-21,da nang,,,hc1,2023-11-06,2027-01-04,60.0,True
+748,Áo Bà Ba,,mai duy khanh,,phan đinh phung,hc1,hai chau,Cà phê giải khát,0993-681615,,,32a8024495,2016-03-08,da nang,,hai chau,hc1,,,,False
+749,Mr Đần Coffee & Tea,,nguyen thi thu ha,17.0,phan ke binh,tp,,Ăn uống giải khát,0935-898255,,2024-09-09,32a8035886,2022-12-10,da nang,,,tp,2024-07-11,2027-09-09,60.0,True
+750,Thens Coffee,,le ton hoai bao,17.0,phan thanh tai,bt,,Ăn uống giải khát,0932-546431,,,32a8037262,,da nang,,,bt,,,,False
+751,Bún Bò Bà Rơi,,đoan thi minh trang,,phan thanh tai,htđ,,Ăn uống giải khát,0905-546696,,,32a8035850,,da nang,,,htđ,,,,False
+752,Gear Chapter II,,phan thi bich tra,,phan thanh tai,htđ,,Ăn uống giải khát,0935-109770,,,32a8038383,2023-06-12,da nang,,,htđ,,,,False
+753,Hiếu Ngọc Thiên,,nguyen ngoc thien hieu,,phan thanh tai,htđ,,Ăn uống giải khát,0905-850800,,2024-06-03,32a8038894,,da nang,,,htđ,2024-04-04,2027-06-03,60.0,True
+754,BO STEAK HOUSE,,vo thi dieu my,,phan thanh tai,htđ,,Ăn uống giải khát,0787-912179,,,32a8036231,,da nang,,,htđ,,,,False
+755,Ikigai Garden PTT,,bui đuc nhat,,phan thanh tai,bt,,Ăn uống giải khát,0937-372089,,,32a8036457,,da nang,,,bt,,,,False
+756,Mì quảng Bà Ngân 3,,vo đan thuy,,phan thanh tai,bt,hai chau,Mỳ quảng,0236-3832720,,2023-06-09,32a8025629,,da nang,,hai chau,bt,2023-04-10,2026-06-08,60.0,True
+757,Lẫu bò Già Lang,,duong van phuc,,phan thanh tai,bt,hai chau,Ăn uống giải khát,0988-197872,,,32a8019542,,da nang,,hai chau,bt,,,,False
+758,Café Express,,phan thi hoi,2.0,quang trung,tt,hai chau,Cà phê giải khát,0919-304444,,2021-06-11,32a8025917,2017-04-03,da nang,,hai chau,tt,2021-04-12,2024-06-10,60.0,False
+759,Mia Coffee,,huynh thi bao uyen,9.0,quang trung,hc1,hai chau,Cà phê giải khát,0905-428555,,,32a8025834,,da nang,,hai chau,hc1,,,,False
+760,Lucky,,vo đinh dung,25.0,quang trung,hc1,,Ăn uống giải khát,0906-495588,,2023-06-01,32a8031737,,da nang,,,hc1,2023-04-02,2026-05-31,60.0,True
+761,Cháo Ếch Sigapore Đà Thành,,nguyen thi thu thuy,29.0,quang trung,hc1,,Ăn uống giải khát,0967-276666,,2023-06-09,32a8035975,,da nang,,,hc1,2023-04-10,2026-06-08,60.0,True
+762,Kim Restaurant,,ho nhu hau,37.0,quang trung,hc1,,Ăn uống giải khát,0905-588507,,,32a8038028,2023-09-10,da nang,,,hc1,,,,False
+763,Quán Chay An Lạc,,nguyen thi thuy diem,38.0,quang trung,tt,hai chau,Thức ăn chay,0968-989567,,,32a8022770,2015-01-13,da nang,,hai chau,tt,,,,False
+764,Bán bánh mì thịt (Đ/Tiến),,nguyen thi thu thao,56.0,quang trung,tt,,Bánh mỳ ,0236-3898474,,,32a8030222,2019-09-04,da nang,,,tt,,,,False
+765,Bún Bò Hà,,nguyen thi thu h a,59.0,quang trung,hc1,,Ăn uống giải khát,0787-777655,,,32a8035547,,da nang,,,hc1,,,,False
+766,Quán Tây Hồ,,nguyen chi cuong,86.0,quang trung,tt,,Ăn uống giải khát,0904-130141,,,32a8035997,,da nang,,,tt,,,,False
+767,Angel Coffee,,mai thi binh,87.0,quang trung,hc1,,Ăn uống giải khát,0906-911366,,2023-09-05,32a8036686,2023-03-08,da nang,,,hc1,2023-07-07,2026-09-04,60.0,True
+768,Căn tin THCS Nguyễn Huệ,,phan thi le quyen,116.0,quang trung,tt,,Ăn uống giải khát,0905-699556,,,0401879490,2021-03-10,da nang,,,tt,,,,False
+769,Quán Ăn Hồi Ký Mì Gia,,nguyen thi ngoc thuy,120.0,quang trung,tt,,Ăn uống giải khát,0906-111888,,,32a8034737,2022-04-12,da nang,,,tt,,,,False
+770,Chay Tâm Phúc,,tran thi thao,132.0,quang trung,tt,,Ăn uống giải khát,0972-624014,,2023-03-08,32a8027797,,da nang,,,tt,2023-01-07,2026-03-07,60.0,True
+771,Bánh Mỳ Ba Hưng,,nguyen thi mai hien,141.0,quang trung,tt,,Bánh mỳ thịt,0905-095680,,2023-02-11,32a8031889,,da nang,,,tt,2022-12-13,2026-02-10,60.0,True
+772,Bánh Mỳ Ông Tý,,ho viet quang,184.0,quang trung,tb,,Bánh mì thịt,0906-099012,,,32a8026779,2017-09-29,da nang,,,tb,,,,False
+773,Quán Cơm Bình Dân,,nguyen thi đo quyen,186.0,quang trung,tb,hai chau,Quán cơm,0792-659679,,2023-01-08,32a8000488,2003-01-12,da nang,,hai chau,tb,2022-11-09,2026-01-07,60.0,True
+774,ĐồngTiến Bakery,,nguyen thi thuy lan,206.0,quang trung,tb,,Bánh mì thịt,0236-3863370,,,32a8036439,2023-01-11,da nang,,,tb,,,,False
+775,Hot Hot,,ho gia han,,quang trung,tt,hai chau,Ăn uống giải khát,0934-817131,,2023-12-01,32a8025946,2017-04-07,da nang,,hai chau,tt,2023-10-02,2026-11-30,60.0,True
+776,Tiến Thành,,trinh van minh,3.0,thai phien,pn,hai chau,Ăn uống giải khát,0779-533563,,,32a8017487,2011-05-12,da nang,,hai chau,pn,,,,False
+777,BREWHAHA,,nguyen thi nhan,16.0,thai phien,pn,,Ăn uống giải khát,0905-905089,,2021-08-11,32a8028187,2018-07-05,da nang,,,pn,2021-06-12,2024-08-10,60.0,False
+778,Cơm Huế,,nguyen thi kim phuong,20.0,thai phien,pn,,Ăn uống giải khát,0905-021414,,,32a8034182,2022-02-16,da nang,,,pn,,,,False
+779,Cơm Huế Xưa,,le thi thuy,22.0,thai phien,pn,hai chau,Ăn uống giải khát,0905-121808,,,32a8005547,,da nang,,hai chau,pn,,,,False
+780,Nhà Hàng Chin Meshi,,nguyen kim chinh,23.0,thai phien,pn,,Ăn uống giải khát,0906-425162,,,32a8036340,2022-12-22,da nang,,,pn,,,,False
+781,80 Foods T.Sushi,,le phuong thuy,44.0,thai phien,pn,,Ăn uống giải khát,0979-071184,,,32a8036659,2023-08-12,da nang,,,pn,,,,False
+782,Cà Phê Hiền Quyên,,pham xuan thanh,48.0,thai phien,pn,,Cà phê giải khát,0905-028651,,2020-09-11,0895/hkd,2000-10-18,da nang,,,pn,2020-07-13,2023-09-11,60.0,False
+783,Khói Lam Chiều,,nguyen anh bao,50.0,thai phien,pn,,Ăn uống giải khát,0974-458347,,,32a8036694,,da nang,,,pn,,,,False
+784,Mỳ Quảng Túy Loan,,nguyen thi chung,53.0,thai phien,pn,,Ăn uống giải khát,0762-500750,,,32a8037866,,da nang,,,pn,,,,False
+785,Phở Bát Đá,,nguyen thi thu,60.0,thai phien,pn,,Ăn uống giải khát,0975-598230,,,32a8037796,,da nang,,,pn,,,,False
+786,Shin Sushi,,nguyen thanh sinh,69.0,thai phien,pn,,Ăn uống giải khát,0904-838776,,,32a8033800,2021-11-29,da nang,,,pn,,,,False
+787,On The Radio,,nguyen van huu hieu,76.0,thai phien,pn,,Cà phê giải khát,0901-777795,,2023-06-02,32a8021151,2019-11-21,da nang,,,pn,2023-04-03,2026-06-01,60.0,True
+788,Hồng Quyên,,nguyen thi tuyet,105.0,thai phien,pn,hai chau,Ăn uống giải khát,0795-641735,,2021-06-04,32a8021189,,da nang,,hai chau,pn,2021-04-05,2024-06-03,60.0,False
+789,Quán Cơm gà A Hải,,tran huu hai,100.0,thai phien,pn,hai chau,Cơm gà,0905-312642,,2022-05-08,32a8017664,2011-06-29,da nang,,hai chau,pn,2022-03-09,2025-05-07,60.0,False
+790,Edo Sushi,,đo van đong,,thai phien,pn,,Ăn uống giải khát,0981-398883,,2023-12-01,32a8034746,,da nang,,,pn,2023-10-02,2026-11-30,60.0,True
+791,Michi Sushi,,nguyen phuong thao,32.0,thai phien,pn,,Ăn uống giải khát,0768-494818,,,32a8031352,2020-05-19,da nang,,,pn,,,,False
+792,Thai Restaurant,,tran ngoc cac,46.0,thai phien,pn,,Ăn uống giải khát,0906-444934,,,32a8032364,2021-01-05,da nang,,,pn,,,,False
+793,Ẩm thực Hà nội,,trinh thi hong huong,58.0,thai phien,pn,hai chau,Ăn uống giải khát,0935-755628,,,32a8021935,,da nang,,hai chau,pn,,,,False
+794,Hủ Tiếu Nam Vang Quỳnh Anh,,luu hoang thien,60.0,thai phien,pn,hai chau,Hủ tiếu,0905-128795,,,32a8017064,,da nang,,hai chau,pn,,,,False
+795,Hoa Đà,,mai van linh,,thai phien,pn,,Ăn uống giải khát,0939-953588,,2021-06-11,32a8033001,2021-06-01,da nang,,,pn,2021-04-12,2024-06-10,60.0,False
+796,Nghĩa Gia Viên,,truong thi hong an,306.0,thang long,hcn,hai chau,Ăn uống giải khát,0932-234357,,2022-06-04,32a8034684,2022-04-06,da nang,,hai chau,hcn,2022-04-05,2025-06-03,60.0,False
+797,Nhà Hàng Lộc,,le thi thuan,,thang long,hcn,,Ăn uống giải khát,0967-404096,,2024-04-08,32a8038714,,da nang,,,hcn,2024-02-08,2027-04-08,60.0,True
+798,Quán Bà Mận,,le thi van anh,79.0,thanh thuy,tb,,Ăn uống giải khát,0396-379999,,,32a8031655,,da nang,,,tb,,,,False
+799,Hai O quán,,vo nguyen ngan ha,220.0,thanh thuy,tb,,Ăn uống giải khát,0708-081323,,,32a8037600,,da nang,,,tb,,,,False
+800,Quán Lan,,vu mong hung,23.0,thanh thuy,tb,hai chau,Ăn uống giải khát,0236-3519712,,,32a8014991,,da nang,,hai chau,tb,,,,False
+801,Wings House,,nguyen thi my dung,,thi sach,htt,,Cà phê giải khát,0963-529494,,2021-08-02,32a8029639,2019-05-09,da nang,,,htt,2021-06-03,2024-08-01,60.0,False
+802,Neko Coffee,,nguyen thanh uyen,10.0,tien son 8,hcn,,Ăn uống giải khát,0938-942220,,,32a8039619,,da nang,,,hcn,,,,False
+803,Chris Hotdog,,tran thi minh hanh,15.0,tien son 10,hcn,,Ăn uống giải khát,0979-333743,,,32a8036870,,da nang,,,hcn,,,,False
+804,Chè Bà Ba,,trinh vu hoai thanh,11.0,tien son 14,hcn,,Ăn uống giải khát,0788-535414,,,32a8037613,,da nang,,,hcn,,,,False
+805,Nhà Hàng Chay Từ Tâm,,le thi phuong thao,25.0,tieu la,hcb,,Ăn uống giải khát,0914-747879,,,32a8035706,2022-09-07,da nang,,,hcb,,,,False
+806,Dong Ha Food,,đinh van đong,30.0,tieu la,hcn,,Ăn uống giải khát,0978-434224,,,32a8032554,2021-02-26,da nang,,,hcn,,,,False
+807,Pâtisserie De Lux,,nguyen nhu tri,84.0,tieu la,hcb,,Ăn uống giải khát,0943-803589,,,32a8037555,,da nang,,,hcb,,,,False
+808,Lò Bánh Mỳ Thiện Nhân,,phan minh trieu,132.0,tieu la,htt,,Bánh mỳ thịt,0901-995335,,,32a8034457,2022-03-14,da nang,,,htt,,,,False
+809,Mỳ quảng Huệ,,nguyen thi hue,135.0,tieu la,hcb,hai chau,Mỳ quảng,0906-444071,,2022-10-01,32a8033368,2021-10-08,da nang,,hai chau,hcb,2022-08-02,2025-09-30,60.0,False
+810,Bia Hơi Đê,,lam thi trieu,187.0,tieu la,hcb,,Ăn uống giải khát,0913-846470,,,32a8037759,,da nang,,,hcb,,,,False
+811,Quán Cô Lý 2,,tran quang son,211.0,tieu la,hcb,hai chau,Ăn uống giải khát,0935-718939,,,32a8021878,2014-10-07,da nang,,hai chau,hcb,,,,False
+812,Bánh Canh Cua K+,,đang duy khanh,305.0,tieu la,hcb,,Ăn uống giải khát,0905-408058,,2021-08-11,32a8033546,2021-10-28,da nang,,,hcb,2021-06-12,2024-08-10,60.0,False
+813,Hoàng Sơn,,đo thanh hoang,,tieu la,hcb,hai chau,Ăn uống giải khát,0905-700770,,2023-12-08,32a8036803,,da nang,,hai chau,hcb,2023-10-09,2026-12-07,60.0,True
+814,Ốc Phụng,,đang phung,33.0,to huu,hcn,,Ăn uống giải khát,0941-136345,,,32a8032882,,da nang,,,hcn,,,,False
+815,Tana,,le đuc tan,58.0,to huu,hcn,,Ăn uống giải khát,0905-676366,,,32a8037679,,da nang,,,hcn,,,,False
+816,Mẹt Quán,,mai sinh,81.0,to huu,hcn,,Ăn uống giải khát,0943-398800,,2023-12-06,32a8032828,,da nang,,,hcn,2023-10-07,2026-12-05,60.0,True
+817,Cháo Hải Yến,,nguyen thi hai,88.0,to huu,hcn,,Ăn uống giải khát,0905-513595,,2022-04-05,32a8029939,2019-07-08,da nang,,,hcn,2022-02-04,2025-04-04,60.0,False
+818,2 Phệ,,nguyen the truong,128.0,to huu,hcn,,Ăn uống giải khát,0933-000443,,,32a8033395,2021-10-12,da nang,,,hcn,,,,False
+819,Pizza Zone 7,,bui hoang lan,160.0,to huu,hcn,,Ăn uống giải khát,0916-290684,,2023-12-06,32a8031400,,da nang,,,hcn,2023-10-07,2026-12-05,60.0,True
+820,Trà Sữa Nọng,,chau huynh đuc,,to huu,hcn,,Ăn uống giải khát,0764-077493,,,32a8036751,2023-03-16,da nang,,,hcn,,,,False
+821,Cơm Bình Dân Thùy Dương,,tang thanh hoa,30.0,to huu,hcn,,Ăn uống giải khát,0917-456468,,,32a8039744,,da nang,,,hcn,,,,False
+822,Lẫu Cua Ông Định,,ho thuy van,,to huu,hcn,,Ăn uống giải khát,0905-868873,,2024-09-06,32a8039726,,da nang,,,hcn,2024-07-08,2027-09-06,60.0,True
+823,Quán Hoa Mập,,phan thi kim ty,,tong phuoc pho,hcb,hai chau,Ăn uống giải khát,0902-949324,,,32a8024815,,da nang,,hai chau,hcb,,,,False
+824,Ba Tô,,phan thi kim dung,2.0,tran binh trong,hc1,,Ăn uống giải khát,0905-163356,,2023-03-08,32a8032031,,da nang,,,hc1,2023-01-07,2026-03-07,60.0,True
+825,Mỳ quảng Bà Mua,,nguyen quang đong,19.0,tran binh trong,pn,hai chau,Ăn uống giải khát,0985-000075,,2022-04-05,32a8016969,,da nang,,hai chau,pn,2022-02-04,2025-04-04,60.0,False
+826,Chiều Nay,,le thi kim,56.0,tran binh trong,hc2,hai chau,Ăn uống giải khát,0905-146597,,,32a8015714,,da nang,,hai chau,hc2,,,,False
+827,Quán Bún Bò Hạnh,,nguyen thi can,76.0,tran binh trong,hc2,,Ăn uống giải khát,0977-386837,,,32a8037696,,da nang,,,hc2,,,,False
+828,Quán Ăn Chị Tâm,,phan thi thanh tam,79.0,tran binh trong,pn,,Ăn uống giải khát,0949-535536,,2022-11-07,32a8033082,2021-06-22,da nang,,,pn,2022-09-08,2025-11-06,60.0,True
+829,Ăn Vặt Dì Yến,,huynh thi kim yen,84.0,tran binh trong,hc2,,Ăn uống giải khát,0934-357550,,2023-08-09,32a8032641,,da nang,,,hc2,2023-06-10,2026-08-08,60.0,True
+830,Căn tin THCS Kim Đồng,,phan huu an,87.0,tran binh trong,hc2,,Ăn uống giải khát,0905-233577,,,0401554083,2021-07-02,da nang,,,hc2,,,,False
+831,Tiệm Ăn Triều Hợp,,vuong chi vy,26.0,tran binh trong,hc1,hai chau,Ăn uống giải khát,0935-525283,,,32a8024318,,da nang,,hai chau,hc1,,,,False
+832,Cháo Lộc,,nguyen thi loc,4.0,tran binh trong,hc1,hai chau,Cháo,0236-3822346,,,32a8016673,,da nang,,hai chau,hc1,,,,False
+833,Bò kho Ngã 5 (Bánh mỳ),,nguyen thi ha,,tran binh trong,hc1,hai chau,Bò kho,0934-986378,,,32a8006413,2000-02-03,da nang,,hai chau,hc1,,,,False
+834,Bánh Tráng Hoàng Ty,,vo thi dieu thao,,tran binh trong,hc2,,Ăn uống giải khát,0905-299905,,2023-12-06,32a8035662,,da nang,,,hc2,2023-10-07,2026-12-05,60.0,True
+835,Cơm Tấm Sạch A Thiện,,huynh cong vu,19.0,tran đuc thao,hcn,,Ăn uống giải khát,0776-999961,,2023-08-09,32a8037026,,da nang,,,hcn,2023-06-10,2026-08-08,60.0,True
+836,Dừa Hiền,,huynh thi ngoc hien,9.0,tran ke xuong,hc2,,Bán chè,0919-920564,,,32a8031356,2020-05-19,da nang,,,hc2,,,,False
+837,Quán Điểm Tâm Hồng,,pham thi phuong dung,9.0,tran ke xuong,hc2,hai chau,Bánh mỳ,0905-726642,,,32a8008927,,da nang,,hai chau,hc2,,,,False
+838,Cơm Hảo Hảo,,hua đinh dieu thanh,9.0,tran ke xuong,hc2,hai chau,Ăn uống giải khát,0773-494549,,,32a8001426,2005-08-08,da nang,,hai chau,hc2,,,,False
+839,Hồng Bún Mắm,,tran thi diem hong,,tran ke xuong,hc2,hai chau,Ăn uống giải khát,0935-333188,,2024-06-03,32a8019182,,da nang,,hai chau,hc2,2024-04-04,2027-06-03,60.0,True
+840,Bún Mắm Vân,,luong thanh,,tran ke xuong,hc2,hai chau,Ăn uống giải khát,0935-826910,,2024-07-11,32a8018269,2011-12-23,da nang,,hai chau,hc2,2024-05-12,2027-07-11,60.0,True
+841,ABC KIDS CAFE,,phan thi anh hong,20.0,tran phu,tt,,Ăn uống giải khát,0935-484748,,,32a8036840,,da nang,,,tt,,,,False
+842,Loco,,vuong hoai,49.0,tran phu,hc1,,Ăn uống giải khát,0901-955554,,,32a8032219,2020-12-11,da nang,,,hc1,,,,False
+843,Bottom Express,,nguyen ngoc đoan thuy,154.0,tran phu,hc1,,Ăn uống giải khát,0932-583010,,2024-07-04,32a8039091,,da nang,,,hc1,2024-05-05,2027-07-04,60.0,True
+844,Han's Coffee,,truong thien can,156.0,tran phu,hc1,,Cà phê giải khát,0905-368485,,,32a8035729,2022-09-13,da nang,,,hc1,,,,False
+845,Nhà Hàng Sam Deok,,nguyen đang khoa,160.0,tran phu,hc1,,Ăn uống giải khát,0946-446898,,,32a8035906,2022-10-14,da nang,,,hc1,,,,False
+846,Brio Mart & Coffee,,nguyen thi nga,161.0,tran phu,hc1,,Nước giải khát,0915-423355,,,32a8037898,,da nang,,,hc1,,,,False
+847,Hủ Tiếu Quỳnh Trang,,tran thi thuy trang,162.0,tran phu,hc1,,Ăn uống giải khát,0905-935294,,2023-06-09,32a8037219,,da nang,,,hc1,2023-04-10,2026-06-08,60.0,True
+848,Hủ Tiếu Mực Thuận Thành,,le van thanh,172.0,tran phu,pn,,Ăn uống giải khát,0988-878906,,2023-03-04,32a8036732,2023-03-15,da nang,,,pn,2023-01-03,2026-03-03,60.0,True
+849,Heylife,,nguyen thanh trung,172.0,tran phu,pn,,Cà phê giải khát,0903-846112,,,32a8036747,2023-03-16,da nang,,,pn,,,,False
+850,Tàu Hủ Xe Lam,,nguyen hoan anh thu,176.0,tran phu,pn,hai chau,Ăn uống giải khát,0905-717123,,2021-08-03,32a8031757,2020-09-10,da nang,,hai chau,pn,2021-06-04,2024-08-02,60.0,False
+851,Tiệm ăn Kimdy,,luu hue binh,182.0,tran phu,pn,hai chau,Ăn uống giải khát,0236-3816099,,2022-11-03,32a8010930,,da nang,,hai chau,pn,2022-09-04,2025-11-02,60.0,True
+852,Bánh Cuốn Tiến Hưng,,pham khac tien,190.0,tran phu,pn,hai chau,Bánh cuốn,0934-387321,,2023-10-03,32a8014631,2015-08-18,da nang,,hai chau,pn,2023-08-04,2026-10-02,60.0,True
+853,Quán Trà Tiên,,huynh anh vu,198.0,tran phu,pn,,Ăn uống giải khát,0908-466215,,2023-12-08,32a8038299,,da nang,,,pn,2023-10-09,2026-12-07,60.0,True
+854,Ichiban Su Shi,,le đuc anh,206.0,tran phu,pn,,Ăn uống giải khát,0982-444063,,2023-06-09,32a8036608,,da nang,,,pn,2023-04-10,2026-06-08,60.0,True
+855,Uri's Coffee,,nguyen thi thanh binh,240.0,tran phu,pn,,Cà phê giải khát,0913-408508,,,32a8034152,,da nang,,,pn,,,,False
+856,Cà Phê Muối Huế,,vo đang bao,254.0,tran phu,pn,,Cà phê giải khát,0942-059852,,2023-06-05,32a8035676,,da nang,,,pn,2023-04-06,2026-06-04,60.0,True
+857,4T Saloon,,đang van hien,260.0,tran phu,pn,,Ăn uống giải khát,0919-584111,,2021-08-01,32a8032254,2020-12-17,da nang,,,pn,2021-06-02,2024-07-31,60.0,False
+858,Jini,,le thi thanh hoa,162.0,tran phu,hc1,,Nước giải khát,0866-462210,,,32a8039482,2024-05-07,da nang,,,hc1,,,,False
+859,Deli Hanoi,,đinh thi dieu thu,266.0,tran phu,pn,,Ăn uống giải khát,0888-102109,,,32a8036530,2023-02-13,da nang,,,pn,,,,False
+860,Phở Bắc Hải,,tran trong phao,185.0,tran phu,hc1,hai chau,Phở,0935-195668,,,32a8017446,,da nang,,hai chau,hc1,,,,False
+861,Bánh Mì Ly Hội An Bread,,tran thi oanh,,tran phu,pn,,Ăn uống giải khát,0935-214274,,2020-10-07,32a8031426,2020-06-04,da nang,,,pn,2020-08-08,2023-10-07,60.0,False
+862,Ơ Kìa,,pham thi le minh,7.0,tran phu,tt,,Ăn uống giải khát,0905-725735,,,32a8035581,2022-09-13,da nang,,,tt,,,,False
+863,Em Cà Phê,,le hoi tuong,83.0,tran phu,hc1,,Cà phê giải khát,0906-449291,,,32a8029613,2019-05-04,da nang,,,hc1,,,,False
+864,Bún xương 89,,luu nguyen chau,89.0,tran phu,hc1,hai chau,Bún bò Huế,0236-3810364,,2024-04-08,32a8021981,2014-05-08,da nang,,hai chau,hc1,2024-02-08,2027-04-08,60.0,True
+865,Corner Coffee,,đang quang huan,,tran phu,hc1,,Ăn uống giải khát,0905-400225,,,32a8036523,2023-02-10,da nang,,,hc1,,,,False
+866,Your Space,,truc bao chau,,tran phu,hc1,,Ăn uống giải khát,0932-250933,,,32a8031704,2020-07-24,da nang,,,hc1,,,,False
+867,Xôi chè Bà Hậu,,tran thi hau,4.0,tran quoc toan,hc1,hai chau,"Xôi, chè",0236-3873159,,2022-12-05,32a8018746,2012-05-09,da nang,,hai chau,hc1,2022-10-06,2025-12-04,60.0,True
+868,Phở Cù Hà Nội,,cu xuan tuan,5.0,tran quoc toan,hc1,,Ăn uống giải khát,0963-565068,,2021-10-11,32a8033548,2021-10-29,da nang,,,hc1,2021-08-12,2024-10-10,60.0,False
+869,Phở Thảo,,tran nguyen hoang,8.0,tran quoc toan,hc1,,Ăn uống giải khát,0904-772707,,,32a8035835,2022-04-10,da nang,,,hc1,,,,False
+870,Lẫu nướng Hà Nội,,đao duy hung,11.0,tran quoc toan,pn,hai chau,Ăn uống giải khát,0963-814739,,2022-11-07,32a8024585,2016-04-04,da nang,,hai chau,pn,2022-09-08,2025-11-06,60.0,True
+871,Mango Zip,,đoan minh trung,17.0,tran quoc toan,pn,,Ăn uống giải khát,0905-667228,,,32a8037603,,da nang,,,pn,,,,False
+872,Cà Phê Hoài Niệm,,tran thi hong trinh,21.0,tran quoc toan,pn,,Cà phê giải khát,0935-074979,,2023-10-07,32a8036363,,da nang,,,pn,2023-08-08,2026-10-06,60.0,True
+873,Bún Bò Bà Thương,,truong thi hong,23.0,tran quoc toan,pn,hai chau,Bún bò Huế,0986-780760,,,32a8025557,2016-12-22,da nang,,hai chau,pn,,,,False
+874,Omori Drinks,,nguyen nguyet hoa,29.0,tran quoc toan,pn,,Ăn uống giải khát,0979-426267,,2024-05-07,32a8036573,,da nang,,,pn,2024-03-08,2027-05-07,60.0,True
+875,Phở Bắc Hải,,tran van long,30.0,tran quoc toan,hc1,,Phở tô,0935-195668,,,32a8035521,2022-07-29,da nang,,,hc1,,,,False
+876,Labicicleta,,tran thi trinh,33.0,tran quoc toan,pn,,Ăn uống giải khát,0905-900388,,,32a8034984,2022-10-05,da nang,,,pn,,,,False
+877,Lê Thị Mỹ Lan,,le thi my lan,34.0,tran quoc toan,hc1,,Cà phê giải khát,0905-297297,,,32a8038014,,da nang,,,hc1,,,,False
+878,Tiệm Bánh An Le,,đoan man tiep,37.0,tran quoc toan,pn,,Sản xuất bánh,0935-234250,,,32a8032331,2020-12-28,da nang,,,pn,,,,False
+879,Quán Nướng Yên Nhật,,vu khanh ngan,38.0,tran quoc toan,hc1,,Ăn uống giải khát,0905-570035,,2022-10-08,32a8035511,2022-07-28,da nang,,,hc1,2022-08-09,2025-10-07,60.0,False
+880,Cà Phê Muối House,,le thi hieu,39.0,tran quoc toan,pn,,Ăn uống giải khát,0935-261991,,,32a8037509,,da nang,,,pn,,,,False
+881,1920,,nguyen van minh tuan,53.0,tran quoc toan,pn,hai chau,Cà phê giải khát,0901-444448,,,32a8027304,2018-01-05,da nang,,hai chau,pn,,,,False
+882,Hichi Coffee And Tea,,cao hoang vu,56.0,tran quoc toan,hc1,,Ăn uống giải khát,0901-171739,,,32a8036791,2023-03-24,da nang,,,hc1,,,,False
+883,Bánh Xèo Làng,,pham thi hong nga,58.0,tran quoc toan,hc1,,Ăn uống giải khát,0965-475079,,2024-08-05,32a8039543,,da nang,,,hc1,2024-06-06,2027-08-05,60.0,True
+884,Quán Cơm Huế Ngon,,huynh thi ngoc lam,65.0,tran quoc toan,pn,hai chau,Ăn uống giải khát,0905-309799,,2022-04-05,32a8016279,2010-06-07,da nang,,hai chau,pn,2022-02-04,2025-04-04,60.0,False
+885,Moah,,nguyen thai anh,69.0,tran quoc toan,pn,,Ăn uống giải khát,0902-777959,,2024-05-07,32a8036135,,da nang,,,pn,2024-03-08,2027-05-07,60.0,True
+886,Tàu Hủ Singapore 1995,,nguyen hoang anh tuan,71.0,tran quoc toan,pn,,Ăn uống giải khát,0796-814814,,2023-06-09,32a8037127,,da nang,,,pn,2023-04-10,2026-06-08,60.0,True
+887,Boulevard Gelato & Coffee,,tran thi truc,77.0,tran quoc toan,pn,,Ăn uống giải khát,0905-697088,,,32a8034042,2022-01-06,da nang,,,pn,,,,False
+888,91CC,,vo thi thanh van,91.0,tran quoc toan,pn,,Cà phê giải khát,0905-777008,,,32a8013543,,da nang,,,pn,,,,False
+889,Hoa Sen,,nguyen vo thuy my,,tran quoc toan,hc1,,Ăn uống giải khát,0935-815903,,,32a8038334,,da nang,,,hc1,,,,False
+890,Bảo Long,,nguyen chi dung,35.0,tran quoc toan,pn,,Ăn uống giải khát,0905-065052,,2024-06-03,32a8035174,2022-07-06,da nang,,,pn,2024-04-04,2027-06-03,60.0,True
+891,Phở Liên Hội An,,luu nguyen thanh an,,tran quoc toan,pn,,Ăn uống giải khát,0905-580759,,,32a8035320,,da nang,,,pn,,,,False
+892,Cơm Gà Tài 68,,nguyen le bao khanh,14.0,tran quy cap,tt,,Ăn uống giải khát,0905-063686,,2020-05-10,32a8026845,2017-10-11,da nang,,,tt,2020-03-11,2023-05-10,60.0,False
+893,Ngồi Chill,,huynh anh quoc,37.0,tran quy cap,tt,,Ăn uống giải khát,0705-998445,,,32a8035777,2022-09-21,da nang,,,tt,,,,False
+894,Quán Tailor,,thai thi thuy trang,57.0,tran quy cap,tt,,Ăn uống giải khát,0339-457477,,,32a8031903,2010-10-06,da nang,,,tt,,,,False
+895,Quán Cơm Lão Đạt,,nguyen tan đat,60.0,tran quy cap,tt,,Ăn uống giải khát,0898-689954,,,32a8034999,2022-05-11,da nang,,,tt,,,,False
+896,Quán 49,,tran thi kim yen,,tran quy cap,tt,,Ăn uống giải khát,0793-606229,,,32a8032648,2021-03-17,da nang,,,tt,,,,False
+897,ND,,nguyen xuan ngo,114.0,tran tan moi,htt,,Ăn uống giải khát,0912-534678,,,32a8037347,,da nang,,,htt,,,,False
+898,The Open Beer,,duong kim anh,,tran thi ly,hcb,,Ăn uống giải khát,0982-289816,,2024-05-10,32a8039053,,da nang,,,hcb,2024-03-11,2027-05-10,60.0,True
+899,Bánh Bèo,,tran thi ngoc nhung,17.0,tran van giap,hcb,,Bánh bèo,0915-858943,,2022-11-11,32a8021889,2014-07-24,da nang,,,hcb,2022-09-12,2025-11-10,60.0,True
+900,Tâm Nhật,,nguyen thi yen linh,40.0,tran van tru,bt,,Ăn uống giải khát,0917-908804,,,32a8032707,2021-03-26,da nang,,,bt,,,,False
+901,Knights Sul Zip,,đoan minh trung,,tran van tru,bt,,Ăn uống giải khát,0905-667228,,,32a8039712,,da nang,,,bt,,,,False
+902,SR NIGHT,,bui viet vu,,tran van tru,bt,,Ăn uống giải khát,0908-688911,,,32a8032865,2021-04-22,da nang,,,bt,,,,False
+903,Vice City Beer,,bui tran minh hai,,tran van tru,bt,,Ăn uống giải khát,0905-775122,,,32a8035146,2022-06-01,da nang,,,bt,,,,False
+904,Nhà Hàng The69,,le trong tin,,tran van tru,bt,,Ăn uống giải khát,0987-244104,,2023-12-09,32a8033915,,da nang,,,bt,2023-10-10,2026-12-08,60.0,True
+905,Izakaya Go,,pham vu thanh tinh,,tran van tru,bt,,Ăn uống giải khát,0911-533365,,,32a8035935,2022-10-20,da nang,,,bt,,,,False
+906,Cafe' De Ante,,nguyen anh tu,,tran van tru,bt,,Cà phê giải khát,0982-947433,,2024-05-10,32a8032452,,da nang,,,bt,2024-03-11,2027-05-10,60.0,True
+907,Khói Garden,,truong thi hong an,,tran van tru,bt,,Ăn uống giải khát,0905-760056,,2023-07-11,32a8038043,2023-11-10,da nang,,,bt,2023-05-12,2026-07-10,60.0,True
+908,Toxic City,,nguyen đang khoa,,tran van tru,bt,,Ăn uống giải khát,0903-535020,,,32a8028886,,da nang,,,bt,,,,False
+909,Toxic Corner,,nguyen thi hong đuc,,tran van tru,bt,,Ăn uống giải khát,0905-320118,,,32a8038199,2023-03-11,da nang,,,bt,,,,False
+910,Thái Thị Nhân,,thai thi nhan,94.0,trieu nu vuong,hc2,,Ăn uống giải khát,0903-531189,,,32a8018278,,da nang,,,hc2,,,,False
+911,A Dùng,,tran ngoc dung,137.0,trieu nu vuong,hc2,,Ăn uống giải khát,0975-220978,,2024-05-07,32a8032727,,da nang,,,hc2,2024-03-08,2027-05-07,60.0,True
+912,Ali Bali Food,,vu đinh bac,151.0,trieu nu vuong,tt,,Ăn uống giải khát,0896-400586,,2022-07-04,32a8032846,2021-04-16,da nang,,,tt,2022-05-05,2025-07-03,60.0,False
+913,Eri & Milk Tea Fast Food,,nguyen thi thu thuy,184.0,trieu nu vuong,nd,,Ăn uống giải khát,0914-557588,,,32a8037959,2023-02-10,da nang,,,nd,,,,False
+914,Quán Bò tái,,tran thi dung,103.0,trieu nu vuong,hc2,hai chau,Bê thui,0914-169183,,,32a8012872,,da nang,,hai chau,hc2,,,,False
+915,The Power House Cafe',,phan van tuan,,trieu nu vuong,nd,,Ăn uống giải khát,0932-555525,,2023-09-05,32a8032406,2021-01-13,da nang,,,nd,2023-07-07,2026-09-04,60.0,True
+916,Cháo Dinh Dưỡng Như Quỳnh,,đoan the vu,163.0,trieu nu vuong,nd,hai chau,Cháo dinh dưỡng,0902-979436,,2023-01-08,32a8014616,2009-04-05,da nang,,hai chau,nd,2022-11-09,2026-01-07,60.0,True
+917,Yovis,,đoan thi yen,11.0,trinh cong son,hcn,,Nước giải khát,0974-200323,,2022-01-07,32a8035154,2022-06-02,da nang,,,hcn,2021-11-08,2025-01-06,60.0,False
+918,Cửa Hàng Kem & Trà Sữa Mixue,,nguyen pham khanh linh,133.0,trinh cong son,hcn,,"Bán kem , trà sữa",0866-375120,,,32a8036043,,da nang,,,hcn,,,,False
+919,Hà An Xanh,,tran thi thu ha,40.0,trung nhi,htt,,Ăn uống giải khát,0915-728228,,2023-10-03,32a8033207,2022-10-25,da nang,,,htt,2023-08-04,2026-10-02,60.0,True
+920,Cốm,,nguyen thi nhat ha,3.0,trung nu vuong,bh,,Ăn uống giải khát,0935-991504,,2022-05-10,32a8035680,2022-08-31,da nang,,,bh,2022-03-11,2025-05-09,60.0,False
+921,Quán Lẫu Gà Lá É,,vothi ly,9.0,trung nu vuong,bh,,Ăn uống giải khát,0369-957610,,,32a8039093,,da nang,,,bh,,,,False
+922,SINH TỐ 24 ,,tran thi minh trang,24.0,trung nu vuong,bh,,Ăn uống giải khát,0935-786983,,,32a8031536,,da nang,,,bh,,,,False
+923,Cơm Quê Má Hai,,trinh thi le quyen,35.0,trung nu vuong,bh,,Ăn uống giải khát,0979-361753,,2023-12-09,32a8037832,,da nang,,,bh,2023-10-10,2026-12-08,60.0,True
+924,Bánh Mỳ Đệ Nhất,,mai quang khai,81.0,trung nu vuong,bh,hai chau,Bánh mì thịt,0905-284386,,2022-09-09,32a8023060,,da nang,,hai chau,bh,2022-07-11,2025-09-08,60.0,False
+925,Quán Đại Lộc,,le phu loc,97.0,trung nu vuong,bh,hai chau,Bánh tráng thịt heo,0985-001797,,,32a8022527,2014-02-12,da nang,,hai chau,bh,,,,False
+926,Cám,,nguyen minh nhat,103.0,trung nu vuong,bh,,Ăn uống giải khát,0905-919557,,2023-12-08,32a8038174,,da nang,,,bh,2023-10-09,2026-12-07,60.0,True
+927,Bún Bò Bà Thủy,,nguyen thi kim anh,157.0,trung nu vuong,bt,,Ăn uống giải khát,0903-500054,,2022-09-09,32a8029140,2019-11-01,da nang,,,bt,2022-07-11,2025-09-08,60.0,False
+928,Gu Cà Phê,,vo thi kim loan,171.0,trung nu vuong,htđ,,Cà phê giải khát,0901-940446,,,32a8024169,,da nang,,,htđ,,,,False
+929,Tiệm Ăn Đà Thành,,le thi thuan,187.0,trung nu vuong,htđ,,Ăn uống giải khát,0796-504125,,,32a8029766,2019-06-01,da nang,,,htđ,,,,False
+930,Bánh Mỳ Ông Tý,,ho viet toan,189.0,trung nu vuong,htđ,,Bánh mì thịt,0906-099012,,,32a8027034,2017-11-22,da nang,,,htđ,,,,False
+931,SX & Bán Bánh Mì Thịt,,nguyen thi kim mang,195.0,trung nu vuong,htđ,hai chau,Bánh mì thịt,0905-424430,,2023-09-05,32a8001724,2001-05-17,da nang,,hai chau,htđ,2023-07-07,2026-09-04,60.0,True
+932,Mixue Trưng Nữ Vương,,phan thi my le,218.0,trung nu vuong,bt,,Ăn uống giải khát,0774-469433,,,32a8037853,,da nang,,,bt,,,,False
+933,Cà Phê Bơ,,le nguyen khanh ngoc,220.0,trung nu vuong,bt,hai chau,Cà phê giải khát,0905-456016,,2022-12-09,32a8024174,2015-12-22,da nang,,hai chau,bt,2022-10-10,2025-12-08,60.0,True
+934,Căn tin THCS Trần Hưng Đạo,,phan thi le quyen,228.0,trung nu vuong,bt,,Ăn uống giải khát,0905-705600,,,0401879490,2021-03-10,da nang,,,bt,,,,False
+935,Bánh Cuốn 232,,nguyen thi le hang,232.0,trung nu vuong,bt,,Bánh cuốn,0913-465870,,2021-01-07,32a8031625,2021-08-07,da nang,,,bt,2020-11-08,2024-01-07,60.0,False
+936,Bún Cô Đào,,tran thi đao,233.0,trung nu vuong,htđ,hai chau,Bún bò Huế,0905-308163,,,32a8005219,2003-01-01,da nang,,hai chau,htđ,,,,False
+937,Tôm Nhất Anh,,phung minh anh,492.0,trung nu vuong,htt,,Ăn uống giải khát,0973-938186,,,32a8038682,2024-05-02,da nang,,,htt,,,,False
+938,Gà Ác Ngũ Trảo,,vo van anh,260.0,trung nu vuong,bt,,Ăn uống giải khát,0931-865685,,2023-12-08,32a8031886,2020-02-10,da nang,,,bt,2023-10-09,2026-12-07,60.0,True
+939,Phở Hoàn Kiếm,,tran quang tang,94.0,trung nu vuong,bh,hai chau,Ăn uống giải khát,0352-491978,,,32a8011406,2007-05-01,da nang,,hai chau,bh,,,,False
+940,Phở Nam Định Gia Truyền,,che thi phuong,300.0,trung nu vuong,bt,,Ăn uống giải khát,0772-454749,,,32a8039681,2024-08-08,da nang,,,bt,,,,False
+941,Bún Lê gia Cơ sở 3,,le thuy tien,347.0,trung nu vuong,htđ,,Ăn uống giải khát,0363-662894,,,32a8038545,2024-09-01,da nang,,,htđ,,,,False
+942,Bún Chả Cá,,ho tam,468.0,trung nu vuong,htđ,,Ăn uống giải khát,0913-469964,,2023-05-09,32a8037741,,da nang,,,htđ,2023-03-10,2026-05-08,60.0,True
+943,Lê Văn Hiền,,le van hien,480.0,trung nu vuong,htt,,Ăn uống giải khát,0914-085465,,2023-01-08,32a8031368,,da nang,,,htt,2022-11-09,2026-01-07,60.0,True
+944,Cơm Gà Lan,,nguyen thi se,520.0,trung nu vuong,htt,,Ăn uống giải khát,0973-813522,,2023-05-10,32a8026532,,da nang,,,htt,2023-03-11,2026-05-09,60.0,True
+945,December,,mai thi thuy,522.0,trung nu vuong,htt,,Ăn uống giải khát,0328-044188,,2022-01-11,32a8035577,2022-10-12,da nang,,,htt,2021-11-12,2025-01-10,60.0,False
+946,Quỳnh Coffee,,ta hoai bao,528.0,trung nu vuong,htt,hai chau,Cà phê giải khát,0985-003979,,,32a8027669,,da nang,,hai chau,htt,,,,False
+947,Phương Thảo,,le thi thu ha,546.0,trung nu vuong,htt,,Cà phê giải khát,0236-3613880,,,32a8020376,,da nang,,,htt,,,,False
+948,Color Coffee,,phan thi kim cuc,550.0,trung nu vuong,htt,,Ăn uống giải khát,0935-045099,,,32a8038397,2023-11-12,da nang,,,htt,,,,False
+949,Thu Bồn,,truong thi thuy lieu,556.0,trung nu vuong,htt,,Ăn uống giải khát,0903-990338,,,32a8032383,,da nang,,,htt,,,,False
+950,Nguyễn Hoài Phương,,nguyen hoai phuong,193.0,trung nu vuong,htđ,,Ăn uống giải khát,0961-040440,,,32a8037549,,da nang,,,htđ,,,,False
+951,Bao Fam,,nguyen the thinh,564.0,trung nu vuong,htt,,Ăn uống giải khát,0986-678678,,2022-05-10,32a8035783,2022-09-22,da nang,,,htt,2022-03-11,2025-05-09,60.0,False
+952,Bánh Mỳ Quốc Doanh,,hoang thi ly,217.0,trung nu vuong,htđ,hai chau,Bánh mì thịt,0934-700658,,,32a8030297,2019-09-17,da nang,,hai chau,htđ,,,,False
+953,Bếp Nhà Sương,,đang bao quyen,,trung nu vuong,bt,,Ăn uống giải khát,0902-084810,,,32a8033934,2021-12-22,da nang,,,bt,,,,False
+954,Quán Bánh Xèo Cô Ba,,nguyen van tan,248.0,trung nu vuong,bt,hai chau,Bánh xèo,0905-100896,,2022-01-07,32a8024640,2016-04-21,da nang,,hai chau,bt,2021-11-08,2025-01-06,60.0,False
+955,Bún Thịt Nướng Bà Sáu,,le thi hanh em,277.0,trung nu vuong,htđ,,Bún tô,0923-744465,,,32a8029060,,da nang,,,htđ,,,,False
+956,"Cháo, xôi ",,pham ngoc mai,50.0,trung nu vuong,bh,hai chau,"Cháo, xôi",0236-3891185,,,32a8021847,,da nang,,hai chau,bh,,,,False
+957,Bánh mỳ Đệ Nhất,,mai thi thanh dieu,562.0,trung nu vuong,htt,hai chau,Bánh mì thịt,037-4605457,,2022-09-09,32a8015044,2009-07-27,da nang,,hai chau,htt,2022-07-11,2025-09-08,60.0,False
+958,Bánh Tôm Bà Phúc,,đoanthi phuc,,trung nu vuong,htđ,hai chau,Ăn uống giải khát,0915-050216,,2023-09-05,32a8035942,2022-10-20,da nang,,hai chau,htđ,2023-07-07,2026-09-04,60.0,True
+959,Đại Lộc Lạc Thảo Viên,,nguyen đang thanh son,29.0,truong chi cuong,hcn,hai chau,Ăn uống giải khát,0903-339839,,,32a8020199,,da nang,,hai chau,hcn,,,,False
+960,ELNINO,,phan thi my duyen,46.0,truong thi,htt,,Ăn uống giải khát,0976-079150,,2023-06-09,32a8037232,,da nang,,,htt,2023-04-10,2026-06-08,60.0,True
+961,Ka Ka quán,,nguyen chi cuong,,truong thi,htt,,Ăn uống giải khát,0905-812185,,2022-02-12,32a8035929,2022-10-19,da nang,,,htt,2021-12-14,2025-02-11,60.0,False
+962,Cafe Sân Bay,,tran phuoc trong,,truong thi,htt,,Ăn uống giải khát,0905-312018,,2023-12-01,32a8037985,2023-03-10,da nang,,,htt,2023-10-02,2026-11-30,60.0,True
+963,Bún Bà Diệu,,đang van hung,,truong thi,htt,,Ăn uống giải khát,0935-100166,,2023-10-03,32a8035688,2022-09-05,da nang,,,htt,2023-08-04,2026-10-02,60.0,True
+964,3 Ku Beer,,đang ngoc ha,24.0,truong thi 2,htt,,Ăn uống giải khát,0916-555517,,,32a8036562,2023-02-17,da nang,,,htt,,,,False
+965,Quán Bê Thui,,phan xuan phuong,3.0,tue tinh,bt,,Ăn uống giải khát,0917-666567,,,32a8038536,2024-05-01,da nang,,,bt,,,,False
+966,19 Hồi Nớ,,nguyen thanh binh,15.0,xo viet nghe tinh,hcn,,Ăn uống giải khát,0865-425139,,,32a8038066,2023-12-10,da nang,,,hcn,,,,False
+967,Anh Quân Bakery 67,,tran van đat,52.0,xo viet nghe tinh,hcn,,Sản xuất bánh,0981-125165,,2024-03-08,32h8007880,,da nang,,,hcn,2024-01-08,2027-03-08,60.0,True
+968,Chicken Plus,,tran thi thu lanh,70.0,xo viet nghe tinh,hcn,,Ăn uống giải khát,0916-111255,,,32a8036074,2022-11-11,da nang,,,hcn,,,,False
+969,Huân,,đoan bao anh,88.0,xo viet nghe tinh,hcn,,Ăn uống giải khát,0349-800658,,,32a8036819,,da nang,,,hcn,,,,False
+970,Trà Sữa Calm Land,,phan ngoc hoang huy,106.0,xo viet nghe tinh,hcn,,Ăn uống giải khát,0905-848048,,2023-06-05,32a8035948,,da nang,,,hcn,2023-04-06,2026-06-04,60.0,True
+971,Tôn Nữ Xuân Phương,,ton nu xuan phuong,150.0,xo viet nghe tinh,hcn,,Ăn uống giải khát,0969-472777,,,32a8036849,,da nang,,,hcn,,,,False
+972,Trúc Quán,,le quang tho,174.0,xo viet nghe tinh,hcn,,Ăn uống giải khát,0905-439779,,,32a8038062,2023-12-10,da nang,,,hcn,,,,False
+973,Đổi Gió,,ho thi phu,180.0,xo viet nghe tinh,hcn,,Ăn uống giải khát,0905-220660,,2023-03-04,32a8032457,2021-01-22,da nang,,,hcn,2023-01-03,2026-03-03,60.0,True
+974,Bin Anh Em,,đoan thanh xuan,1284.0,xo viet nghe tinh,hcn,,Ăn uống giải khát,0987-979888,,,32a8029746,2019-05-29,da nang,,,hcn,,,,False
+975,Chuẩn,,nguyen thanh trung,146.0,xo viet nghe tinh,hcn,,Ăn uống giải khát,0905-569507,,,32a8037823,,da nang,,,hcn,,,,False
+976,Café Chapi,,chau hoai thuong,,xo viet nghe tinh,hcn,,Ăn uống giải khát,0905-003873,,2023-07-04,32a8032931,2021-04-14,da nang,,,hcn,2023-05-05,2026-07-03,60.0,True
+977,Inspire Coffee,,le ngoc diep,,xo viet nghe tinh,hcn,,Ăn uống giải khát,0905-081186,,,32a8031252,2020-12-05,da nang,,,hcn,,,,False
+978,Sasin Mỳ Cay 7 Cấp Độ Hàn Quốc,,nguyen thi nhung,86.0,xv-nghe tinh,hcn,,Ăn uống giải khát,0935-751119,,2022-09-09,32a8029831,2019-06-18,da nang,,,hcn,2022-07-11,2025-09-08,60.0,False
+979,Bonpas Bakery & Coffee,,nguyen thi phuong lan,2.0,xv-nghe tinh,hcn,hai chau,Sản xuất bánh,0236-3799679,,,32a8032526,2021-02-08,da nang,,hai chau,hcn,,,,False
+980,Nhà Hàng Dê Mỹ Danh 3,,tran kim thanh,35.0,xv-nghe tinh,hcn,,Ăn uống giải khát,0973-513599,,2022-02-12,32a8036083,2022-11-14,da nang,,,hcn,2021-12-14,2025-02-11,60.0,False
+981,Quán Bin Yên Báy,,đang thi bay,5.0,yen bai,hc1,hai chau,Ăn uống giải khát,0236-3817233,,,32a8018284,,da nang,,hai chau,hc1,,,,False
+982,Mixue Yên Bái,,nguyen hoa binh,27.0,yen bai,hc1,,Ăn uống giải khát,0909-887927,,,32a8036565,2023-02-17,da nang,,,hc1,,,,False
+983,Nguyễn Thị Hồng Thu,,nguyen thi hong thu,29.0,yen bai,hc1,,Ăn uống giải khát,0909-123888,,2023-03-07,32a8030738,,da nang,,,hc1,2023-01-06,2026-03-06,60.0,True
+984,Căn tin THCS Phù Đổng,,phan thi le quyen,34.0,yen bai,tt,,Ăn uống giải khát,0905-699556,,,0401879490,2021-03-10,da nang,,,tt,,,,False
+985,Cà phê,,nguyen thi tan,54.0,yen bai,hc1,,Ăn uống giải khát,0912-029639,,2022-06-06,32a8031806,2020-09-22,da nang,,,hc1,2022-04-07,2025-06-05,60.0,False
+986,Món Ăn Ngon,,vuong yen hong,81.0,yen bai,pn,,Ăn uống giải khát,0905-311368,,2021-07-05,32a8032622,2021-03-11,da nang,,,pn,2021-05-06,2024-07-04,60.0,False
+987,Căn tin THCS Trưng Vương,,phan thi le quyen,88.0,yen bai,hc1,,Ăn uống giải khát,0905-699556,,,0401879490,2021-03-10,da nang,,,hc1,,,,False
+988,Bún Chả Chào Bà - Hà Nội Xưa,,vo phan đoan trinh,98.0,yen bai,pn,,Ăn uống giải khát,0935-292363,,,32a8035354,2022-07-04,da nang,,,pn,,,,False
+989,Phở Ngon,,hoang thanh ha,116.0,yen bai,pn,hai chau,Phở,0914-332303,,2022-02-12,32a8023711,2015-07-22,da nang,,hai chau,pn,2021-12-14,2025-02-11,60.0,False
+990,Cơm tấm Bà Lang,,đang nguyen quynh nhu,120.0,yen bai,pn,hai chau,Cơm bình dân,0905-266556,,,32a8023256,2015-12-05,da nang,,hai chau,pn,,,,False
+991,Bếp Của Ngoại Cơ Sở 2,,nguyen thu hang,,yen bai,pn,,Ăn uống giải khát,0901-971205,,2022-07-12,32a8036040,2022-11-04,da nang,,,pn,2022-05-13,2025-07-11,60.0,False
+992,Cà Phê Tranh,,phan thi vinh,,yen bai,hc1,,Cà phê giải khát,0905-290089,,2023-08-09,32a8031917,,da nang,,,hc1,2023-06-10,2026-08-08,60.0,True
+993,Bòng Coffee,,đang hoai khanh,50.0,yen bai,hc1,,Ăn uống giải khát,0905-226882,,2022-11-11,32a8035623,2022-08-19,da nang,,,hc1,2022-09-12,2025-11-10,60.0,True
+994,Pink Coffee,,nguyeen thi mi ni,73.0,yen bai,pn,,Cà phê giải khát,0788-019412,,2024-06-10,32a8038903,,da nang,,,pn,2024-04-11,2027-06-10,60.0,True
+995,Cơm Tấm Ốp Lết 1940,,le hoa tien,89.0,yen bai,pn,,Ăn uống giải khát,0905-595499,,2024-06-10,32a8038902,,da nang,,,pn,2024-04-11,2027-06-10,60.0,True
+996,Litte Mango Bingsu,,đo thi thu hien,93.0,yen bai,pn,,Ăn uống giải khát,0913-099050,,2024-06-03,32d8013627,,da nang,,,pn,2024-04-04,2027-06-03,60.0,True
+997,Bếp Của Mẹ - Quán Cơm,,nguyen tien dung,75.0,yen bay,pn,,Ăn uống giải khát,0905-921432,,2022-07-04,32a8034587,2022-03-24,da nang,,,pn,2022-05-05,2025-07-03,60.0,False

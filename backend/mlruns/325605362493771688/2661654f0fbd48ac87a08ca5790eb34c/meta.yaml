@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/tranl/OneDrive/Desktop/PMNM/backend/mlruns/325605362493771688/2661654f0fbd48ac87a08ca5790eb34c/artifacts
+end_time: 1761582698657
+entry_point_name: ''
+experiment_id: '325605362493771688'
+lifecycle_stage: active
+run_id: 2661654f0fbd48ac87a08ca5790eb34c
+run_name: spiffy-loon-437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761582693727
+status: 3
+tags: []
+user_id: tranl

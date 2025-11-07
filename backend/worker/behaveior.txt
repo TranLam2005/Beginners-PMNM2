@@ -1,0 +1,11 @@
+python -m worker.ingests.ingest --config worker/configs/danh_sach_cac_ho_kinh_doanh_dich_vu_an_uong_co_gia.json --input data/processed/danh_sach_cac_ho_kinh_doanh_dich_vu_an_uong_co_gia_clean.csv --source-id lam
+
+python -m worker.ingests.ingest --config worker/configs/DDK_DAT_2023.json --input data/processed/DDK_DAT_clean.csv --source-id lam
+
+python -m worker.ingests.ingest --config worker/configs/danh_sach_cac_co_so_san_xuat_kinh_doanh_thuc_pham.json --input data/processed/danh_sach_cac_co_so_san_xuat_kinh_doanh_thuc_pham_clean.csv --source-id lam
+
+python -m worker.ingests.ingest --config worker/configs/danh_sach_cac_co_so_cap_giay_chung_nhan_an_toan_th.json --input data/processed/danh_sach_cac_co_so_cap_giay_chung_nhan_an_toan_th_clean.csv --source-id lam
+
+python -m worker.ingests.ingest --config worker/configs/BAN_CONG_BO_DAT_2023.json --input data/processed/BAN_CONG_BO_DAT_2023_clean.csv --source-id lam
+
+python -m worker.ingests.ingest --config worker/configs/Quang_Ngai.json --input data/processed/Quang_Ngai_clean.csv --source-id lam

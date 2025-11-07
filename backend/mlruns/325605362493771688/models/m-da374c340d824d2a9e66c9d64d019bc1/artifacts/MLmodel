@@ -1,0 +1,49 @@
+artifact_path: file:///C:/Users/tranl/OneDrive/Desktop/PMNM/backend/mlruns/325605362493771688/models/m-da374c340d824d2a9e66c9d64d019bc1/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.14
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+is_signature_from_type_hint: false
+mlflow_version: 3.5.1
+model_id: m-da374c340d824d2a9e66c9d64d019bc1
+model_size_bytes: 114616
+model_uuid: m-da374c340d824d2a9e66c9d64d019bc1
+prompts: null
+run_id: 3df5480c2fa1409681f7de0813398ad4
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "attp_cert_issued_count_lag1", "required":
+    true}, {"type": "double", "name": "attp_cert_issued_count_lag2", "required": true},
+    {"type": "double", "name": "attp_cert_issued_count_lag3", "required": true}, {"type":
+    "double", "name": "attp_valid_count_lag1", "required": true}, {"type": "double",
+    "name": "attp_valid_count_lag2", "required": true}, {"type": "double", "name":
+    "attp_valid_count_lag3", "required": true}, {"type": "double", "name": "processing_time_p50_lag1",
+    "required": true}, {"type": "double", "name": "processing_time_p50_lag2", "required":
+    true}, {"type": "double", "name": "processing_time_p50_lag3", "required": true},
+    {"type": "double", "name": "processing_time_p90_lag1", "required": true}, {"type":
+    "double", "name": "processing_time_p90_lag2", "required": true}, {"type": "double",
+    "name": "processing_time_p90_lag3", "required": true}, {"type": "double", "name":
+    "facility_count_lag1", "required": true}, {"type": "double", "name": "facility_count_lag2",
+    "required": true}, {"type": "double", "name": "facility_count_lag3", "required":
+    true}, {"type": "double", "name": "certified_facility_rate_lag1", "required":
+    true}, {"type": "double", "name": "certified_facility_rate_lag2", "required":
+    true}, {"type": "double", "name": "certified_facility_rate_lag3", "required":
+    true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-11-06 15:14:34.973539'

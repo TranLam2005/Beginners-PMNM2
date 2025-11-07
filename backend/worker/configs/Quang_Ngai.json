@@ -1,0 +1,32 @@
+{
+  "source_name": "Quang_Ngai",
+  "column_map": {
+    "ten_co_so": "ten_co_so",
+    "đia_chi": "dia_chi",
+    "huyen": "quan_huyen",
+    "loai_hinh": "loai_hinh_co_so",
+    "scn": "so_gcn_attp",
+    "ngay_cap": "ngay_cap_gcn_attp",
+    "chu_co_so": "ten_chu_co_so",
+    "đien_thoai": "dien_thoai",
+    "tinh_thanh": "tinh_thanh"
+  },
+  "date_cols": [
+    "ngay_cap_gcn_attp"
+  ],
+  "text_normalize": [
+    "ten_co_so",
+    "dia_chi",
+    "quan_huyen",
+    "loai_hinh_co_so",
+    "so_gcn_attp",
+    "ten_chu_co_so",
+    "dien_thoai",
+    "tinh_thanh"
+  ],
+  "date_issue_cols": [
+    "ngay_cap_gcn_attp",
+    "so_gcn_attp"
+  ],
+  "date_dayfirst": false
+}

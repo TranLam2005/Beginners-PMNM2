@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/tranl/OneDrive/Desktop/PMNM/backend/mlruns/325605362493771688/3d262a3c47e24f22ae9c9af457e20578/artifacts
+end_time: 1761582224848
+entry_point_name: ''
+experiment_id: '325605362493771688'
+lifecycle_stage: active
+run_id: 3d262a3c47e24f22ae9c9af457e20578
+run_name: grandiose-skink-51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761582212914
+status: 3
+tags: []
+user_id: tranl

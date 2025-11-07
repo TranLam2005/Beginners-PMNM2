@@ -1,0 +1,37 @@
+{
+  "source_name": "danh_sach_cac_co_so_san_xuat_kinh_doanh_thuc_pham",
+  "column_map": {
+    "ten_co_so": "ten_co_so",
+    "đia_chỉ": "dia_chi",
+    "đia_chi": "dia_chi",
+    "giay_đang_ky_kinh_doanh": "so_gcn_dkkd",
+    "ngay_cap": "ngay_cap_dkkd",
+    "loai_hinh_sxkd": "loai_hinh_co_so",
+    "so_giay_chung_nhan_co_so_đu_đk_attp": "so_gcn_attp",
+    "ngay_cap_giay_chung_nhan_co_so_đu_đk_attp": "ngay_cap_gcn_attp",
+    "xep_loai": "xep_loai",
+    "so_đien_thoai": "dien_thoai",
+    "tinh_thanh": "tinh_thanh"
+  },
+  "date_cols": [
+    "ngay_cap_dkkd",
+    "ngay_cap_gcn_attp"
+  ],
+  "date_dayfirst": false,
+  "text_normalize": [
+    "ten_co_so",
+    "dia_chi",
+    "loai_hinh_co_so",
+    "so_gcn_dkkd",
+    "so_gcn_attp",
+    "xep_loai",
+    "dien_thoai",
+    "tinh_thanh"
+  ],
+  "date_issue_cols": [
+    "ngay_cap_dkkd",
+    "ngay_cap_gcn_attp",
+    "so_gcn_dkkd",
+    "so_gcn_attp"
+  ]
+}

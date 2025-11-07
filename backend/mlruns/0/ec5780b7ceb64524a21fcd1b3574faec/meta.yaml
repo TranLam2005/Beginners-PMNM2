@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/tranl/OneDrive/Desktop/PMNM/backend/mlruns/0/ec5780b7ceb64524a21fcd1b3574faec/artifacts
+end_time: 1762441165882
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec5780b7ceb64524a21fcd1b3574faec
+run_name: clean-yak-859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762441165801
+status: 4
+tags: []
+user_id: tranl

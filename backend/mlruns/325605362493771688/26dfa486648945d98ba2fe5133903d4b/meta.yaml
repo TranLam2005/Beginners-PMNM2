@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/tranl/OneDrive/Desktop/PMNM/backend/mlruns/325605362493771688/26dfa486648945d98ba2fe5133903d4b/artifacts
+end_time: 1762438786074
+entry_point_name: ''
+experiment_id: '325605362493771688'
+lifecycle_stage: active
+run_id: 26dfa486648945d98ba2fe5133903d4b
+run_name: nosy-mule-1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762438771661
+status: 3
+tags: []
+user_id: tranl

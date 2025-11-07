@@ -1,0 +1,42 @@
+{
+  "source_name": "danh_sach_cac_ho_kinh_doanh_dich_vu_an_uong_co_gia",
+  "column_map": {
+    "ten_co_so_san_xuat_kinh_doanh": "ten_co_so",
+    "ten_chu_co_so": "ten_chu_co_so",
+    "so_nha": "so_nha",
+    "đuong": "duong",
+    "đường": "duong",
+    "phuong": "phuong_xa",
+    "phường": "phuong_xa",
+    "quan": "dia_chi",
+    "quận": "dia_chi",
+    "đien_thoai": "dien_thoai",
+    "so_gcn20_attpcnđk": "so_gcn_attp",
+    "ngay_cap_gcn_attp": "ngay_cap_gcn_attp",
+    "gcn_đkkd": "so_gcn_dkkd",
+    "ncap_đkkd": "ngay_cap_dkkd",
+    "tinh_thanh": "tinh_thanh"
+  },
+  "date_cols": [
+    "ngay_cap_gcn_attp",
+    "ngay_cap_dkkd"
+  ],
+  "date_dayfirst": false,
+  "text_normalize": [
+    "ten_co_so",
+    "ten_chu_co_so",
+    "phuong_xa",
+    "dia_chi",
+    "duong",
+    "dien_thoai",
+    "so_gcn_attp",
+    "so_gcn_dkkd",
+    "tinh_thanh"
+  ],
+  "date_issue_cols": [
+    "ngay_cap_gcn_attp",
+    "ngay_cap_dkkd",
+    "so_gcn_attp",
+    "so_gcn_dkkd"
+  ]
+}

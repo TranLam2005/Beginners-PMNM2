@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/tranl/OneDrive/Desktop/PMNM/backend/mlruns/325605362493771688/4066d891ec0e4dcbade0bca205bce7aa/artifacts
+end_time: 1762438803496
+entry_point_name: ''
+experiment_id: '325605362493771688'
+lifecycle_stage: active
+run_id: 4066d891ec0e4dcbade0bca205bce7aa
+run_name: valuable-grub-133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762438797642
+status: 3
+tags: []
+user_id: tranl

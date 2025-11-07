@@ -1,0 +1,16 @@
+name: pmnm
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - fastapi
+  - uvicorn
+  - pydantic
+  - requests
+  - numpy
+  - pandas
+  - sqlalchemy
+  - psycopg2
+  - minio

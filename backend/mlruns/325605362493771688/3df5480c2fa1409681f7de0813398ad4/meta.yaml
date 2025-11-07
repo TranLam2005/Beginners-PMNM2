@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/tranl/OneDrive/Desktop/PMNM/backend/mlruns/325605362493771688/3df5480c2fa1409681f7de0813398ad4/artifacts
+end_time: 1762442081944
+entry_point_name: ''
+experiment_id: '325605362493771688'
+lifecycle_stage: active
+run_id: 3df5480c2fa1409681f7de0813398ad4
+run_name: loud-toad-737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762442074163
+status: 3
+tags: []
+user_id: tranl

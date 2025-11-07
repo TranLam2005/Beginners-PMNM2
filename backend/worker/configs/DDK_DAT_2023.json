@@ -1,0 +1,62 @@
+{
+  "source_name": "DDK_DATA_clean",
+  "column_map": {
+    "số_tiếp_nhận": "so_bien_nhan",
+    "ngày tiếp nhận": "ngay_tiep_nhan",
+    "hạn_trả": "han_tra",
+    "ket_qua": "ket_qua",
+    "tên_cơ_sở": "ten_co_so", 
+    "chủ_cơ_sở": "ten_chu_co_so",
+    "địa_chỉ": "dia_chi",
+    "tpphườngxãthị_xãthị_trấn": "phuong_xa",
+    "tpphuongxathi_xathi_tran": "phuong_xa",
+    "quận_huyện": "quan_huyen",
+    "quan_huyen": "quan_huyen",
+    "số_gcn_đkkd": "so_gcn_dkkd",
+    "so_gcn_đkkd": "so_gcn_dkkd",
+    "loại_hình_kinh_doanh": "loai_hinh_co_so",
+    "loai_hinh_kinh_doanh": "loai_hinh_co_so",
+    "số_gcn_cấp_mới_nhất": "so_gcn_attp",
+    "so_gcn_cap_moi_nhat": "so_gcn_attp",
+    "ngày_cấp_mới_nhất": "ngay_cap_gcn_attp",
+    "ngay_cap_moi_nhat": "ngay_cap_gcn_attp",
+    "số_gcn_cấp_lần_2": "so_gcn_cap_lan_2",
+    "so_gcn_cap_lan_2": "so_gcn_cap_lan_2",
+    "ngày_cấp_lần_2": "ngay_cap_lan_2",
+    "ngay_cap_lan_2": "ngay_cap_lan_2",
+    "số_gcn_cấp_đầu_tiên": "so_gcn_cap_dau_tien",
+    "so_gcn_cap_dau_tien": "so_gcn_cap_dau_tien",
+    "ngày_cấp": "ngay_cap_dau_tien",
+    "ngay_cap": "ngay_cap_dau_tien",
+    "chuyên_viên_thụ_lý": "chuyen_vien_thu_ly",
+    "chuyen_vien_thu_ly": "chuyen_vien_thu_ly",
+    "tinh_thanh": "tinh_thanh"
+  },
+  "date_cols": [
+    "ngay_tiep_nhan",
+    "han_tra",
+    "ngay_cap_gcn_attp",
+    "ngay_cap_lan_2",
+    "ngay_cap_dau_tien"
+  ],
+  "date_dayfirst": false,
+  "text_normalize": [
+    "ten_co_so",
+    "ten_chu_co_so",
+    "dia_chi",
+    "phuong_xa",
+    "quan_huyen",
+    "loai_hinh_co_so",
+    "ket_qua",
+    "so_bien_nhan",
+    "tinh_thanh"
+  ],
+  "date_issue_cols": [
+    "ngay_cap_gcn_attp",
+    "ngay_cap_lan_2",
+    "ngay_cap_dau_tien",
+    "so_gcn_cap_dau_tien",
+    "so_gcn_cap_lan_2",
+    "so_gcn_attp"
+  ]
+}
